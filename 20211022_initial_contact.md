@@ -1,0 +1,5 @@
+Greetings and salutations, 
+
+My name is Aask, and I'm an independent security researcher who also has a soft spot in my heart for the many blockchain driven communities that have sprung up in recent years. One of these products, zoogame.app, landed on my doorstep not long ago, causing me to invest in the product (it's a great idea! and investment!). Being it is what I do, i also started to to dig in to the platform as a whole. In my research into the various facets of your technology stacks, I've identified, what I believe to be, a CRITICAL security bug/vulnerability, and would like to securely disclose the details as soon as possible, so that the potential bug may be quickly remediated (and not be taken advantage of by someone with ill-will or criminal intent). I would love to have a conversation at your earliest convenience to share the findings, and happy to use whatever communications method your team prefers.
+
+Please let me know how you would like to proceed.

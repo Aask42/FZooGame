@@ -1,0 +1,432 @@
+20211027_04:24:18 Our rounds: 0.425089384240167  | Their rounds: -9.79591126621617
+20211027_04:24:18 Our Combat Power: 1459.65383333333  | Their Combat Power: 12978.5408628571
+20211027_04:24:18 Our Life: 259.429166666667  | Their Life: 2533.75
+20211027_04:24:18 Our Defense: 28.3725  | Their Defense: 344.634
+20211027_04:24:18 We would definitely lose this one to Lutyrlz....
+
+20211027_04:24:19 Our rounds: 2.92063626086508  | Their rounds: 7.12801455717829
+20211027_04:24:19 Our Combat Power: 1459.65383333333  | Their Combat Power: 2193.383
+20211027_04:24:19 Our Life: 259.429166666667  | Their Life: 363.325
+20211027_04:24:19 Our Defense: 28.3725  | Their Defense: 35.00875
+20211027_04:24:19 We would definitely lose this one to HAS....
+
+20211027_04:24:20 Our rounds: 0.674329785745446  | Their rounds: -19.5579338875812
+20211027_04:24:20 Our Combat Power: 1459.65383333333  | Their Combat Power: 7526.16819709091
+20211027_04:24:20 Our Life: 259.429166666667  | Their Life: 1528.94
+20211027_04:24:20 Our Defense: 28.3725  | Their Defense: 164.155090909091
+20211027_04:24:20 We would definitely lose this one to Stonkii....
+
+20211027_04:24:28 Our rounds: 4.11526686477512  | Their rounds: 11.4356503882572
+20211027_04:24:28 Our Combat Power: 1459.65383333333  | Their Combat Power: 1993.62166666667
+20211027_04:24:28 Our Life: 259.429166666667  | Their Life: 539.25
+20211027_04:24:28 Our Defense: 28.3725  | Their Defense: 38.825
+20211027_04:24:28 We would definitely lose this one to seeninwanderland....
+
+20211027_04:24:30 Our rounds: 5.97573733360206  | Their rounds: 4.60222197846969
+20211027_04:24:30 Our Combat Power: 1459.65383333333  | Their Combat Power: 1314.548
+20211027_04:24:30 Our Life: 259.429166666667  | Their Life: 269.225
+20211027_04:24:30 Our Defense: 28.3725  | Their Defense: 27.48125
+20211027_04:24:30 We would definitely lose this one to Chafe....
+
+20211027_04:24:32 Our rounds: 7.14031780108074  | Their rounds: 6.53520156957197
+20211027_04:24:32 Our Combat Power: 1459.65383333333  | Their Combat Power: 1362.405
+20211027_04:24:32 Our Life: 259.429166666667  | Their Life: 378.0625
+20211027_04:24:32 Our Defense: 28.3725  | Their Defense: 28.13
+20211027_04:24:32 We would definitely lose this one to Rukushi....
+
+20211027_04:26:05 Our rounds: 7.15566037735849  | Their rounds: 14.4944553163731
+20211027_04:26:05 Our Combat Power: 809.165  | Their Combat Power: 959.116
+20211027_04:26:05 Our Life: 202.266666666667  | Their Life: 222.2
+20211027_04:26:05 Our Defense: 16.8533333333333  | Their Defense: 24.04
+20211027_04:26:05 We would definitely lose this one to RICHARDM....
+
+20211027_04:26:24 Our rounds: 1.53626087066597  | Their rounds: -31.0328767123288
+20211027_04:26:24 Our Combat Power: 809.165  | Their Combat Power: 2721.7275
+20211027_04:26:24 Our Life: 202.266666666667  | Their Life: 566.35
+20211027_04:26:24 Our Defense: 16.8533333333333  | Their Defense: 57.62
+20211027_04:26:24 We would definitely lose this one to MaxTT....
+
+20211027_04:26:26 Our rounds: 6.62156263640332  | Their rounds: 16.5751479289941
+20211027_04:26:26 Our Combat Power: 809.165  | Their Combat Power: 1008.00966666667
+20211027_04:26:26 Our Life: 202.266666666667  | Their Life: 233.433333333333
+20211027_04:26:26 Our Defense: 16.8533333333333  | Their Defense: 25.2866666666667
+20211027_04:26:26 We would definitely lose this one to FriendlyV....
+
+20211027_04:26:28 Our rounds: 6.71164694170999  | Their rounds: 13.385518590998
+20211027_04:26:28 Our Combat Power: 809.165  | Their Combat Power: 957.472666666667
+20211027_04:26:28 Our Life: 202.266666666667  | Their Life: 205.2
+20211027_04:26:28 Our Defense: 16.8533333333333  | Their Defense: 24.04
+20211027_04:26:28 We would definitely lose this one to Can-Ada....
+
+20211027_04:26:40 Our rounds: 6.71164694170999  | Their rounds: 13.385518590998
+20211027_04:26:40 Our Combat Power: 809.165  | Their Combat Power: 957.472666666667
+20211027_04:26:40 Our Life: 202.266666666667  | Their Life: 205.2
+20211027_04:26:40 Our Defense: 16.8533333333333  | Their Defense: 24.04
+20211027_04:26:40 We would definitely lose this one to Can-Ada....
+
+20211027_04:26:53 Our rounds: 6.52187598363236  | Their rounds: 10.0528953229399
+20211027_04:26:53 Our Combat Power: 809.165  | Their Combat Power: 907.685047619048
+20211027_04:26:53 Our Life: 202.266666666667  | Their Life: 180.55
+20211027_04:26:53 Our Defense: 16.8533333333333  | Their Defense: 21.41
+20211027_04:26:53 We would definitely lose this one to Mesiban....
+
+20211027_04:27:03 Our rounds: 6.52187598363236  | Their rounds: 10.0528953229399
+20211027_04:27:03 Our Combat Power: 809.165  | Their Combat Power: 907.685047619048
+20211027_04:27:03 Our Life: 202.266666666667  | Their Life: 180.55
+20211027_04:27:03 Our Defense: 16.8533333333333  | Their Defense: 21.41
+20211027_04:27:03 We would definitely lose this one to Mesiban....
+
+20211027_04:27:05 Our rounds: 6.62156263640332  | Their rounds: 16.5751479289941
+20211027_04:27:05 Our Combat Power: 809.165  | Their Combat Power: 1008.00966666667
+20211027_04:27:05 Our Life: 202.266666666667  | Their Life: 233.433333333333
+20211027_04:27:05 Our Defense: 16.8533333333333  | Their Defense: 25.2866666666667
+20211027_04:27:05 We would definitely lose this one to Cloud9....
+
+20211027_04:27:05 Our rounds: 2.06739123028176  | Their rounds: -174.837962962963
+20211027_04:27:05 Our Combat Power: 809.165  | Their Combat Power: 2464.0605
+20211027_04:27:05 Our Life: 202.266666666667  | Their Life: 566.475
+20211027_04:27:05 Our Defense: 16.8533333333333  | Their Defense: 42.61
+20211027_04:27:05 We would definitely lose this one to assafera....
+
+20211027_04:27:06 Our rounds: 2.67277452319077  | Their rounds: 120.767386091127
+20211027_04:27:06 Our Combat Power: 809.165  | Their Combat Power: 1848.639
+20211027_04:27:06 Our Life: 202.266666666667  | Their Life: 503.6
+20211027_04:27:06 Our Defense: 16.8533333333333  | Their Defense: 35.2
+20211027_04:27:06 We would definitely lose this one to Manuel_85....
+
+20211027_04:27:08 Our rounds: 7.15566037735849  | Their rounds: 14.4944553163731
+20211027_04:27:08 Our Combat Power: 809.165  | Their Combat Power: 959.116
+20211027_04:27:08 Our Life: 202.266666666667  | Their Life: 222.2
+20211027_04:27:08 Our Defense: 16.8533333333333  | Their Defense: 24.04
+20211027_04:27:08 We would definitely lose this one to RICHARDM....
+
+20211027_04:27:10 Our rounds: 6.62156263640332  | Their rounds: 16.5751479289941
+20211027_04:27:10 Our Combat Power: 809.165  | Their Combat Power: 1008.00966666667
+20211027_04:27:10 Our Life: 202.266666666667  | Their Life: 233.433333333333
+20211027_04:27:10 Our Defense: 16.8533333333333  | Their Defense: 25.2866666666667
+20211027_04:27:10 We would definitely lose this one to Coromos....
+
+20211027_04:27:20 Our rounds: 6.71164694170999  | Their rounds: 13.385518590998
+20211027_04:27:20 Our Combat Power: 809.165  | Their Combat Power: 957.472666666667
+20211027_04:27:20 Our Life: 202.266666666667  | Their Life: 205.2
+20211027_04:27:20 Our Defense: 16.8533333333333  | Their Defense: 24.04
+20211027_04:27:20 We would definitely lose this one to Can-Ada....
+
+20211027_04:27:21 Our rounds: 6.52187598363236  | Their rounds: 10.0528953229399
+20211027_04:27:21 Our Combat Power: 809.165  | Their Combat Power: 907.685047619048
+20211027_04:27:21 Our Life: 202.266666666667  | Their Life: 180.55
+20211027_04:27:21 Our Defense: 16.8533333333333  | Their Defense: 21.41
+20211027_04:27:21 We would definitely lose this one to Mesiban....
+
+20211027_04:27:23 Our rounds: 6.62156263640332  | Their rounds: 16.5751479289941
+20211027_04:27:23 Our Combat Power: 809.165  | Their Combat Power: 1008.00966666667
+20211027_04:27:23 Our Life: 202.266666666667  | Their Life: 233.433333333333
+20211027_04:27:23 Our Defense: 16.8533333333333  | Their Defense: 25.2866666666667
+20211027_04:27:23 We would definitely lose this one to Cloud9....
+
+20211027_04:27:24 Our rounds: 2.06739123028176  | Their rounds: -174.837962962963
+20211027_04:27:24 Our Combat Power: 809.165  | Their Combat Power: 2464.0605
+20211027_04:27:24 Our Life: 202.266666666667  | Their Life: 566.475
+20211027_04:27:24 Our Defense: 16.8533333333333  | Their Defense: 42.61
+20211027_04:27:24 We would definitely lose this one to assafera....
+
+20211027_04:27:25 Our rounds: 2.67277452319077  | Their rounds: 120.767386091127
+20211027_04:27:25 Our Combat Power: 809.165  | Their Combat Power: 1848.639
+20211027_04:27:25 Our Life: 202.266666666667  | Their Life: 503.6
+20211027_04:27:25 Our Defense: 16.8533333333333  | Their Defense: 35.2
+20211027_04:27:25 We would definitely lose this one to Manuel_85....
+
+20211027_04:27:45 Our rounds: 7.62503141492837  | Their rounds: 10.8509541000516
+20211027_04:27:45 Our Combat Power: 809.165  | Their Combat Power: 894.118
+20211027_04:27:45 Our Life: 202.266666666667  | Their Life: 210.4
+20211027_04:27:45 Our Defense: 16.8533333333333  | Their Defense: 19.98
+20211027_04:27:45 We would definitely lose this one to Buutan....
+
+20211027_04:27:46 Our rounds: 1.53626087066597  | Their rounds: -31.0328767123288
+20211027_04:27:46 Our Combat Power: 809.165  | Their Combat Power: 2721.7275
+20211027_04:27:46 Our Life: 202.266666666667  | Their Life: 566.35
+20211027_04:27:46 Our Defense: 16.8533333333333  | Their Defense: 57.62
+20211027_04:27:46 We would definitely lose this one to MaxTT....
+
+20211027_04:27:48 Our rounds: 8.04241219350563  | Their rounds: 9.20086035737922
+20211027_04:27:48 Our Combat Power: 809.165  | Their Combat Power: 830.652666666667
+20211027_04:27:48 Our Life: 202.266666666667  | Their Life: 185.366666666667
+20211027_04:27:48 Our Defense: 16.8533333333333  | Their Defense: 19.2233333333333
+20211027_04:27:48 We would definitely lose this one to HanselChocolate....
+
+20211027_04:27:50 Our rounds: 6.52187598363236  | Their rounds: 10.0528953229399
+20211027_04:27:50 Our Combat Power: 809.165  | Their Combat Power: 907.685047619048
+20211027_04:27:50 Our Life: 202.266666666667  | Their Life: 180.55
+20211027_04:27:50 Our Defense: 16.8533333333333  | Their Defense: 21.41
+20211027_04:27:50 We would definitely lose this one to Mesiban....
+
+20211027_04:27:52 Our rounds: 6.62156263640332  | Their rounds: 16.5751479289941
+20211027_04:27:52 Our Combat Power: 809.165  | Their Combat Power: 1008.00966666667
+20211027_04:27:52 Our Life: 202.266666666667  | Their Life: 233.433333333333
+20211027_04:27:52 Our Defense: 16.8533333333333  | Their Defense: 25.2866666666667
+20211027_04:27:52 We would definitely lose this one to Cloud9....
+
+20211027_04:27:53 Our rounds: 2.06739123028176  | Their rounds: -174.837962962963
+20211027_04:27:53 Our Combat Power: 809.165  | Their Combat Power: 2464.0605
+20211027_04:27:53 Our Life: 202.266666666667  | Their Life: 566.475
+20211027_04:27:53 Our Defense: 16.8533333333333  | Their Defense: 42.61
+20211027_04:27:53 We would definitely lose this one to assafera....
+
+20211027_04:27:53 Our rounds: 2.67277452319077  | Their rounds: 120.767386091127
+20211027_04:27:53 Our Combat Power: 809.165  | Their Combat Power: 1848.639
+20211027_04:27:53 Our Life: 202.266666666667  | Their Life: 503.6
+20211027_04:27:53 Our Defense: 16.8533333333333  | Their Defense: 35.2
+20211027_04:27:53 We would definitely lose this one to Manuel_85....
+
+20211027_04:27:55 Our rounds: 6.62156263640332  | Their rounds: 16.5751479289941
+20211027_04:27:55 Our Combat Power: 809.165  | Their Combat Power: 1008.00966666667
+20211027_04:27:55 Our Life: 202.266666666667  | Their Life: 233.433333333333
+20211027_04:27:55 Our Defense: 16.8533333333333  | Their Defense: 25.2866666666667
+20211027_04:27:55 We would definitely lose this one to Coromos....
+
+20211027_04:27:57 Our rounds: 5.06891654832512  | Their rounds: 16.9921230994688
+20211027_04:27:57 Our Combat Power: 809.165  | Their Combat Power: 1138.0485
+20211027_04:27:57 Our Life: 202.266666666667  | Their Life: 309.2
+20211027_04:27:57 Our Defense: 16.8533333333333  | Their Defense: 21.1733333333333
+20211027_04:27:57 We would definitely lose this one to BHawk....
+
+20211027_04:28:05 Our rounds: 1.53626087066597  | Their rounds: -31.0328767123288
+20211027_04:28:05 Our Combat Power: 809.165  | Their Combat Power: 2721.7275
+20211027_04:28:05 Our Life: 202.266666666667  | Their Life: 566.35
+20211027_04:28:05 Our Defense: 16.8533333333333  | Their Defense: 57.62
+20211027_04:28:05 We would definitely lose this one to MaxTT....
+
+20211027_04:28:23 Our rounds: 7.48581297804096  | Their rounds: 7.2239795149872
+20211027_04:28:23 Our Combat Power: 809.165  | Their Combat Power: 804.495333333333
+20211027_04:28:23 Our Life: 202.266666666667  | Their Life: 159.866666666667
+20211027_04:28:23 Our Defense: 16.8533333333333  | Their Defense: 17.24
+20211027_04:28:23 We would definitely lose this one to Autia....
+
+20211027_04:28:59 Our rounds: 9.2622838215316  | Their rounds: 13.2140557446417
+20211027_04:28:59 Our Combat Power: 809.165  | Their Combat Power: 890.138333333333
+20211027_04:28:59 Our Life: 202.266666666667  | Their Life: 239.416666666667
+20211027_04:28:59 Our Defense: 16.8533333333333  | Their Defense: 21.2516666666667
+20211027_04:28:59 We would definitely lose this one to Lucki1....
+
+20211027_04:29:00 Our rounds: 5.65833644162626  | Their rounds: 6.78507992895204
+20211027_04:29:00 Our Combat Power: 809.165  | Their Combat Power: 879.941333333333
+20211027_04:29:00 Our Life: 202.266666666667  | Their Life: 165.533333333333
+20211027_04:29:00 Our Defense: 16.8533333333333  | Their Defense: 14.9733333333333
+20211027_04:29:00 We would definitely lose this one to Stepka....
+
+20211027_04:29:02 Our rounds: 5.06721280331356  | Their rounds: 69.3659136658465
+20211027_04:29:02 Our Combat Power: 809.165  | Their Combat Power: 1216.53033333333
+20211027_04:29:02 Our Life: 202.266666666667  | Their Life: 258.445833333333
+20211027_04:29:02 Our Defense: 16.8533333333333  | Their Defense: 35.6441666666667
+20211027_04:29:02 We would definitely lose this one to LimoT....
+
+20211027_04:29:03 Our rounds: 7.66258365955297  | Their rounds: 6.74455868607291
+20211027_04:29:03 Our Combat Power: 809.165  | Their Combat Power: 776.887333333333
+20211027_04:29:03 Our Life: 202.266666666667  | Their Life: 168.366666666667
+20211027_04:29:03 Our Defense: 16.8533333333333  | Their Defense: 14.4066666666667
+20211027_04:29:03 We would definitely lose this one to Clippers....
+
+20211027_04:29:05 Our rounds: 7.00126918195454  | Their rounds: 8.77895433487756
+20211027_04:29:05 Our Combat Power: 809.165  | Their Combat Power: 870.897333333333
+20211027_04:29:05 Our Life: 202.266666666667  | Their Life: 176.866666666667
+20211027_04:29:05 Our Defense: 16.8533333333333  | Their Defense: 19.2233333333333
+20211027_04:29:05 We would definitely lose this one to Yakisoba....
+
+20211027_04:29:06 Our rounds: 7.62503141492837  | Their rounds: 10.8509541000516
+20211027_04:29:06 Our Combat Power: 809.165  | Their Combat Power: 894.118
+20211027_04:29:06 Our Life: 202.266666666667  | Their Life: 210.4
+20211027_04:29:06 Our Defense: 16.8533333333333  | Their Defense: 19.98
+20211027_04:29:06 We would definitely lose this one to Buutan....
+
+20211027_04:29:07 Our rounds: 1.53626087066597  | Their rounds: -31.0328767123288
+20211027_04:29:07 Our Combat Power: 809.165  | Their Combat Power: 2721.7275
+20211027_04:29:07 Our Life: 202.266666666667  | Their Life: 566.35
+20211027_04:29:07 Our Defense: 16.8533333333333  | Their Defense: 57.62
+20211027_04:29:07 We would definitely lose this one to MaxTT....
+
+20211027_04:29:09 Our rounds: 6.52187598363236  | Their rounds: 10.0528953229399
+20211027_04:29:09 Our Combat Power: 809.165  | Their Combat Power: 907.685047619048
+20211027_04:29:09 Our Life: 202.266666666667  | Their Life: 180.55
+20211027_04:29:09 Our Defense: 16.8533333333333  | Their Defense: 21.41
+20211027_04:29:09 We would definitely lose this one to Mesiban....
+
+20211027_04:29:11 Our rounds: 6.62156263640332  | Their rounds: 16.5751479289941
+20211027_04:29:11 Our Combat Power: 809.165  | Their Combat Power: 1008.00966666667
+20211027_04:29:11 Our Life: 202.266666666667  | Their Life: 233.433333333333
+20211027_04:29:11 Our Defense: 16.8533333333333  | Their Defense: 25.2866666666667
+20211027_04:29:11 We would definitely lose this one to Cloud9....
+
+20211027_04:29:13 Our rounds: 8.04241219350563  | Their rounds: 9.20086035737922
+20211027_04:29:13 Our Combat Power: 809.165  | Their Combat Power: 830.652666666667
+20211027_04:29:13 Our Life: 202.266666666667  | Their Life: 185.366666666667
+20211027_04:29:13 Our Defense: 16.8533333333333  | Their Defense: 19.2233333333333
+20211027_04:29:13 We would definitely lose this one to HanselChocolate....
+
+20211027_04:29:14 Our rounds: 2.06739123028176  | Their rounds: -174.837962962963
+20211027_04:29:14 Our Combat Power: 809.165  | Their Combat Power: 2464.0605
+20211027_04:29:14 Our Life: 202.266666666667  | Their Life: 566.475
+20211027_04:29:14 Our Defense: 16.8533333333333  | Their Defense: 42.61
+20211027_04:29:14 We would definitely lose this one to assafera....
+
+20211027_04:29:15 Our rounds: 2.67277452319077  | Their rounds: 120.767386091127
+20211027_04:29:15 Our Combat Power: 809.165  | Their Combat Power: 1848.639
+20211027_04:29:15 Our Life: 202.266666666667  | Their Life: 503.6
+20211027_04:29:15 Our Defense: 16.8533333333333  | Their Defense: 35.2
+20211027_04:29:15 We would definitely lose this one to Manuel_85....
+
+20211027_04:29:17 Our rounds: 6.62156263640332  | Their rounds: 16.5751479289941
+20211027_04:29:17 Our Combat Power: 809.165  | Their Combat Power: 1008.00966666667
+20211027_04:29:17 Our Life: 202.266666666667  | Their Life: 233.433333333333
+20211027_04:29:17 Our Defense: 16.8533333333333  | Their Defense: 25.2866666666667
+20211027_04:29:17 We would definitely lose this one to Coromos....
+
+20211027_04:29:19 Our rounds: 6.30990992775404  | Their rounds: 5.75186072915352
+20211027_04:29:19 Our Combat Power: 809.165  | Their Combat Power: 802.117301587302
+20211027_04:29:19 Our Life: 202.266666666667  | Their Life: 151.983333333333
+20211027_04:29:19 Our Defense: 16.8533333333333  | Their Defense: 12.9466666666667
+20211027_04:29:19 We would definitely lose this one to Lifestyler-BR....
+
+20211027_04:29:20 Our rounds: 5.06891654832512  | Their rounds: 16.9921230994688
+20211027_04:29:20 Our Combat Power: 809.165  | Their Combat Power: 1138.0485
+20211027_04:29:20 Our Life: 202.266666666667  | Their Life: 309.2
+20211027_04:29:20 Our Defense: 16.8533333333333  | Their Defense: 21.1733333333333
+20211027_04:29:20 We would definitely lose this one to BHawk....
+
+20211027_04:29:21 Our rounds: 5.06335753197678  | Their rounds: 5.74307817589576
+20211027_04:29:21 Our Combat Power: 809.165  | Their Combat Power: 892.694761904762
+20211027_04:29:21 Our Life: 202.266666666667  | Their Life: 141.05
+20211027_04:29:21 Our Defense: 16.8533333333333  | Their Defense: 14.81
+20211027_04:29:21 We would definitely lose this one to bertrand....
+
+20211027_04:29:41 Our rounds: 6.07368323216724  | Their rounds: 8.91251812469792
+20211027_04:29:41 Our Combat Power: 809.165  | Their Combat Power: 904.932761904762
+20211027_04:29:41 Our Life: 202.266666666667  | Their Life: 184.4
+20211027_04:29:41 Our Defense: 16.8533333333333  | Their Defense: 18.68
+20211027_04:29:41 We would definitely lose this one to damius....
+
+20211027_04:29:43 Our rounds: 8.46186027053409  | Their rounds: 7.31231789349992
+20211027_04:29:43 Our Combat Power: 809.165  | Their Combat Power: 765.273757575758
+20211027_04:29:43 Our Life: 202.266666666667  | Their Life: 184.8
+20211027_04:29:43 Our Defense: 16.8533333333333  | Their Defense: 14.0975757575758
+20211027_04:29:43 We would definitely lose this one to el domatore....
+
+20211027_04:29:45 Our rounds: 9.2622838215316  | Their rounds: 13.2140557446417
+20211027_04:29:45 Our Combat Power: 809.165  | Their Combat Power: 890.138333333333
+20211027_04:29:45 Our Life: 202.266666666667  | Their Life: 239.416666666667
+20211027_04:29:45 Our Defense: 16.8533333333333  | Their Defense: 21.2516666666667
+20211027_04:29:45 We would definitely lose this one to Lucki1....
+
+20211027_04:29:46 Our rounds: 5.65833644162626  | Their rounds: 6.78507992895204
+20211027_04:29:46 Our Combat Power: 809.165  | Their Combat Power: 879.941333333333
+20211027_04:29:46 Our Life: 202.266666666667  | Their Life: 165.533333333333
+20211027_04:29:46 Our Defense: 16.8533333333333  | Their Defense: 14.9733333333333
+20211027_04:29:46 We would definitely lose this one to Stepka....
+
+20211027_04:29:48 Our rounds: 5.06721280331356  | Their rounds: 69.3659136658465
+20211027_04:29:48 Our Combat Power: 809.165  | Their Combat Power: 1216.53033333333
+20211027_04:29:48 Our Life: 202.266666666667  | Their Life: 258.445833333333
+20211027_04:29:48 Our Defense: 16.8533333333333  | Their Defense: 35.6441666666667
+20211027_04:29:48 We would definitely lose this one to LimoT....
+
+20211027_04:29:49 Our rounds: 7.66258365955297  | Their rounds: 6.74455868607291
+20211027_04:29:49 Our Combat Power: 809.165  | Their Combat Power: 776.887333333333
+20211027_04:29:49 Our Life: 202.266666666667  | Their Life: 168.366666666667
+20211027_04:29:49 Our Defense: 16.8533333333333  | Their Defense: 14.4066666666667
+20211027_04:29:49 We would definitely lose this one to Clippers....
+
+20211027_04:29:50 Our rounds: 7.62503141492837  | Their rounds: 10.8509541000516
+20211027_04:29:50 Our Combat Power: 809.165  | Their Combat Power: 894.118
+20211027_04:29:50 Our Life: 202.266666666667  | Their Life: 210.4
+20211027_04:29:50 Our Defense: 16.8533333333333  | Their Defense: 19.98
+20211027_04:29:50 We would definitely lose this one to Buutan....
+
+20211027_04:29:51 Our rounds: 1.53626087066597  | Their rounds: -31.0328767123288
+20211027_04:29:51 Our Combat Power: 809.165  | Their Combat Power: 2721.7275
+20211027_04:29:51 Our Life: 202.266666666667  | Their Life: 566.35
+20211027_04:29:51 Our Defense: 16.8533333333333  | Their Defense: 57.62
+20211027_04:29:51 We would definitely lose this one to MaxTT....
+
+20211027_04:29:53 Our rounds: 6.52187598363236  | Their rounds: 10.0528953229399
+20211027_04:29:53 Our Combat Power: 809.165  | Their Combat Power: 907.685047619048
+20211027_04:29:53 Our Life: 202.266666666667  | Their Life: 180.55
+20211027_04:29:53 Our Defense: 16.8533333333333  | Their Defense: 21.41
+20211027_04:29:53 We would definitely lose this one to Mesiban....
+
+20211027_04:29:55 Our rounds: 6.62156263640332  | Their rounds: 16.5751479289941
+20211027_04:29:55 Our Combat Power: 809.165  | Their Combat Power: 1008.00966666667
+20211027_04:29:55 Our Life: 202.266666666667  | Their Life: 233.433333333333
+20211027_04:29:55 Our Defense: 16.8533333333333  | Their Defense: 25.2866666666667
+20211027_04:29:55 We would definitely lose this one to Cloud9....
+
+20211027_04:29:56 Our rounds: 2.06739123028176  | Their rounds: -174.837962962963
+20211027_04:29:56 Our Combat Power: 809.165  | Their Combat Power: 2464.0605
+20211027_04:29:56 Our Life: 202.266666666667  | Their Life: 566.475
+20211027_04:29:56 Our Defense: 16.8533333333333  | Their Defense: 42.61
+20211027_04:29:56 We would definitely lose this one to assafera....
+
+20211027_04:29:57 Our rounds: 2.67277452319077  | Their rounds: 120.767386091127
+20211027_04:29:57 Our Combat Power: 809.165  | Their Combat Power: 1848.639
+20211027_04:29:57 Our Life: 202.266666666667  | Their Life: 503.6
+20211027_04:29:57 Our Defense: 16.8533333333333  | Their Defense: 35.2
+20211027_04:29:57 We would definitely lose this one to Manuel_85....
+
+20211027_04:29:59 Our rounds: 6.62156263640332  | Their rounds: 16.5751479289941
+20211027_04:29:59 Our Combat Power: 809.165  | Their Combat Power: 1008.00966666667
+20211027_04:29:59 Our Life: 202.266666666667  | Their Life: 233.433333333333
+20211027_04:29:59 Our Defense: 16.8533333333333  | Their Defense: 25.2866666666667
+20211027_04:29:59 We would definitely lose this one to Coromos....
+
+20211027_04:30:01 Our rounds: 6.30990992775404  | Their rounds: 5.75186072915352
+20211027_04:30:01 Our Combat Power: 809.165  | Their Combat Power: 802.117301587302
+20211027_04:30:01 Our Life: 202.266666666667  | Their Life: 151.983333333333
+20211027_04:30:01 Our Defense: 16.8533333333333  | Their Defense: 12.9466666666667
+20211027_04:30:01 We would definitely lose this one to Lifestyler-BR....
+
+20211027_04:30:02 Our rounds: 5.06891654832512  | Their rounds: 16.9921230994688
+20211027_04:30:02 Our Combat Power: 809.165  | Their Combat Power: 1138.0485
+20211027_04:30:02 Our Life: 202.266666666667  | Their Life: 309.2
+20211027_04:30:02 Our Defense: 16.8533333333333  | Their Defense: 21.1733333333333
+20211027_04:30:02 We would definitely lose this one to BHawk....
+
+20211027_04:30:03 Our rounds: 5.06335753197678  | Their rounds: 5.74307817589576
+20211027_04:30:03 Our Combat Power: 809.165  | Their Combat Power: 892.694761904762
+20211027_04:30:03 Our Life: 202.266666666667  | Their Life: 141.05
+20211027_04:30:03 Our Defense: 16.8533333333333  | Their Defense: 14.81
+20211027_04:30:03 We would definitely lose this one to bertrand....
+
+20211027_10:08:35 Our rounds: 8.13295804851896  | Their rounds: 9.57446808510638
+20211027_10:08:35 Our Combat Power: 809.165  | Their Combat Power: 839.153333333333
+20211027_10:08:35 Our Life: 202.266666666667  | Their Life: 222
+20211027_10:08:35 Our Defense: 16.8533333333333  | Their Defense: 16.1833333333333
+20211027_10:08:35 We would definitely lose this one to ShamanL....
+
+20211027_10:08:37 Our rounds: 7.56702830776905  | Their rounds: 9.26791005752135
+20211027_10:08:37 Our Combat Power: 809.165  | Their Combat Power: 849.637333333333
+20211027_10:08:37 Our Life: 202.266666666667  | Their Life: 177.233333333333
+20211027_10:08:37 Our Defense: 16.8533333333333  | Their Defense: 20.2466666666667
+20211027_10:08:37 We would definitely lose this one to Garnoul49....
+
+20211027_10:08:38 Our rounds: 4.72961386771423  | Their rounds: 141.126516464471
+20211027_10:08:38 Our Combat Power: 809.165  | Their Combat Power: 1276.23733333333
+20211027_10:08:38 Our Life: 202.266666666667  | Their Life: 271.433333333333
+20211027_10:08:38 Our Defense: 16.8533333333333  | Their Defense: 37.4466666666667
+20211027_10:08:38 We would definitely lose this one to XstBoost....
+
+20211027_10:08:46 Our rounds: 8.13295804851896  | Their rounds: 9.57446808510638
+20211027_10:08:46 Our Combat Power: 809.165  | Their Combat Power: 839.153333333333
+20211027_10:08:46 Our Life: 202.266666666667  | Their Life: 222
+20211027_10:08:46 Our Defense: 16.8533333333333  | Their Defense: 16.1833333333333
+20211027_10:08:46 We would definitely lose this one to ShamanL....
+
+20211027_10:08:48 Our rounds: 7.56702830776905  | Their rounds: 9.26791005752135
+20211027_10:08:48 Our Combat Power: 809.165  | Their Combat Power: 849.637333333333
+20211027_10:08:48 Our Life: 202.266666666667  | Their Life: 177.233333333333
+20211027_10:08:48 Our Defense: 16.8533333333333  | Their Defense: 20.2466666666667
+20211027_10:08:48 We would definitely lose this one to Garnoul49....
+
+20211027_10:08:49 Our rounds: 4.72961386771423  | Their rounds: 141.126516464471
+20211027_10:08:49 Our Combat Power: 809.165  | Their Combat Power: 1276.23733333333
+20211027_10:08:49 Our Life: 202.266666666667  | Their Life: 271.433333333333
+20211027_10:08:49 Our Defense: 16.8533333333333  | Their Defense: 37.4466666666667
+20211027_10:08:49 We would definitely lose this one to XstBoost....
+

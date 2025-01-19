@@ -1,0 +1,6 @@
+var x = document.getElementsByClassName('btn btn-primary btn-sm btn-block rounded-pill')
+
+for(var i = 0; i < x.length; i++){
+   x[i].removeAttribute("style"); 
+}
+

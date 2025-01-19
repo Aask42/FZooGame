@@ -1,0 +1,132 @@
+20211028_04:29:10 Our rounds: 7.62503141492837  | Their rounds: 10.8509541000516
+20211028_04:29:10 Our Combat Power: 809.165  | Their Combat Power: 894.118
+20211028_04:29:10 Our Life: 202.266666666667  | Their Life: 210.4
+20211028_04:29:10 Our Defense: 16.8533333333333  | Their Defense: 19.98
+20211028_04:29:10 We would definitely lose this one to Buutan....
+
+20211028_04:29:12 Our rounds: 7.62503141492837  | Their rounds: 10.8509541000516
+20211028_04:29:12 Our Combat Power: 809.165  | Their Combat Power: 894.118
+20211028_04:29:12 Our Life: 202.266666666667  | Their Life: 210.4
+20211028_04:29:12 Our Defense: 16.8533333333333  | Their Defense: 19.98
+20211028_04:29:12 We would definitely lose this one to Buutan....
+
+20211028_04:29:12 Our rounds: 7.62503141492837  | Their rounds: 10.8509541000516
+20211028_04:29:12 Our Combat Power: 809.165  | Their Combat Power: 894.118
+20211028_04:29:12 Our Life: 202.266666666667  | Their Life: 210.4
+20211028_04:29:12 Our Defense: 16.8533333333333  | Their Defense: 19.98
+20211028_04:29:12 We would definitely lose this one to Buutan....
+
+20211028_04:29:16 Our rounds: 7.62503141492837  | Their rounds: 10.8509541000516
+20211028_04:29:16 Our Combat Power: 809.165  | Their Combat Power: 894.118
+20211028_04:29:16 Our Life: 202.266666666667  | Their Life: 210.4
+20211028_04:29:16 Our Defense: 16.8533333333333  | Their Defense: 19.98
+20211028_04:29:16 We would definitely lose this one to Buutan....
+
+20211028_04:29:17 Our rounds: 6.62156263640332  | Their rounds: 16.5751479289941
+20211028_04:29:17 Our Combat Power: 809.165  | Their Combat Power: 1008.00966666667
+20211028_04:29:17 Our Life: 202.266666666667  | Their Life: 233.433333333333
+20211028_04:29:17 Our Defense: 16.8533333333333  | Their Defense: 25.2866666666667
+20211028_04:29:17 We would definitely lose this one to Coromos....
+
+20211028_04:29:19 Our rounds: 7.53320918684047  | Their rounds: 10.3386489876366
+20211028_04:29:19 Our Combat Power: 809.165  | Their Combat Power: 871.050333333334
+20211028_04:29:19 Our Life: 202.266666666667  | Their Life: 192.333333333333
+20211028_04:29:19 Our Defense: 16.8533333333333  | Their Defense: 20.7666666666667
+20211028_04:29:19 We would definitely lose this one to xXMissxAshXx....
+
+20211028_04:29:21 Our rounds: 7.62503141492837  | Their rounds: 10.8509541000516
+20211028_04:29:21 Our Combat Power: 809.165  | Their Combat Power: 894.118
+20211028_04:29:21 Our Life: 202.266666666667  | Their Life: 210.4
+20211028_04:29:21 Our Defense: 16.8533333333333  | Their Defense: 19.98
+20211028_04:29:21 We would definitely lose this one to Buutan....
+
+20211028_04:29:23 Our rounds: 6.62156263640332  | Their rounds: 16.5751479289941
+20211028_04:29:23 Our Combat Power: 809.165  | Their Combat Power: 1008.00966666667
+20211028_04:29:23 Our Life: 202.266666666667  | Their Life: 233.433333333333
+20211028_04:29:23 Our Defense: 16.8533333333333  | Their Defense: 25.2866666666667
+20211028_04:29:23 We would definitely lose this one to Coromos....
+
+20211028_04:29:24 Our rounds: 7.62503141492837  | Their rounds: 10.8509541000516
+20211028_04:29:24 Our Combat Power: 809.165  | Their Combat Power: 894.118
+20211028_04:29:24 Our Life: 202.266666666667  | Their Life: 210.4
+20211028_04:29:24 Our Defense: 16.8533333333333  | Their Defense: 19.98
+20211028_04:29:24 We would definitely lose this one to Buutan....
+
+20211028_04:29:25 Our rounds: 7.53320918684047  | Their rounds: 10.3386489876366
+20211028_04:29:25 Our Combat Power: 809.165  | Their Combat Power: 871.050333333334
+20211028_04:29:25 Our Life: 202.266666666667  | Their Life: 192.333333333333
+20211028_04:29:25 Our Defense: 16.8533333333333  | Their Defense: 20.7666666666667
+20211028_04:29:25 We would definitely lose this one to xXMissxAshXx....
+
+20211028_04:29:26 Our rounds: 6.62156263640332  | Their rounds: 16.5751479289941
+20211028_04:29:26 Our Combat Power: 809.165  | Their Combat Power: 1008.00966666667
+20211028_04:29:26 Our Life: 202.266666666667  | Their Life: 233.433333333333
+20211028_04:29:26 Our Defense: 16.8533333333333  | Their Defense: 25.2866666666667
+20211028_04:29:26 We would definitely lose this one to Coromos....
+
+20211028_04:29:27 Our rounds: 6.62156263640332  | Their rounds: 16.5751479289941
+20211028_04:29:27 Our Combat Power: 809.165  | Their Combat Power: 1008.00966666667
+20211028_04:29:27 Our Life: 202.266666666667  | Their Life: 233.433333333333
+20211028_04:29:27 Our Defense: 16.8533333333333  | Their Defense: 25.2866666666667
+20211028_04:29:27 We would definitely lose this one to Coromos....
+
+20211028_04:29:28 Our rounds: 7.53320918684047  | Their rounds: 10.3386489876366
+20211028_04:29:28 Our Combat Power: 809.165  | Their Combat Power: 871.050333333334
+20211028_04:29:28 Our Life: 202.266666666667  | Their Life: 192.333333333333
+20211028_04:29:28 Our Defense: 16.8533333333333  | Their Defense: 20.7666666666667
+20211028_04:29:28 We would definitely lose this one to xXMissxAshXx....
+
+20211028_04:29:29 Our rounds: 7.53320918684047  | Their rounds: 10.3386489876366
+20211028_04:29:29 Our Combat Power: 809.165  | Their Combat Power: 871.050333333334
+20211028_04:29:29 Our Life: 202.266666666667  | Their Life: 192.333333333333
+20211028_04:29:29 Our Defense: 16.8533333333333  | Their Defense: 20.7666666666667
+20211028_04:29:29 We would definitely lose this one to xXMissxAshXx....
+
+20211028_04:29:31 Our rounds: 7.62503141492837  | Their rounds: 10.8509541000516
+20211028_04:29:31 Our Combat Power: 809.165  | Their Combat Power: 894.118
+20211028_04:29:31 Our Life: 202.266666666667  | Their Life: 210.4
+20211028_04:29:31 Our Defense: 16.8533333333333  | Their Defense: 19.98
+20211028_04:29:31 We would definitely lose this one to Buutan....
+
+20211028_04:29:32 Our rounds: 7.62503141492837  | Their rounds: 10.8509541000516
+20211028_04:29:32 Our Combat Power: 809.165  | Their Combat Power: 894.118
+20211028_04:29:32 Our Life: 202.266666666667  | Their Life: 210.4
+20211028_04:29:32 Our Defense: 16.8533333333333  | Their Defense: 19.98
+20211028_04:29:32 We would definitely lose this one to Buutan....
+
+20211028_04:29:33 Our rounds: 6.62156263640332  | Their rounds: 16.5751479289941
+20211028_04:29:33 Our Combat Power: 809.165  | Their Combat Power: 1008.00966666667
+20211028_04:29:33 Our Life: 202.266666666667  | Their Life: 233.433333333333
+20211028_04:29:33 Our Defense: 16.8533333333333  | Their Defense: 25.2866666666667
+20211028_04:29:33 We would definitely lose this one to Coromos....
+
+20211028_04:29:34 Our rounds: 6.62156263640332  | Their rounds: 16.5751479289941
+20211028_04:29:34 Our Combat Power: 809.165  | Their Combat Power: 1008.00966666667
+20211028_04:29:34 Our Life: 202.266666666667  | Their Life: 233.433333333333
+20211028_04:29:34 Our Defense: 16.8533333333333  | Their Defense: 25.2866666666667
+20211028_04:29:34 We would definitely lose this one to Coromos....
+
+20211028_04:29:35 Our rounds: 7.53320918684047  | Their rounds: 10.3386489876366
+20211028_04:29:35 Our Combat Power: 809.165  | Their Combat Power: 871.050333333334
+20211028_04:29:35 Our Life: 202.266666666667  | Their Life: 192.333333333333
+20211028_04:29:35 Our Defense: 16.8533333333333  | Their Defense: 20.7666666666667
+20211028_04:29:35 We would definitely lose this one to xXMissxAshXx....
+
+20211028_04:29:36 Our rounds: 7.53320918684047  | Their rounds: 10.3386489876366
+20211028_04:29:36 Our Combat Power: 809.165  | Their Combat Power: 871.050333333334
+20211028_04:29:36 Our Life: 202.266666666667  | Their Life: 192.333333333333
+20211028_04:29:36 Our Defense: 16.8533333333333  | Their Defense: 20.7666666666667
+20211028_04:29:36 We would definitely lose this one to xXMissxAshXx....
+
+20211028_04:29:37 Our rounds: 5.1341061003469  | Their rounds: 18.7144089732528
+20211028_04:29:37 Our Combat Power: 809.165  | Their Combat Power: 1102.027
+20211028_04:29:37 Our Life: 202.266666666667  | Their Life: 216.9
+20211028_04:29:37 Our Defense: 16.8533333333333  | Their Defense: 27.78
+20211028_04:29:37 We would definitely lose this one to atomizer....
+
+20211028_04:29:37 Our rounds: 5.1341061003469  | Their rounds: 18.7144089732528
+20211028_04:29:37 Our Combat Power: 809.165  | Their Combat Power: 1102.027
+20211028_04:29:37 Our Life: 202.266666666667  | Their Life: 216.9
+20211028_04:29:37 Our Defense: 16.8533333333333  | Their Defense: 27.78
+20211028_04:29:37 We would definitely lose this one to atomizer....
+

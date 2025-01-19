@@ -1,0 +1,5 @@
+# What is this?
+
+This is all my mostly sorted but not quite organized files used in the solving of Zoogame.App in 2022, as well as a writeup of a critical security flaw that enabled me to log in as ANY user and change their current hands, enabling me to have a 100% win ratio had I chosen to be a malicious actor. I did NOT choose to be a malicious actor and attempted to disclose to the creators of the platform, however I was told to proverbially "pound sand". Now that they've been gone for over a year, I figured why not share my research with the world. 
+
+In this repository you will find a slide-show generator in the form of generator.py which will dynamically generate slide shows off of a config.json file, as well as all the attack scripts and code written to solve the battle system of Zoogame.App, including a script for generating a rainbow-table of ALL possible battle outcomes. Turns out, you shouldn't use your battle algorithm as the Javascript animation algorithm while also leaking all the JSON for your battle tables. The battle tables can be found in various files listed under 'source' which were copied down while the site was still live. 

@@ -1,0 +1,64 @@
+{
+  "id": 232382,
+  "owner": "0x622c22d9f01dd06f3b954f2150b91d8f18f0b9c0",
+  "nickname": "Aask",
+  "score": 100,
+  "attackCards": [
+    {
+      "owner": "0x622c22d9f01dd06f3b954f2150b91d8f18f0b9c0",
+      "nftId": 514248,
+      "rarity": 4,
+      "level": 4,
+      "teamId": 10,
+      "computingPower": 42
+    },
+    {
+      "owner": "0x622c22d9f01dd06f3b954f2150b91d8f18f0b9c0",
+      "nftId": 499040,
+      "rarity": 3,
+      "level": 1,
+      "teamId": 10,
+      "computingPower": 4
+    },
+    {
+      "owner": "0x622c22d9f01dd06f3b954f2150b91d8f18f0b9c0",
+      "nftId": 506653,
+      "rarity": 2,
+      "level": 1,
+      "teamId": 10,
+      "computingPower": 2
+    }
+  ],
+  "defenseCards": [
+    {
+      "owner": "0x622c22d9f01dd06f3b954f2150b91d8f18f0b9c0",
+      "nftId": 514248,
+      "rarity": 4,
+      "level": 4,
+      "teamId": 10,
+      "computingPower": 42
+    },
+    {
+      "owner": "0x622c22d9f01dd06f3b954f2150b91d8f18f0b9c0",
+      "nftId": 499040,
+      "rarity": 3,
+      "level": 1,
+      "teamId": 10,
+      "computingPower": 4
+    },
+    {
+      "owner": "0x622c22d9f01dd06f3b954f2150b91d8f18f0b9c0",
+      "nftId": 506653,
+      "rarity": 2,
+      "level": 1,
+      "teamId": 10,
+      "computingPower": 2
+    }
+  ],
+  "attackCardsCount": 3,
+  "defenseCardsCount": 3,
+  "combatAt": "2021-11-01",
+  "createdAt": "2021-10-31 19:18:11",
+  "updatedAt": "2021-10-31 19:18:11",
+  "ranking": 1636
+}

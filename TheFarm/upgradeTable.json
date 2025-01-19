@@ -1,0 +1,8940 @@
+[{"role":"13",
+"name": "Pelicans1",
+"rarity": 1,
+"teamId": 0,
+"gift": 1,
+"live": 37.5,
+"attack": 13,
+"defense": 3.5,
+"fatal": 0.023,
+"recover": 0.009,
+"restrain": {
+    "target": 2,
+    "value": 0.1
+}
+}, {
+"role": "33",
+"name": "Pelicans2",
+"rarity": 2,
+"teamId": 0,
+"gift": 1,
+"live": 42.5,
+"attack": 14.733333333333333,
+"defense": 3.966666666666667,
+"fatal": 0.02606666666666667,
+"recover": 0.0102,
+"restrain": {
+    "target": 2,
+    "value": 0.1
+}
+}, {
+"role": "53",
+"name": "Pelicans3",
+"rarity": 3,
+"teamId": 0,
+"gift": 1,
+"live": 48.75,
+"attack": 16.9,
+"defense": 4.55,
+"fatal": 0.0299,
+"recover": 0.0117,
+"restrain": {
+    "target": 2,
+    "value": 0.1
+}
+}, {
+"role": "73",
+"name": "Pelicans4",
+"rarity": 4,
+"teamId": 0,
+"gift": 1,
+"live": 99.375,
+"attack": 34.45,
+"defense": 9.275,
+"fatal": 0.06095,
+"recover": 0.02385,
+"restrain": {
+    "target": 2,
+    "value": 0.1
+},
+"upgradeTable": [{
+        "level": 1,
+        "live": 0,
+        "attack": 0,
+        "defense": 0,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 2,
+        "live": 9.9375,
+        "attack": 3.71,
+        "defense": 0.9275,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 3,
+        "live": 19.875,
+        "attack": 7.42,
+        "defense": 1.855,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 4,
+        "live": 29.8125,
+        "attack": 11.13,
+        "defense": 2.7825,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 5,
+        "live": 39.75,
+        "attack": 14.84,
+        "defense": 3.71,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 6,
+        "live": 49.6875,
+        "attack": 18.55,
+        "defense": 4.6375,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 7,
+        "live": 59.625,
+        "attack": 22.26,
+        "defense": 5.565,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 8,
+        "live": 69.5625,
+        "attack": 25.97,
+        "defense": 6.4925,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 9,
+        "live": 79.5,
+        "attack": 29.68,
+        "defense": 7.42,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 10,
+        "live": 89.4375,
+        "attack": 33.39,
+        "defense": 8.3475,
+        "fatal": 0.0129214,
+        "recover": 0.0050562
+    },
+    {
+        "level": 11,
+        "live": 99.375,
+        "attack": 37.1,
+        "defense": 9.275,
+        "fatal": 0.0129214,
+        "recover": 0.0050562
+    },
+    {
+        "level": 12,
+        "live": 109.3125,
+        "attack": 40.81,
+        "defense": 10.2025,
+        "fatal": 0.0129214,
+        "recover": 0.0050562
+    },
+    {
+        "level": 13,
+        "live": 119.25,
+        "attack": 44.52,
+        "defense": 11.13,
+        "fatal": 0.0129214,
+        "recover": 0.0050562
+    },
+    {
+        "level": 14,
+        "live": 129.1875,
+        "attack": 48.23,
+        "defense": 12.0575,
+        "fatal": 0.0129214,
+        "recover": 0.0050562
+    },
+    {
+        "level": 15,
+        "live": 139.125,
+        "attack": 51.94,
+        "defense": 12.985,
+        "fatal": 0.0129214,
+        "recover": 0.0050562
+    },
+    {
+        "level": 16,
+        "live": 149.0625,
+        "attack": 55.65,
+        "defense": 13.9125,
+        "fatal": 0.0129214,
+        "recover": 0.0050562
+    },
+    {
+        "level": 17,
+        "live": 159,
+        "attack": 59.36,
+        "defense": 14.84,
+        "fatal": 0.0129214,
+        "recover": 0.0050562
+    },
+    {
+        "level": 18,
+        "live": 168.9375,
+        "attack": 63.07,
+        "defense": 15.7675,
+        "fatal": 0.0129214,
+        "recover": 0.0050562
+    },
+    {
+        "level": 19,
+        "live": 178.875,
+        "attack": 66.78,
+        "defense": 16.695,
+        "fatal": 0.0129214,
+        "recover": 0.0050562
+    },
+    {
+        "level": 20,
+        "live": 188.8125,
+        "attack": 70.49,
+        "defense": 17.6225,
+        "fatal": 0.0258428,
+        "recover": 0.0101124
+    },
+    {
+        "level": 21,
+        "live": 198.75,
+        "attack": 74.2,
+        "defense": 18.55,
+        "fatal": 0.0258428,
+        "recover": 0.0101124
+    },
+    {
+        "level": 22,
+        "live": 208.6875,
+        "attack": 77.91,
+        "defense": 19.4775,
+        "fatal": 0.0258428,
+        "recover": 0.0101124
+    },
+    {
+        "level": 23,
+        "live": 218.625,
+        "attack": 81.62,
+        "defense": 20.405,
+        "fatal": 0.0258428,
+        "recover": 0.0101124
+    },
+    {
+        "level": 24,
+        "live": 228.5625,
+        "attack": 85.33,
+        "defense": 21.3325,
+        "fatal": 0.0258428,
+        "recover": 0.0101124
+    },
+    {
+        "level": 25,
+        "live": 238.5,
+        "attack": 89.04,
+        "defense": 22.26,
+        "fatal": 0.0258428,
+        "recover": 0.0101124
+    },
+    {
+        "level": 26,
+        "live": 248.4375,
+        "attack": 92.75,
+        "defense": 23.1875,
+        "fatal": 0.0258428,
+        "recover": 0.0101124
+    },
+    {
+        "level": 27,
+        "live": 258.375,
+        "attack": 96.46,
+        "defense": 24.115,
+        "fatal": 0.0258428,
+        "recover": 0.0101124
+    },
+    {
+        "level": 28,
+        "live": 268.3125,
+        "attack": 100.17,
+        "defense": 25.0425,
+        "fatal": 0.0258428,
+        "recover": 0.0101124
+    },
+    {
+        "level": 29,
+        "live": 278.25,
+        "attack": 103.88,
+        "defense": 25.97,
+        "fatal": 0.0258428,
+        "recover": 0.0101124
+    },
+    {
+        "level": 30,
+        "live": 288.1875,
+        "attack": 107.59,
+        "defense": 26.8975,
+        "fatal": 0.0387642,
+        "recover": 0.0151686
+    }
+]
+}, {
+"role": "5",
+"name": "dogearmy1",
+"rarity": 1,
+"teamId": 1,
+"gift": 4,
+"live": 32.5,
+"attack": 15.238095238095237,
+"defense": 3.5,
+"fatal": 0.025,
+"recover": 0.008,
+"restrain": {
+    "target": 1,
+    "value": 0.1
+}
+}, {
+"role": "25",
+"name": "dogearmy2",
+"rarity": 2,
+"teamId": 1,
+"gift": 4,
+"live": 36.833333333333336,
+"attack": 17.26984126984127,
+"defense": 3.966666666666667,
+"fatal": 0.028333333333333335,
+"recover": 0.009066666666666667,
+"restrain": {
+    "target": 1,
+    "value": 0.1
+}
+}, {
+"role": "45",
+"name": "dogearmy3",
+"rarity": 3,
+"teamId": 1,
+"gift": 4,
+"live": 42.25,
+"attack": 19.80952380952381,
+"defense": 4.55,
+"fatal": 0.0325,
+"recover": 0.0104,
+"restrain": {
+    "target": 1,
+    "value": 0.1
+}
+}, {
+"role": "85",
+"name": "dogearmy5",
+"rarity": 5,
+"teamId": 1,
+"gift": 4,
+"live": 175.5,
+"attack": 82.28571428571429,
+"defense": 18.9,
+"fatal": 0.135,
+"recover": 0.0432,
+"restrain": {
+    "target": 1,
+    "value": 0.1
+},
+"upgradeTable": [{
+        "level": 1,
+        "live": 0,
+        "attack": 0,
+        "defense": 0,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 2,
+        "live": 17.55,
+        "attack": 8.22857142857143,
+        "defense": 1.89,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 3,
+        "live": 35.1,
+        "attack": 16.45714285714286,
+        "defense": 3.78,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 4,
+        "live": 52.650000000000006,
+        "attack": 24.68571428571429,
+        "defense": 5.67,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 5,
+        "live": 70.2,
+        "attack": 32.91428571428572,
+        "defense": 7.56,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 6,
+        "live": 87.75,
+        "attack": 41.142857142857146,
+        "defense": 9.45,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 7,
+        "live": 105.30000000000001,
+        "attack": 49.37142857142858,
+        "defense": 11.34,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 8,
+        "live": 122.85000000000001,
+        "attack": 57.60000000000001,
+        "defense": 13.229999999999999,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 9,
+        "live": 140.4,
+        "attack": 65.82857142857144,
+        "defense": 15.12,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 10,
+        "live": 157.95000000000002,
+        "attack": 74.05714285714286,
+        "defense": 17.009999999999998,
+        "fatal": 0.135,
+        "recover": 0.0432
+    },
+    {
+        "level": 11,
+        "live": 175.5,
+        "attack": 82.28571428571429,
+        "defense": 18.9,
+        "fatal": 0.135,
+        "recover": 0.0432
+    },
+    {
+        "level": 12,
+        "live": 193.05,
+        "attack": 90.51428571428572,
+        "defense": 20.79,
+        "fatal": 0.135,
+        "recover": 0.0432
+    },
+    {
+        "level": 13,
+        "live": 210.60000000000002,
+        "attack": 98.74285714285716,
+        "defense": 22.68,
+        "fatal": 0.135,
+        "recover": 0.0432
+    },
+    {
+        "level": 14,
+        "live": 228.15,
+        "attack": 106.97142857142859,
+        "defense": 24.57,
+        "fatal": 0.135,
+        "recover": 0.0432
+    },
+    {
+        "level": 15,
+        "live": 245.70000000000002,
+        "attack": 115.20000000000002,
+        "defense": 26.459999999999997,
+        "fatal": 0.135,
+        "recover": 0.0432
+    },
+    {
+        "level": 16,
+        "live": 263.25,
+        "attack": 123.42857142857144,
+        "defense": 28.349999999999998,
+        "fatal": 0.135,
+        "recover": 0.0432
+    },
+    {
+        "level": 17,
+        "live": 280.8,
+        "attack": 131.65714285714287,
+        "defense": 30.24,
+        "fatal": 0.135,
+        "recover": 0.0432
+    },
+    {
+        "level": 18,
+        "live": 298.35,
+        "attack": 139.8857142857143,
+        "defense": 32.129999999999995,
+        "fatal": 0.135,
+        "recover": 0.0432
+    },
+    {
+        "level": 19,
+        "live": 315.90000000000003,
+        "attack": 148.11428571428573,
+        "defense": 34.019999999999996,
+        "fatal": 0.135,
+        "recover": 0.0432
+    },
+    {
+        "level": 20,
+        "live": 333.45,
+        "attack": 156.34285714285716,
+        "defense": 35.91,
+        "fatal": 0.27,
+        "recover": 0.0864
+    },
+    {
+        "level": 21,
+        "live": 351,
+        "attack": 164.57142857142858,
+        "defense": 37.8,
+        "fatal": 0.27,
+        "recover": 0.0864
+    },
+    {
+        "level": 22,
+        "live": 368.55,
+        "attack": 172.8,
+        "defense": 39.69,
+        "fatal": 0.27,
+        "recover": 0.0864
+    },
+    {
+        "level": 23,
+        "live": 386.1,
+        "attack": 181.02857142857144,
+        "defense": 41.58,
+        "fatal": 0.27,
+        "recover": 0.0864
+    },
+    {
+        "level": 24,
+        "live": 403.65000000000003,
+        "attack": 189.25714285714287,
+        "defense": 43.47,
+        "fatal": 0.27,
+        "recover": 0.0864
+    },
+    {
+        "level": 25,
+        "live": 421.20000000000005,
+        "attack": 197.48571428571432,
+        "defense": 45.36,
+        "fatal": 0.27,
+        "recover": 0.0864
+    },
+    {
+        "level": 26,
+        "live": 438.75,
+        "attack": 205.71428571428575,
+        "defense": 47.25,
+        "fatal": 0.27,
+        "recover": 0.0864
+    },
+    {
+        "level": 27,
+        "live": 456.3,
+        "attack": 213.94285714285718,
+        "defense": 49.14,
+        "fatal": 0.27,
+        "recover": 0.0864
+    },
+    {
+        "level": 28,
+        "live": 473.85,
+        "attack": 222.1714285714286,
+        "defense": 51.029999999999994,
+        "fatal": 0.27,
+        "recover": 0.0864
+    },
+    {
+        "level": 29,
+        "live": 491.40000000000003,
+        "attack": 230.40000000000003,
+        "defense": 52.919999999999995,
+        "fatal": 0.27,
+        "recover": 0.0864
+    },
+    {
+        "level": 30,
+        "live": 508.95000000000005,
+        "attack": 238.62857142857146,
+        "defense": 54.809999999999995,
+        "fatal": 0.405,
+        "recover": 0.1296
+    }
+]
+}, {
+"role": "1",
+"name": "Nuggets1",
+"rarity": 1,
+"teamId": 2,
+"gift": 2,
+"live": 62.5,
+"attack": 9,
+"defense": 4,
+"fatal": 0.020999999999999998,
+"recover": 0.01,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+}
+}, {
+"role": "21",
+"name": "Nuggets2",
+"rarity": 2,
+"teamId": 2,
+"gift": 2,
+"live": 70.83333333333333,
+"attack": 10.2,
+"defense": 4.533333333333333,
+"fatal": 0.0238,
+"recover": 0.011333333333333332,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+}
+}, {
+"role": "41",
+"name": "Nuggets3",
+"rarity": 3,
+"teamId": 2,
+"gift": 2,
+"live": 81.25,
+"attack": 11.7,
+"defense": 5.2,
+"fatal": 0.0273,
+"recover": 0.013,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+}
+}, {
+"role": "61",
+"name": "Nuggets4",
+"rarity": 4,
+"teamId": 2,
+"gift": 2,
+"live": 165.625,
+"attack": 23.85,
+"defense": 10.6,
+"fatal": 0.05565,
+"recover": 0.0265,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+},
+"upgradeTable": [{
+        "level": 1,
+        "live": 0,
+        "attack": 0,
+        "defense": 0,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 2,
+        "live": 16.5625,
+        "attack": 2.385,
+        "defense": 1.06,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 3,
+        "live": 33.125,
+        "attack": 4.77,
+        "defense": 2.12,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 4,
+        "live": 49.6875,
+        "attack": 7.155,
+        "defense": 3.18,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 5,
+        "live": 66.25,
+        "attack": 9.54,
+        "defense": 4.24,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 6,
+        "live": 82.8125,
+        "attack": 11.925,
+        "defense": 5.3,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 7,
+        "live": 99.375,
+        "attack": 14.31,
+        "defense": 6.36,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 8,
+        "live": 115.9375,
+        "attack": 16.695,
+        "defense": 7.42,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 9,
+        "live": 132.5,
+        "attack": 19.08,
+        "defense": 8.48,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 10,
+        "live": 149.0625,
+        "attack": 21.465,
+        "defense": 9.54,
+        "fatal": 0.0117978,
+        "recover": 0.005618
+    },
+    {
+        "level": 11,
+        "live": 165.625,
+        "attack": 23.85,
+        "defense": 10.6,
+        "fatal": 0.0117978,
+        "recover": 0.005618
+    },
+    {
+        "level": 12,
+        "live": 182.1875,
+        "attack": 26.235,
+        "defense": 11.66,
+        "fatal": 0.0117978,
+        "recover": 0.005618
+    },
+    {
+        "level": 13,
+        "live": 198.75,
+        "attack": 28.62,
+        "defense": 12.72,
+        "fatal": 0.0117978,
+        "recover": 0.005618
+    },
+    {
+        "level": 14,
+        "live": 215.3125,
+        "attack": 31.005,
+        "defense": 13.78,
+        "fatal": 0.0117978,
+        "recover": 0.005618
+    },
+    {
+        "level": 15,
+        "live": 231.875,
+        "attack": 33.39,
+        "defense": 14.84,
+        "fatal": 0.0117978,
+        "recover": 0.005618
+    },
+    {
+        "level": 16,
+        "live": 248.4375,
+        "attack": 35.775,
+        "defense": 15.9,
+        "fatal": 0.0117978,
+        "recover": 0.005618
+    },
+    {
+        "level": 17,
+        "live": 265,
+        "attack": 38.16,
+        "defense": 16.96,
+        "fatal": 0.0117978,
+        "recover": 0.005618
+    },
+    {
+        "level": 18,
+        "live": 281.5625,
+        "attack": 40.545,
+        "defense": 18.02,
+        "fatal": 0.0117978,
+        "recover": 0.005618
+    },
+    {
+        "level": 19,
+        "live": 298.125,
+        "attack": 42.93,
+        "defense": 19.08,
+        "fatal": 0.0117978,
+        "recover": 0.005618
+    },
+    {
+        "level": 20,
+        "live": 314.6875,
+        "attack": 45.315,
+        "defense": 20.14,
+        "fatal": 0.0235956,
+        "recover": 0.011236
+    },
+    {
+        "level": 21,
+        "live": 331.25,
+        "attack": 47.7,
+        "defense": 21.2,
+        "fatal": 0.0235956,
+        "recover": 0.011236
+    },
+    {
+        "level": 22,
+        "live": 347.8125,
+        "attack": 50.085,
+        "defense": 22.26,
+        "fatal": 0.0235956,
+        "recover": 0.011236
+    },
+    {
+        "level": 23,
+        "live": 364.375,
+        "attack": 52.47,
+        "defense": 23.32,
+        "fatal": 0.0235956,
+        "recover": 0.011236
+    },
+    {
+        "level": 24,
+        "live": 380.9375,
+        "attack": 54.855,
+        "defense": 24.38,
+        "fatal": 0.0235956,
+        "recover": 0.011236
+    },
+    {
+        "level": 25,
+        "live": 397.5,
+        "attack": 57.24,
+        "defense": 25.44,
+        "fatal": 0.0235956,
+        "recover": 0.011236
+    },
+    {
+        "level": 26,
+        "live": 414.0625,
+        "attack": 59.625,
+        "defense": 26.5,
+        "fatal": 0.0235956,
+        "recover": 0.011236
+    },
+    {
+        "level": 27,
+        "live": 430.625,
+        "attack": 62.01,
+        "defense": 27.56,
+        "fatal": 0.0235956,
+        "recover": 0.011236
+    },
+    {
+        "level": 28,
+        "live": 447.1875,
+        "attack": 64.395,
+        "defense": 28.62,
+        "fatal": 0.0235956,
+        "recover": 0.011236
+    },
+    {
+        "level": 29,
+        "live": 463.75,
+        "attack": 66.78,
+        "defense": 29.68,
+        "fatal": 0.0235956,
+        "recover": 0.011236
+    },
+    {
+        "level": 30,
+        "live": 480.3125,
+        "attack": 69.165,
+        "defense": 30.74,
+        "fatal": 0.0353934,
+        "recover": 0.016854
+    }
+]
+}, {
+"role": "11",
+"name": "chow chow1",
+"rarity": 1,
+"teamId": 3,
+"gift": 5,
+"live": 50,
+"attack": 10,
+"defense": 5,
+"fatal": 0.02,
+"recover": 0.01,
+"restrain": {
+    "target": 3,
+    "value": 0.1
+}
+}, {
+"role": "31",
+"name": "chow chow2",
+"rarity": 2,
+"teamId": 3,
+"gift": 5,
+"live": 56.666666666666664,
+"attack": 11.333333333333334,
+"defense": 5.666666666666667,
+"fatal": 0.022666666666666665,
+"recover": 0.011333333333333332,
+"restrain": {
+    "target": 3,
+    "value": 0.1
+}
+}, {
+"role": "51",
+"name": "chow chow3",
+"rarity": 3,
+"teamId": 3,
+"gift": 5,
+"live": 65,
+"attack": 13,
+"defense": 6.5,
+"fatal": 0.026,
+"recover": 0.013,
+"restrain": {
+    "target": 3,
+    "value": 0.1
+}
+}, {
+"role": "3",
+"name": "bobcats1",
+"rarity": 1,
+"teamId": 4,
+"gift": 2,
+"live": 47.5,
+"attack": 9.5,
+"defense": 6.5,
+"fatal": 0.024,
+"recover": 0.006,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+}
+}, {
+"role": "23",
+"name": "bobcats2",
+"rarity": 2,
+"teamId": 4,
+"gift": 2,
+"live": 53.833333333333336,
+"attack": 10.766666666666667,
+"defense": 7.366666666666666,
+"fatal": 0.0272,
+"recover": 0.0068,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+}
+}, {
+"role": "43",
+"name": "bobcats3",
+"rarity": 3,
+"teamId": 4,
+"gift": 2,
+"live": 61.75,
+"attack": 12.35,
+"defense": 8.45,
+"fatal": 0.0312,
+"recover": 0.0078,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+}
+}, {
+"role": "63",
+"name": "bobcats4",
+"rarity": 4,
+"teamId": 4,
+"gift": 2,
+"live": 125.875,
+"attack": 25.175,
+"defense": 17.225,
+"fatal": 0.0636,
+"recover": 0.0159,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+},
+"upgradeTable": [{
+        "level": 1,
+        "live": 0,
+        "attack": 0,
+        "defense": 0,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 2,
+        "live": 12.5875,
+        "attack": 2.5175,
+        "defense": 1.7225,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 3,
+        "live": 25.175,
+        "attack": 5.035,
+        "defense": 3.445,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 4,
+        "live": 37.7625,
+        "attack": 7.5525,
+        "defense": 5.1675,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 5,
+        "live": 50.35,
+        "attack": 10.07,
+        "defense": 6.89,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 6,
+        "live": 62.9375,
+        "attack": 12.5875,
+        "defense": 8.6125,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 7,
+        "live": 75.525,
+        "attack": 15.105,
+        "defense": 10.335,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 8,
+        "live": 88.1125,
+        "attack": 17.6225,
+        "defense": 12.0575,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 9,
+        "live": 100.7,
+        "attack": 20.14,
+        "defense": 13.78,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 10,
+        "live": 113.2875,
+        "attack": 22.6575,
+        "defense": 15.5025,
+        "fatal": 0.0134832,
+        "recover": 0.0033708
+    },
+    {
+        "level": 11,
+        "live": 125.875,
+        "attack": 25.175,
+        "defense": 17.225,
+        "fatal": 0.0134832,
+        "recover": 0.0033708
+    },
+    {
+        "level": 12,
+        "live": 138.4625,
+        "attack": 27.6925,
+        "defense": 18.9475,
+        "fatal": 0.0134832,
+        "recover": 0.0033708
+    },
+    {
+        "level": 13,
+        "live": 151.05,
+        "attack": 30.21,
+        "defense": 20.67,
+        "fatal": 0.0134832,
+        "recover": 0.0033708
+    },
+    {
+        "level": 14,
+        "live": 163.6375,
+        "attack": 32.7275,
+        "defense": 22.3925,
+        "fatal": 0.0134832,
+        "recover": 0.0033708
+    },
+    {
+        "level": 15,
+        "live": 176.225,
+        "attack": 35.245,
+        "defense": 24.115,
+        "fatal": 0.0134832,
+        "recover": 0.0033708
+    },
+    {
+        "level": 16,
+        "live": 188.8125,
+        "attack": 37.7625,
+        "defense": 25.8375,
+        "fatal": 0.0134832,
+        "recover": 0.0033708
+    },
+    {
+        "level": 17,
+        "live": 201.4,
+        "attack": 40.28,
+        "defense": 27.56,
+        "fatal": 0.0134832,
+        "recover": 0.0033708
+    },
+    {
+        "level": 18,
+        "live": 213.9875,
+        "attack": 42.7975,
+        "defense": 29.2825,
+        "fatal": 0.0134832,
+        "recover": 0.0033708
+    },
+    {
+        "level": 19,
+        "live": 226.575,
+        "attack": 45.315,
+        "defense": 31.005,
+        "fatal": 0.0134832,
+        "recover": 0.0033708
+    },
+    {
+        "level": 20,
+        "live": 239.1625,
+        "attack": 47.8325,
+        "defense": 32.7275,
+        "fatal": 0.0269664,
+        "recover": 0.0067416
+    },
+    {
+        "level": 21,
+        "live": 251.75,
+        "attack": 50.35,
+        "defense": 34.45,
+        "fatal": 0.0269664,
+        "recover": 0.0067416
+    },
+    {
+        "level": 22,
+        "live": 264.3375,
+        "attack": 52.8675,
+        "defense": 36.1725,
+        "fatal": 0.0269664,
+        "recover": 0.0067416
+    },
+    {
+        "level": 23,
+        "live": 276.925,
+        "attack": 55.385,
+        "defense": 37.895,
+        "fatal": 0.0269664,
+        "recover": 0.0067416
+    },
+    {
+        "level": 24,
+        "live": 289.5125,
+        "attack": 57.9025,
+        "defense": 39.6175,
+        "fatal": 0.0269664,
+        "recover": 0.0067416
+    },
+    {
+        "level": 25,
+        "live": 302.1,
+        "attack": 60.42,
+        "defense": 41.34,
+        "fatal": 0.0269664,
+        "recover": 0.0067416
+    },
+    {
+        "level": 26,
+        "live": 314.6875,
+        "attack": 62.9375,
+        "defense": 43.0625,
+        "fatal": 0.0269664,
+        "recover": 0.0067416
+    },
+    {
+        "level": 27,
+        "live": 327.275,
+        "attack": 65.455,
+        "defense": 44.785,
+        "fatal": 0.0269664,
+        "recover": 0.0067416
+    },
+    {
+        "level": 28,
+        "live": 339.8625,
+        "attack": 67.9725,
+        "defense": 46.5075,
+        "fatal": 0.0269664,
+        "recover": 0.0067416
+    },
+    {
+        "level": 29,
+        "live": 352.45,
+        "attack": 70.49,
+        "defense": 48.23,
+        "fatal": 0.0269664,
+        "recover": 0.0067416
+    },
+    {
+        "level": 30,
+        "live": 365.0375,
+        "attack": 73.0075,
+        "defense": 49.9525,
+        "fatal": 0.0404496,
+        "recover": 0.0101124
+    }
+]
+}, {
+"role": "8",
+"name": "uni1",
+"rarity": 1,
+"teamId": 5,
+"gift": 3,
+"live": 42,
+"attack": 15,
+"defense": 2.727272727272727,
+"fatal": 0.024,
+"recover": 0.01,
+"restrain": {
+    "target": 4,
+    "value": 0.1
+}
+}, {
+"role": "28",
+"name": "uni2",
+"rarity": 2,
+"teamId": 5,
+"gift": 3,
+"live": 47.599999999999994,
+"attack": 17,
+"defense": 3.090909090909091,
+"fatal": 0.0272,
+"recover": 0.011333333333333332,
+"restrain": {
+    "target": 4,
+    "value": 0.1
+}
+}, {
+"role": "48",
+"name": "uni3",
+"rarity": 3,
+"teamId": 5,
+"gift": 3,
+"live": 54.6,
+"attack": 19.5,
+"defense": 3.545454545454545,
+"fatal": 0.0312,
+"recover": 0.013,
+"restrain": {
+    "target": 4,
+    "value": 0.1
+}
+}, {
+"role": "88",
+"name": "uni5",
+"rarity": 5,
+"teamId": 5,
+"gift": 3,
+"live": 226.79999999999998,
+"attack": 81,
+"defense": 14.727272727272725,
+"fatal": 0.1296,
+"recover": 0.054,
+"restrain": {
+    "target": 4,
+    "value": 0.1
+},
+"upgradeTable": [{
+        "level": 1,
+        "live": 0,
+        "attack": 0,
+        "defense": 0,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 2,
+        "live": 22.68,
+        "attack": 8.1,
+        "defense": 1.4727272727272724,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 3,
+        "live": 45.36,
+        "attack": 16.2,
+        "defense": 2.945454545454545,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 4,
+        "live": 68.03999999999999,
+        "attack": 24.299999999999997,
+        "defense": 4.418181818181817,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 5,
+        "live": 90.72,
+        "attack": 32.4,
+        "defense": 5.89090909090909,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 6,
+        "live": 113.4,
+        "attack": 40.5,
+        "defense": 7.363636363636362,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 7,
+        "live": 136.07999999999998,
+        "attack": 48.599999999999994,
+        "defense": 8.836363636363634,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 8,
+        "live": 158.76,
+        "attack": 56.699999999999996,
+        "defense": 10.309090909090907,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 9,
+        "live": 181.44,
+        "attack": 64.8,
+        "defense": 11.78181818181818,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 10,
+        "live": 204.12,
+        "attack": 72.89999999999999,
+        "defense": 13.254545454545452,
+        "fatal": 0.1296,
+        "recover": 0.054
+    },
+    {
+        "level": 11,
+        "live": 226.8,
+        "attack": 81,
+        "defense": 14.727272727272725,
+        "fatal": 0.1296,
+        "recover": 0.054
+    },
+    {
+        "level": 12,
+        "live": 249.48,
+        "attack": 89.1,
+        "defense": 16.199999999999996,
+        "fatal": 0.1296,
+        "recover": 0.054
+    },
+    {
+        "level": 13,
+        "live": 272.15999999999997,
+        "attack": 97.19999999999999,
+        "defense": 17.67272727272727,
+        "fatal": 0.1296,
+        "recover": 0.054
+    },
+    {
+        "level": 14,
+        "live": 294.84,
+        "attack": 105.3,
+        "defense": 19.14545454545454,
+        "fatal": 0.1296,
+        "recover": 0.054
+    },
+    {
+        "level": 15,
+        "live": 317.52,
+        "attack": 113.39999999999999,
+        "defense": 20.618181818181814,
+        "fatal": 0.1296,
+        "recover": 0.054
+    },
+    {
+        "level": 16,
+        "live": 340.2,
+        "attack": 121.5,
+        "defense": 22.090909090909086,
+        "fatal": 0.1296,
+        "recover": 0.054
+    },
+    {
+        "level": 17,
+        "live": 362.88,
+        "attack": 129.6,
+        "defense": 23.56363636363636,
+        "fatal": 0.1296,
+        "recover": 0.054
+    },
+    {
+        "level": 18,
+        "live": 385.56,
+        "attack": 137.7,
+        "defense": 25.03636363636363,
+        "fatal": 0.1296,
+        "recover": 0.054
+    },
+    {
+        "level": 19,
+        "live": 408.24,
+        "attack": 145.79999999999998,
+        "defense": 26.509090909090904,
+        "fatal": 0.1296,
+        "recover": 0.054
+    },
+    {
+        "level": 20,
+        "live": 430.92,
+        "attack": 153.9,
+        "defense": 27.981818181818177,
+        "fatal": 0.2592,
+        "recover": 0.108
+    },
+    {
+        "level": 21,
+        "live": 453.6,
+        "attack": 162,
+        "defense": 29.45454545454545,
+        "fatal": 0.2592,
+        "recover": 0.108
+    },
+    {
+        "level": 22,
+        "live": 476.28,
+        "attack": 170.1,
+        "defense": 30.927272727272722,
+        "fatal": 0.2592,
+        "recover": 0.108
+    },
+    {
+        "level": 23,
+        "live": 498.96,
+        "attack": 178.2,
+        "defense": 32.39999999999999,
+        "fatal": 0.2592,
+        "recover": 0.108
+    },
+    {
+        "level": 24,
+        "live": 521.64,
+        "attack": 186.29999999999998,
+        "defense": 33.87272727272727,
+        "fatal": 0.2592,
+        "recover": 0.108
+    },
+    {
+        "level": 25,
+        "live": 544.3199999999999,
+        "attack": 194.39999999999998,
+        "defense": 35.34545454545454,
+        "fatal": 0.2592,
+        "recover": 0.108
+    },
+    {
+        "level": 26,
+        "live": 567,
+        "attack": 202.5,
+        "defense": 36.81818181818181,
+        "fatal": 0.2592,
+        "recover": 0.108
+    },
+    {
+        "level": 27,
+        "live": 589.68,
+        "attack": 210.6,
+        "defense": 38.29090909090908,
+        "fatal": 0.2592,
+        "recover": 0.108
+    },
+    {
+        "level": 28,
+        "live": 612.36,
+        "attack": 218.7,
+        "defense": 39.76363636363636,
+        "fatal": 0.2592,
+        "recover": 0.108
+    },
+    {
+        "level": 29,
+        "live": 635.04,
+        "attack": 226.79999999999998,
+        "defense": 41.23636363636363,
+        "fatal": 0.2592,
+        "recover": 0.108
+    },
+    {
+        "level": 30,
+        "live": 657.72,
+        "attack": 234.89999999999998,
+        "defense": 42.709090909090904,
+        "fatal": 0.3888,
+        "recover": 0.162
+    }
+]
+}, {
+"role": "4",
+"name": "tom&jerry1",
+"rarity": 1,
+"teamId": 6,
+"gift": 5,
+"live": 57.5,
+"attack": 9,
+"defense": 5,
+"fatal": 0.018,
+"recover": 0.010499999999999999,
+"restrain": {
+    "target": 3,
+    "value": 0.1
+}
+}, {
+"role": "24",
+"name": "tom&jerry2",
+"rarity": 2,
+"teamId": 6,
+"gift": 5,
+"live": 65.16666666666667,
+"attack": 10.2,
+"defense": 5.666666666666667,
+"fatal": 0.0204,
+"recover": 0.0119,
+"restrain": {
+    "target": 3,
+    "value": 0.1
+}
+}, {
+"role": "44",
+"name": "tom&jerry3",
+"rarity": 3,
+"teamId": 6,
+"gift": 5,
+"live": 74.75,
+"attack": 11.7,
+"defense": 6.5,
+"fatal": 0.0234,
+"recover": 0.01365,
+"restrain": {
+    "target": 3,
+    "value": 0.1
+}
+}, {
+"role": "64",
+"name": "tom&jerry4",
+"rarity": 4,
+"teamId": 6,
+"gift": 5,
+"live": 152.375,
+"attack": 23.85,
+"defense": 13.25,
+"fatal": 0.0477,
+"recover": 0.027825,
+"restrain": {
+    "target": 3,
+    "value": 0.1
+},
+"upgradeTable": [{
+        "level": 1,
+        "live": 0,
+        "attack": 0,
+        "defense": 0,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 2,
+        "live": 15.2375,
+        "attack": 2.385,
+        "defense": 1.325,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 3,
+        "live": 30.475,
+        "attack": 4.77,
+        "defense": 2.65,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 4,
+        "live": 45.7125,
+        "attack": 7.155,
+        "defense": 3.975,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 5,
+        "live": 60.95,
+        "attack": 9.54,
+        "defense": 5.3,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 6,
+        "live": 76.1875,
+        "attack": 11.925,
+        "defense": 6.625,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 7,
+        "live": 91.425,
+        "attack": 14.31,
+        "defense": 7.95,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 8,
+        "live": 106.6625,
+        "attack": 16.695,
+        "defense": 9.275,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 9,
+        "live": 121.9,
+        "attack": 19.08,
+        "defense": 10.6,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 10,
+        "live": 137.1375,
+        "attack": 21.465,
+        "defense": 11.925,
+        "fatal": 0.0101124,
+        "recover": 0.0058989
+    },
+    {
+        "level": 11,
+        "live": 152.375,
+        "attack": 23.85,
+        "defense": 13.25,
+        "fatal": 0.0101124,
+        "recover": 0.0058989
+    },
+    {
+        "level": 12,
+        "live": 167.6125,
+        "attack": 26.235,
+        "defense": 14.575,
+        "fatal": 0.0101124,
+        "recover": 0.0058989
+    },
+    {
+        "level": 13,
+        "live": 182.85,
+        "attack": 28.62,
+        "defense": 15.9,
+        "fatal": 0.0101124,
+        "recover": 0.0058989
+    },
+    {
+        "level": 14,
+        "live": 198.0875,
+        "attack": 31.005,
+        "defense": 17.225,
+        "fatal": 0.0101124,
+        "recover": 0.0058989
+    },
+    {
+        "level": 15,
+        "live": 213.325,
+        "attack": 33.39,
+        "defense": 18.55,
+        "fatal": 0.0101124,
+        "recover": 0.0058989
+    },
+    {
+        "level": 16,
+        "live": 228.5625,
+        "attack": 35.775,
+        "defense": 19.875,
+        "fatal": 0.0101124,
+        "recover": 0.0058989
+    },
+    {
+        "level": 17,
+        "live": 243.8,
+        "attack": 38.16,
+        "defense": 21.2,
+        "fatal": 0.0101124,
+        "recover": 0.0058989
+    },
+    {
+        "level": 18,
+        "live": 259.0375,
+        "attack": 40.545,
+        "defense": 22.525,
+        "fatal": 0.0101124,
+        "recover": 0.0058989
+    },
+    {
+        "level": 19,
+        "live": 274.275,
+        "attack": 42.93,
+        "defense": 23.85,
+        "fatal": 0.0101124,
+        "recover": 0.0058989
+    },
+    {
+        "level": 20,
+        "live": 289.5125,
+        "attack": 45.315,
+        "defense": 25.175,
+        "fatal": 0.0202248,
+        "recover": 0.0117978
+    },
+    {
+        "level": 21,
+        "live": 304.75,
+        "attack": 47.7,
+        "defense": 26.5,
+        "fatal": 0.0202248,
+        "recover": 0.0117978
+    },
+    {
+        "level": 22,
+        "live": 319.9875,
+        "attack": 50.085,
+        "defense": 27.825,
+        "fatal": 0.0202248,
+        "recover": 0.0117978
+    },
+    {
+        "level": 23,
+        "live": 335.225,
+        "attack": 52.47,
+        "defense": 29.15,
+        "fatal": 0.0202248,
+        "recover": 0.0117978
+    },
+    {
+        "level": 24,
+        "live": 350.4625,
+        "attack": 54.855,
+        "defense": 30.475,
+        "fatal": 0.0202248,
+        "recover": 0.0117978
+    },
+    {
+        "level": 25,
+        "live": 365.7,
+        "attack": 57.24,
+        "defense": 31.8,
+        "fatal": 0.0202248,
+        "recover": 0.0117978
+    },
+    {
+        "level": 26,
+        "live": 380.9375,
+        "attack": 59.625,
+        "defense": 33.125,
+        "fatal": 0.0202248,
+        "recover": 0.0117978
+    },
+    {
+        "level": 27,
+        "live": 396.175,
+        "attack": 62.01,
+        "defense": 34.45,
+        "fatal": 0.0202248,
+        "recover": 0.0117978
+    },
+    {
+        "level": 28,
+        "live": 411.4125,
+        "attack": 64.395,
+        "defense": 35.775,
+        "fatal": 0.0202248,
+        "recover": 0.0117978
+    },
+    {
+        "level": 29,
+        "live": 426.65,
+        "attack": 66.78,
+        "defense": 37.1,
+        "fatal": 0.0202248,
+        "recover": 0.0117978
+    },
+    {
+        "level": 30,
+        "live": 441.8875,
+        "attack": 69.165,
+        "defense": 38.425,
+        "fatal": 0.0303372,
+        "recover": 0.0176967
+    }
+]
+}, {
+"role": "16",
+"name": "hyena1",
+"rarity": 1,
+"teamId": 7,
+"gift": 2,
+"live": 55,
+"attack": 9,
+"defense": 5.25,
+"fatal": 0.018,
+"recover": 0.011,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+}
+}, {
+"role": "36",
+"name": "hyena2",
+"rarity": 2,
+"teamId": 7,
+"gift": 2,
+"live": 62.333333333333336,
+"attack": 10.2,
+"defense": 5.949999999999999,
+"fatal": 0.0204,
+"recover": 0.012466666666666666,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+}
+}, {
+"role": "56",
+"name": "hyena3",
+"rarity": 3,
+"teamId": 7,
+"gift": 2,
+"live": 71.5,
+"attack": 11.7,
+"defense": 6.825,
+"fatal": 0.0234,
+"recover": 0.0143,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+}
+}, {
+"role": "2",
+"name": "king1",
+"rarity": 1,
+"teamId": 8,
+"gift": 5,
+"live": 55,
+"attack": 11,
+"defense": 5.5,
+"fatal": 0.016,
+"recover": 0.008,
+"restrain": {
+    "target": 3,
+    "value": 0.1
+}
+}, {
+"role": "22",
+"name": "king2",
+"rarity": 2,
+"teamId": 8,
+"gift": 5,
+"live": 62.333333333333336,
+"attack": 12.466666666666667,
+"defense": 6.233333333333333,
+"fatal": 0.018133333333333335,
+"recover": 0.009066666666666667,
+"restrain": {
+    "target": 3,
+    "value": 0.1
+}
+}, {
+"role": "42",
+"name": "king3",
+"rarity": 3,
+"teamId": 8,
+"gift": 5,
+"live": 71.5,
+"attack": 14.3,
+"defense": 7.15,
+"fatal": 0.0208,
+"recover": 0.0104,
+"restrain": {
+    "target": 3,
+    "value": 0.1
+}
+}, {
+"role": "62",
+"name": "king4",
+"rarity": 4,
+"teamId": 8,
+"gift": 5,
+"live": 145.75,
+"attack": 29.15,
+"defense": 14.575,
+"fatal": 0.0424,
+"recover": 0.0212,
+"restrain": {
+    "target": 3,
+    "value": 0.1
+},
+"upgradeTable": [{
+        "level": 1,
+        "live": 0,
+        "attack": 0,
+        "defense": 0,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 2,
+        "live": 14.575,
+        "attack": 2.915,
+        "defense": 1.4575,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 3,
+        "live": 29.15,
+        "attack": 5.83,
+        "defense": 2.915,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 4,
+        "live": 43.725,
+        "attack": 8.745,
+        "defense": 4.3725,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 5,
+        "live": 58.3,
+        "attack": 11.66,
+        "defense": 5.83,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 6,
+        "live": 72.875,
+        "attack": 14.575,
+        "defense": 7.2875,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 7,
+        "live": 87.45,
+        "attack": 17.49,
+        "defense": 8.745,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 8,
+        "live": 102.025,
+        "attack": 20.405,
+        "defense": 10.2025,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 9,
+        "live": 116.6,
+        "attack": 23.32,
+        "defense": 11.66,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 10,
+        "live": 131.175,
+        "attack": 26.235,
+        "defense": 13.1175,
+        "fatal": 0.0089888,
+        "recover": 0.0044944
+    },
+    {
+        "level": 11,
+        "live": 145.75,
+        "attack": 29.15,
+        "defense": 14.575,
+        "fatal": 0.0089888,
+        "recover": 0.0044944
+    },
+    {
+        "level": 12,
+        "live": 160.325,
+        "attack": 32.065,
+        "defense": 16.0325,
+        "fatal": 0.0089888,
+        "recover": 0.0044944
+    },
+    {
+        "level": 13,
+        "live": 174.9,
+        "attack": 34.98,
+        "defense": 17.49,
+        "fatal": 0.0089888,
+        "recover": 0.0044944
+    },
+    {
+        "level": 14,
+        "live": 189.475,
+        "attack": 37.895,
+        "defense": 18.9475,
+        "fatal": 0.0089888,
+        "recover": 0.0044944
+    },
+    {
+        "level": 15,
+        "live": 204.05,
+        "attack": 40.81,
+        "defense": 20.405,
+        "fatal": 0.0089888,
+        "recover": 0.0044944
+    },
+    {
+        "level": 16,
+        "live": 218.625,
+        "attack": 43.725,
+        "defense": 21.8625,
+        "fatal": 0.0089888,
+        "recover": 0.0044944
+    },
+    {
+        "level": 17,
+        "live": 233.2,
+        "attack": 46.64,
+        "defense": 23.32,
+        "fatal": 0.0089888,
+        "recover": 0.0044944
+    },
+    {
+        "level": 18,
+        "live": 247.775,
+        "attack": 49.555,
+        "defense": 24.7775,
+        "fatal": 0.0089888,
+        "recover": 0.0044944
+    },
+    {
+        "level": 19,
+        "live": 262.35,
+        "attack": 52.47,
+        "defense": 26.235,
+        "fatal": 0.0089888,
+        "recover": 0.0044944
+    },
+    {
+        "level": 20,
+        "live": 276.925,
+        "attack": 55.385,
+        "defense": 27.6925,
+        "fatal": 0.0179776,
+        "recover": 0.0089888
+    },
+    {
+        "level": 21,
+        "live": 291.5,
+        "attack": 58.3,
+        "defense": 29.15,
+        "fatal": 0.0179776,
+        "recover": 0.0089888
+    },
+    {
+        "level": 22,
+        "live": 306.075,
+        "attack": 61.215,
+        "defense": 30.6075,
+        "fatal": 0.0179776,
+        "recover": 0.0089888
+    },
+    {
+        "level": 23,
+        "live": 320.65,
+        "attack": 64.13,
+        "defense": 32.065,
+        "fatal": 0.0179776,
+        "recover": 0.0089888
+    },
+    {
+        "level": 24,
+        "live": 335.225,
+        "attack": 67.045,
+        "defense": 33.5225,
+        "fatal": 0.0179776,
+        "recover": 0.0089888
+    },
+    {
+        "level": 25,
+        "live": 349.8,
+        "attack": 69.96,
+        "defense": 34.98,
+        "fatal": 0.0179776,
+        "recover": 0.0089888
+    },
+    {
+        "level": 26,
+        "live": 364.375,
+        "attack": 72.875,
+        "defense": 36.4375,
+        "fatal": 0.0179776,
+        "recover": 0.0089888
+    },
+    {
+        "level": 27,
+        "live": 378.95,
+        "attack": 75.79,
+        "defense": 37.895,
+        "fatal": 0.0179776,
+        "recover": 0.0089888
+    },
+    {
+        "level": 28,
+        "live": 393.525,
+        "attack": 78.705,
+        "defense": 39.3525,
+        "fatal": 0.0179776,
+        "recover": 0.0089888
+    },
+    {
+        "level": 29,
+        "live": 408.1,
+        "attack": 81.62,
+        "defense": 40.81,
+        "fatal": 0.0179776,
+        "recover": 0.0089888
+    },
+    {
+        "level": 30,
+        "live": 422.675,
+        "attack": 84.535,
+        "defense": 42.2675,
+        "fatal": 0.0269664,
+        "recover": 0.0134832
+    }
+]
+}, {
+"role": "18",
+"name": "kung fu bunny1",
+"rarity": 1,
+"teamId": 9,
+"gift": 2,
+"live": 67.5,
+"attack": 10.450000000000001,
+"defense": 4.5,
+"fatal": 0.019,
+"recover": 0.019500000000000003,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+}
+}, {
+"role": "38",
+"name": "kung fu bunny2",
+"rarity": 2,
+"teamId": 9,
+"gift": 2,
+"live": 76.5,
+"attack": 11.843333333333335,
+"defense": 5.088888888888889,
+"fatal": 0.021533333333333335,
+"recover": 0.022099999999999998,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+}
+}, {
+"role": "58",
+"name": "kung fu bunny3",
+"rarity": 3,
+"teamId": 9,
+"gift": 2,
+"live": 87.75,
+"attack": 13.585,
+"defense": 5.825,
+"fatal": 0.0247,
+"recover": 0.025350000000000004,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+}
+}, {
+"role": "98",
+"name": "kung fu bunny5",
+"rarity": 5,
+"teamId": 9,
+"gift": 2,
+"live": 364.5,
+"attack": 56.43,
+"defense": 24.1,
+"fatal": 0.1026,
+"recover": 0.10530000000000002,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+},
+"upgradeTable": [{
+        "level": 1,
+        "live": 0,
+        "attack": 0,
+        "defense": 0,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 2,
+        "live": 36.45,
+        "attack": 5.643,
+        "defense": 2.41,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 3,
+        "live": 72.9,
+        "attack": 11.286,
+        "defense": 4.82,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 4,
+        "live": 109.35000000000001,
+        "attack": 16.929,
+        "defense": 7.23,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 5,
+        "live": 145.8,
+        "attack": 22.572,
+        "defense": 9.64,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 6,
+        "live": 182.25,
+        "attack": 28.215,
+        "defense": 12.05,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 7,
+        "live": 218.70000000000002,
+        "attack": 33.858,
+        "defense": 14.46,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 8,
+        "live": 255.15000000000003,
+        "attack": 39.501,
+        "defense": 16.87,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 9,
+        "live": 291.6,
+        "attack": 45.144,
+        "defense": 19.28,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 10,
+        "live": 328.05,
+        "attack": 50.787,
+        "defense": 21.69,
+        "fatal": 0.1026,
+        "recover": 0.10530000000000002
+    },
+    {
+        "level": 11,
+        "live": 364.5,
+        "attack": 56.43,
+        "defense": 24.1,
+        "fatal": 0.1026,
+        "recover": 0.10530000000000002
+    },
+    {
+        "level": 12,
+        "live": 400.95000000000005,
+        "attack": 62.073,
+        "defense": 26.51,
+        "fatal": 0.1026,
+        "recover": 0.10530000000000002
+    },
+    {
+        "level": 13,
+        "live": 437.40000000000003,
+        "attack": 67.716,
+        "defense": 28.92,
+        "fatal": 0.1026,
+        "recover": 0.10530000000000002
+    },
+    {
+        "level": 14,
+        "live": 473.85,
+        "attack": 73.359,
+        "defense": 31.330000000000002,
+        "fatal": 0.1026,
+        "recover": 0.10530000000000002
+    },
+    {
+        "level": 15,
+        "live": 510.30000000000007,
+        "attack": 79.002,
+        "defense": 33.74,
+        "fatal": 0.1026,
+        "recover": 0.10530000000000002
+    },
+    {
+        "level": 16,
+        "live": 546.75,
+        "attack": 84.645,
+        "defense": 36.150000000000006,
+        "fatal": 0.1026,
+        "recover": 0.10530000000000002
+    },
+    {
+        "level": 17,
+        "live": 583.2,
+        "attack": 90.288,
+        "defense": 38.56,
+        "fatal": 0.1026,
+        "recover": 0.10530000000000002
+    },
+    {
+        "level": 18,
+        "live": 619.6500000000001,
+        "attack": 95.931,
+        "defense": 40.97,
+        "fatal": 0.1026,
+        "recover": 0.10530000000000002
+    },
+    {
+        "level": 19,
+        "live": 656.1,
+        "attack": 101.574,
+        "defense": 43.38,
+        "fatal": 0.1026,
+        "recover": 0.10530000000000002
+    },
+    {
+        "level": 20,
+        "live": 692.5500000000001,
+        "attack": 107.217,
+        "defense": 45.790000000000006,
+        "fatal": 0.2052,
+        "recover": 0.21060000000000004
+    },
+    {
+        "level": 21,
+        "live": 729,
+        "attack": 112.86,
+        "defense": 48.2,
+        "fatal": 0.2052,
+        "recover": 0.21060000000000004
+    },
+    {
+        "level": 22,
+        "live": 765.45,
+        "attack": 118.503,
+        "defense": 50.61,
+        "fatal": 0.2052,
+        "recover": 0.21060000000000004
+    },
+    {
+        "level": 23,
+        "live": 801.9000000000001,
+        "attack": 124.146,
+        "defense": 53.02,
+        "fatal": 0.2052,
+        "recover": 0.21060000000000004
+    },
+    {
+        "level": 24,
+        "live": 838.35,
+        "attack": 129.789,
+        "defense": 55.43000000000001,
+        "fatal": 0.2052,
+        "recover": 0.21060000000000004
+    },
+    {
+        "level": 25,
+        "live": 874.8000000000001,
+        "attack": 135.432,
+        "defense": 57.84,
+        "fatal": 0.2052,
+        "recover": 0.21060000000000004
+    },
+    {
+        "level": 26,
+        "live": 911.2500000000001,
+        "attack": 141.075,
+        "defense": 60.25,
+        "fatal": 0.2052,
+        "recover": 0.21060000000000004
+    },
+    {
+        "level": 27,
+        "live": 947.7,
+        "attack": 146.718,
+        "defense": 62.660000000000004,
+        "fatal": 0.2052,
+        "recover": 0.21060000000000004
+    },
+    {
+        "level": 28,
+        "live": 984.1500000000001,
+        "attack": 152.361,
+        "defense": 65.07000000000001,
+        "fatal": 0.2052,
+        "recover": 0.21060000000000004
+    },
+    {
+        "level": 29,
+        "live": 1020.6000000000001,
+        "attack": 158.004,
+        "defense": 67.48,
+        "fatal": 0.2052,
+        "recover": 0.21060000000000004
+    },
+    {
+        "level": 30,
+        "live": 1057.0500000000002,
+        "attack": 163.647,
+        "defense": 69.89,
+        "fatal": 0.30779999999999996,
+        "recover": 0.31590000000000007
+    }
+]
+}, {
+"role": "17",
+"name": "monkey1",
+"rarity": 1,
+"teamId": 10,
+"gift": 1,
+"live": 42.5,
+"attack": 13,
+"defense": 4.5,
+"fatal": 0.02,
+"recover": 0.01,
+"restrain": {
+    "target": 2,
+    "value": 0.1
+}
+}, {
+"role": "37",
+"name": "monkey2",
+"rarity": 2,
+"teamId": 10,
+"gift": 1,
+"live": 48.166666666666664,
+"attack": 14.733333333333333,
+"defense": 5.1,
+"fatal": 0.022666666666666665,
+"recover": 0.011333333333333332,
+"restrain": {
+    "target": 2,
+    "value": 0.1
+}
+}, {
+"role": "57",
+"name": "monkey3",
+"rarity": 3,
+"teamId": 10,
+"gift": 1,
+"live": 55.25,
+"attack": 16.9,
+"defense": 5.85,
+"fatal": 0.026,
+"recover": 0.013,
+"restrain": {
+    "target": 2,
+    "value": 0.1
+}
+}, {
+"role": "77",
+"name": "monkey4",
+"rarity": 4,
+"teamId": 10,
+"gift": 1,
+"live": 112.625,
+"attack": 34.45,
+"defense": 11.925,
+"fatal": 0.053,
+"recover": 0.0265,
+"restrain": {
+    "target": 2,
+    "value": 0.1
+},
+"upgradeTable": [{
+        "level": 1,
+        "live": 0,
+        "attack": 0,
+        "defense": 0,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 2,
+        "live": 11.2625,
+        "attack": 3.445,
+        "defense": 1.1925,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 3,
+        "live": 22.525,
+        "attack": 6.89,
+        "defense": 2.385,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 4,
+        "live": 33.7875,
+        "attack": 10.335,
+        "defense": 3.5775,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 5,
+        "live": 45.05,
+        "attack": 13.78,
+        "defense": 4.77,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 6,
+        "live": 56.3125,
+        "attack": 17.225,
+        "defense": 5.9625,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 7,
+        "live": 67.575,
+        "attack": 20.67,
+        "defense": 7.155,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 8,
+        "live": 78.8375,
+        "attack": 24.115,
+        "defense": 8.3475,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 9,
+        "live": 90.1,
+        "attack": 27.56,
+        "defense": 9.54,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 10,
+        "live": 101.3625,
+        "attack": 31.005,
+        "defense": 10.7325,
+        "fatal": 0.011236,
+        "recover": 0.005618
+    },
+    {
+        "level": 11,
+        "live": 112.625,
+        "attack": 34.45,
+        "defense": 11.925,
+        "fatal": 0.011236,
+        "recover": 0.005618
+    },
+    {
+        "level": 12,
+        "live": 123.8875,
+        "attack": 37.895,
+        "defense": 13.1175,
+        "fatal": 0.011236,
+        "recover": 0.005618
+    },
+    {
+        "level": 13,
+        "live": 135.15,
+        "attack": 41.34,
+        "defense": 14.31,
+        "fatal": 0.011236,
+        "recover": 0.005618
+    },
+    {
+        "level": 14,
+        "live": 146.4125,
+        "attack": 44.785,
+        "defense": 15.5025,
+        "fatal": 0.011236,
+        "recover": 0.005618
+    },
+    {
+        "level": 15,
+        "live": 157.675,
+        "attack": 48.23,
+        "defense": 16.695,
+        "fatal": 0.011236,
+        "recover": 0.005618
+    },
+    {
+        "level": 16,
+        "live": 168.9375,
+        "attack": 51.675,
+        "defense": 17.8875,
+        "fatal": 0.011236,
+        "recover": 0.005618
+    },
+    {
+        "level": 17,
+        "live": 180.2,
+        "attack": 55.12,
+        "defense": 19.08,
+        "fatal": 0.011236,
+        "recover": 0.005618
+    },
+    {
+        "level": 18,
+        "live": 191.4625,
+        "attack": 58.565,
+        "defense": 20.2725,
+        "fatal": 0.011236,
+        "recover": 0.005618
+    },
+    {
+        "level": 19,
+        "live": 202.725,
+        "attack": 62.01,
+        "defense": 21.465,
+        "fatal": 0.011236,
+        "recover": 0.005618
+    },
+    {
+        "level": 20,
+        "live": 213.9875,
+        "attack": 65.455,
+        "defense": 22.6575,
+        "fatal": 0.022472,
+        "recover": 0.011236
+    },
+    {
+        "level": 21,
+        "live": 225.25,
+        "attack": 68.9,
+        "defense": 23.85,
+        "fatal": 0.022472,
+        "recover": 0.011236
+    },
+    {
+        "level": 22,
+        "live": 236.5125,
+        "attack": 72.345,
+        "defense": 25.0425,
+        "fatal": 0.022472,
+        "recover": 0.011236
+    },
+    {
+        "level": 23,
+        "live": 247.775,
+        "attack": 75.79,
+        "defense": 26.235,
+        "fatal": 0.022472,
+        "recover": 0.011236
+    },
+    {
+        "level": 24,
+        "live": 259.0375,
+        "attack": 79.235,
+        "defense": 27.4275,
+        "fatal": 0.022472,
+        "recover": 0.011236
+    },
+    {
+        "level": 25,
+        "live": 270.3,
+        "attack": 82.68,
+        "defense": 28.62,
+        "fatal": 0.022472,
+        "recover": 0.011236
+    },
+    {
+        "level": 26,
+        "live": 281.5625,
+        "attack": 86.125,
+        "defense": 29.8125,
+        "fatal": 0.022472,
+        "recover": 0.011236
+    },
+    {
+        "level": 27,
+        "live": 292.825,
+        "attack": 89.57,
+        "defense": 31.005,
+        "fatal": 0.022472,
+        "recover": 0.011236
+    },
+    {
+        "level": 28,
+        "live": 304.0875,
+        "attack": 93.015,
+        "defense": 32.1975,
+        "fatal": 0.022472,
+        "recover": 0.011236
+    },
+    {
+        "level": 29,
+        "live": 315.35,
+        "attack": 96.46,
+        "defense": 33.39,
+        "fatal": 0.022472,
+        "recover": 0.011236
+    },
+    {
+        "level": 30,
+        "live": 326.6125,
+        "attack": 99.905,
+        "defense": 34.5825,
+        "fatal": 0.033708,
+        "recover": 0.016854
+    }
+]
+}, {
+"role": "14",
+"name": "alligator1",
+"rarity": 1,
+"teamId": 11,
+"gift": 3,
+"live": 52.5,
+"attack": 10.5,
+"defense": 4.5,
+"fatal": 0.020999999999999998,
+"recover": 0.009,
+"restrain": {
+    "target": 4,
+    "value": 0.1
+}
+}, {
+"role": "34",
+"name": "alligator2",
+"rarity": 2,
+"teamId": 11,
+"gift": 3,
+"live": 59.5,
+"attack": 11.899999999999999,
+"defense": 5.1,
+"fatal": 0.0238,
+"recover": 0.0102,
+"restrain": {
+    "target": 4,
+    "value": 0.1
+}
+}, {
+"role": "54",
+"name": "alligator3",
+"rarity": 3,
+"teamId": 11,
+"gift": 3,
+"live": 68.25,
+"attack": 13.65,
+"defense": 5.85,
+"fatal": 0.0273,
+"recover": 0.0117,
+"restrain": {
+    "target": 4,
+    "value": 0.1
+}
+}, {
+"role": "19",
+"name": "king kong1",
+"rarity": 1,
+"teamId": 12,
+"gift": 4,
+"live": 40,
+"attack": 12,
+"defense": 4.5,
+"fatal": 0.024,
+"recover": 0.008,
+"restrain": {
+    "target": 1,
+    "value": 0.1
+}
+}, {
+"role": "39",
+"name": "king kong2",
+"rarity": 2,
+"teamId": 12,
+"gift": 4,
+"live": 45.333333333333336,
+"attack": 13.600000000000001,
+"defense": 5.1,
+"fatal": 0.0272,
+"recover": 0.009066666666666667,
+"restrain": {
+    "target": 1,
+    "value": 0.1
+}
+}, {
+"role": "59",
+"name": "king kong3",
+"rarity": 3,
+"teamId": 12,
+"gift": 4,
+"live": 52,
+"attack": 15.6,
+"defense": 5.85,
+"fatal": 0.0312,
+"recover": 0.0104,
+"restrain": {
+    "target": 1,
+    "value": 0.1
+}
+}, {
+"role": "79",
+"name": "king kong4",
+"rarity": 4,
+"teamId": 12,
+"gift": 4,
+"live": 106,
+"attack": 31.8,
+"defense": 11.925,
+"fatal": 0.0636,
+"recover": 0.0212,
+"restrain": {
+    "target": 1,
+    "value": 0.1
+},
+"upgradeTable": [{
+        "level": 1,
+        "live": 0,
+        "attack": 0,
+        "defense": 0,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 2,
+        "live": 10.6,
+        "attack": 3.18,
+        "defense": 1.1925,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 3,
+        "live": 21.2,
+        "attack": 6.36,
+        "defense": 2.385,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 4,
+        "live": 31.8,
+        "attack": 9.54,
+        "defense": 3.5775,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 5,
+        "live": 42.4,
+        "attack": 12.72,
+        "defense": 4.77,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 6,
+        "live": 53,
+        "attack": 15.9,
+        "defense": 5.9625,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 7,
+        "live": 63.6,
+        "attack": 19.08,
+        "defense": 7.155,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 8,
+        "live": 74.2,
+        "attack": 22.26,
+        "defense": 8.3475,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 9,
+        "live": 84.8,
+        "attack": 25.44,
+        "defense": 9.54,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 10,
+        "live": 95.4,
+        "attack": 28.62,
+        "defense": 10.7325,
+        "fatal": 0.0134832,
+        "recover": 0.0044944
+    },
+    {
+        "level": 11,
+        "live": 106,
+        "attack": 31.8,
+        "defense": 11.925,
+        "fatal": 0.0134832,
+        "recover": 0.0044944
+    },
+    {
+        "level": 12,
+        "live": 116.6,
+        "attack": 34.98,
+        "defense": 13.1175,
+        "fatal": 0.0134832,
+        "recover": 0.0044944
+    },
+    {
+        "level": 13,
+        "live": 127.2,
+        "attack": 38.16,
+        "defense": 14.31,
+        "fatal": 0.0134832,
+        "recover": 0.0044944
+    },
+    {
+        "level": 14,
+        "live": 137.8,
+        "attack": 41.34,
+        "defense": 15.5025,
+        "fatal": 0.0134832,
+        "recover": 0.0044944
+    },
+    {
+        "level": 15,
+        "live": 148.4,
+        "attack": 44.52,
+        "defense": 16.695,
+        "fatal": 0.0134832,
+        "recover": 0.0044944
+    },
+    {
+        "level": 16,
+        "live": 159,
+        "attack": 47.7,
+        "defense": 17.8875,
+        "fatal": 0.0134832,
+        "recover": 0.0044944
+    },
+    {
+        "level": 17,
+        "live": 169.6,
+        "attack": 50.88,
+        "defense": 19.08,
+        "fatal": 0.0134832,
+        "recover": 0.0044944
+    },
+    {
+        "level": 18,
+        "live": 180.2,
+        "attack": 54.06,
+        "defense": 20.2725,
+        "fatal": 0.0134832,
+        "recover": 0.0044944
+    },
+    {
+        "level": 19,
+        "live": 190.8,
+        "attack": 57.24,
+        "defense": 21.465,
+        "fatal": 0.0134832,
+        "recover": 0.0044944
+    },
+    {
+        "level": 20,
+        "live": 201.4,
+        "attack": 60.42,
+        "defense": 22.6575,
+        "fatal": 0.0269664,
+        "recover": 0.0089888
+    },
+    {
+        "level": 21,
+        "live": 212,
+        "attack": 63.6,
+        "defense": 23.85,
+        "fatal": 0.0269664,
+        "recover": 0.0089888
+    },
+    {
+        "level": 22,
+        "live": 222.6,
+        "attack": 66.78,
+        "defense": 25.0425,
+        "fatal": 0.0269664,
+        "recover": 0.0089888
+    },
+    {
+        "level": 23,
+        "live": 233.2,
+        "attack": 69.96,
+        "defense": 26.235,
+        "fatal": 0.0269664,
+        "recover": 0.0089888
+    },
+    {
+        "level": 24,
+        "live": 243.8,
+        "attack": 73.14,
+        "defense": 27.4275,
+        "fatal": 0.0269664,
+        "recover": 0.0089888
+    },
+    {
+        "level": 25,
+        "live": 254.4,
+        "attack": 76.32,
+        "defense": 28.62,
+        "fatal": 0.0269664,
+        "recover": 0.0089888
+    },
+    {
+        "level": 26,
+        "live": 265,
+        "attack": 79.5,
+        "defense": 29.8125,
+        "fatal": 0.0269664,
+        "recover": 0.0089888
+    },
+    {
+        "level": 27,
+        "live": 275.6,
+        "attack": 82.68,
+        "defense": 31.005,
+        "fatal": 0.0269664,
+        "recover": 0.0089888
+    },
+    {
+        "level": 28,
+        "live": 286.2,
+        "attack": 85.86,
+        "defense": 32.1975,
+        "fatal": 0.0269664,
+        "recover": 0.0089888
+    },
+    {
+        "level": 29,
+        "live": 296.8,
+        "attack": 89.04,
+        "defense": 33.39,
+        "fatal": 0.0269664,
+        "recover": 0.0089888
+    },
+    {
+        "level": 30,
+        "live": 307.4,
+        "attack": 92.22,
+        "defense": 34.5825,
+        "fatal": 0.0404496,
+        "recover": 0.0134832
+    }
+]
+}, {
+"role": "9",
+"name": "shiba army1",
+"rarity": 1,
+"teamId": 13,
+"gift": 5,
+"live": 50,
+"attack": 11,
+"defense": 5.3,
+"fatal": 0.03333333333333333,
+"recover": 0.005,
+"restrain": {
+    "target": 3,
+    "value": 0.1
+}
+}, {
+"role": "29",
+"name": "shiba army2",
+"rarity": 2,
+"teamId": 13,
+"gift": 5,
+"live": 56.666666666666664,
+"attack": 12.466666666666669,
+"defense": 6.006666666666667,
+"fatal": 0.03777777777777778,
+"recover": 0.005666666666666666,
+"restrain": {
+    "target": 3,
+    "value": 0.1
+}
+}, {
+"role": "49",
+"name": "shiba army3",
+"rarity": 3,
+"teamId": 13,
+"gift": 5,
+"live": 65,
+"attack": 14.3,
+"defense": 6.89,
+"fatal": 0.043333333333333335,
+"recover": 0.0065,
+"restrain": {
+    "target": 3,
+    "value": 0.1
+}
+}, {
+"role": "89",
+"name": "shiba army5",
+"rarity": 5,
+"teamId": 13,
+"gift": 5,
+"live": 270,
+"attack": 59.400000000000006,
+"defense": 28.62,
+"fatal": 0.18,
+"recover": 0.027,
+"restrain": {
+    "target": 3,
+    "value": 0.1
+},
+"upgradeTable": [{
+        "level": 1,
+        "live": 0,
+        "attack": 0,
+        "defense": 0,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 2,
+        "live": 27,
+        "attack": 5.94,
+        "defense": 2.862,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 3,
+        "live": 54,
+        "attack": 11.88,
+        "defense": 5.724,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 4,
+        "live": 81,
+        "attack": 17.82,
+        "defense": 8.586,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 5,
+        "live": 108,
+        "attack": 23.76,
+        "defense": 11.448,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 6,
+        "live": 135,
+        "attack": 29.700000000000003,
+        "defense": 14.31,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 7,
+        "live": 162,
+        "attack": 35.64,
+        "defense": 17.172,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 8,
+        "live": 189,
+        "attack": 41.580000000000005,
+        "defense": 20.034,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 9,
+        "live": 216,
+        "attack": 47.52,
+        "defense": 22.896,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 10,
+        "live": 243,
+        "attack": 53.46,
+        "defense": 25.758000000000003,
+        "fatal": 0.18,
+        "recover": 0.027
+    },
+    {
+        "level": 11,
+        "live": 270,
+        "attack": 59.400000000000006,
+        "defense": 28.62,
+        "fatal": 0.18,
+        "recover": 0.027
+    },
+    {
+        "level": 12,
+        "live": 297,
+        "attack": 65.34,
+        "defense": 31.482,
+        "fatal": 0.18,
+        "recover": 0.027
+    },
+    {
+        "level": 13,
+        "live": 324,
+        "attack": 71.28,
+        "defense": 34.344,
+        "fatal": 0.18,
+        "recover": 0.027
+    },
+    {
+        "level": 14,
+        "live": 351,
+        "attack": 77.22,
+        "defense": 37.206,
+        "fatal": 0.18,
+        "recover": 0.027
+    },
+    {
+        "level": 15,
+        "live": 378,
+        "attack": 83.16000000000001,
+        "defense": 40.068,
+        "fatal": 0.18,
+        "recover": 0.027
+    },
+    {
+        "level": 16,
+        "live": 405,
+        "attack": 89.10000000000001,
+        "defense": 42.93,
+        "fatal": 0.18,
+        "recover": 0.027
+    },
+    {
+        "level": 17,
+        "live": 432,
+        "attack": 95.04,
+        "defense": 45.792,
+        "fatal": 0.18,
+        "recover": 0.027
+    },
+    {
+        "level": 18,
+        "live": 459,
+        "attack": 100.98,
+        "defense": 48.654,
+        "fatal": 0.18,
+        "recover": 0.027
+    },
+    {
+        "level": 19,
+        "live": 486,
+        "attack": 106.92,
+        "defense": 51.516000000000005,
+        "fatal": 0.18,
+        "recover": 0.027
+    },
+    {
+        "level": 20,
+        "live": 513,
+        "attack": 112.86000000000001,
+        "defense": 54.378,
+        "fatal": 0.36,
+        "recover": 0.054
+    },
+    {
+        "level": 21,
+        "live": 540,
+        "attack": 118.80000000000001,
+        "defense": 57.24,
+        "fatal": 0.36,
+        "recover": 0.054
+    },
+    {
+        "level": 22,
+        "live": 567,
+        "attack": 124.74000000000001,
+        "defense": 60.102000000000004,
+        "fatal": 0.36,
+        "recover": 0.054
+    },
+    {
+        "level": 23,
+        "live": 594,
+        "attack": 130.68,
+        "defense": 62.964,
+        "fatal": 0.36,
+        "recover": 0.054
+    },
+    {
+        "level": 24,
+        "live": 621,
+        "attack": 136.62,
+        "defense": 65.82600000000001,
+        "fatal": 0.36,
+        "recover": 0.054
+    },
+    {
+        "level": 25,
+        "live": 648,
+        "attack": 142.56,
+        "defense": 68.688,
+        "fatal": 0.36,
+        "recover": 0.054
+    },
+    {
+        "level": 26,
+        "live": 675,
+        "attack": 148.5,
+        "defense": 71.55,
+        "fatal": 0.36,
+        "recover": 0.054
+    },
+    {
+        "level": 27,
+        "live": 702,
+        "attack": 154.44,
+        "defense": 74.412,
+        "fatal": 0.36,
+        "recover": 0.054
+    },
+    {
+        "level": 28,
+        "live": 729,
+        "attack": 160.38000000000002,
+        "defense": 77.274,
+        "fatal": 0.36,
+        "recover": 0.054
+    },
+    {
+        "level": 29,
+        "live": 756,
+        "attack": 166.32000000000002,
+        "defense": 80.136,
+        "fatal": 0.36,
+        "recover": 0.054
+    },
+    {
+        "level": 30,
+        "live": 783,
+        "attack": 172.26000000000002,
+        "defense": 82.998,
+        "fatal": 0.54,
+        "recover": 0.081
+    }
+]
+}, {
+"role": "12",
+"name": "doggy1",
+"rarity": 1,
+"teamId": 14,
+"gift": 3,
+"live": 45,
+"attack": 12.5,
+"defense": 4.75,
+"fatal": 0.02,
+"recover": 0.009,
+"restrain": {
+    "target": 4,
+    "value": 0.1
+}
+}, {
+"role": "32",
+"name": "doggy2",
+"rarity": 2,
+"teamId": 14,
+"gift": 3,
+"live": 51,
+"attack": 14.166666666666666,
+"defense": 5.383333333333334,
+"fatal": 0.022666666666666665,
+"recover": 0.0102,
+"restrain": {
+    "target": 4,
+    "value": 0.1
+}
+}, {
+"role": "52",
+"name": "doggy3",
+"rarity": 3,
+"teamId": 14,
+"gift": 3,
+"live": 58.5,
+"attack": 16.25,
+"defense": 6.175,
+"fatal": 0.026,
+"recover": 0.0117,
+"restrain": {
+    "target": 4,
+    "value": 0.1
+}
+}, {
+"role": "72",
+"name": "doggy4",
+"rarity": 4,
+"teamId": 14,
+"gift": 3,
+"live": 119.25,
+"attack": 33.125,
+"defense": 12.5875,
+"fatal": 0.053,
+"recover": 0.02385,
+"restrain": {
+    "target": 4,
+    "value": 0.1
+},
+"upgradeTable": [{
+        "level": 1,
+        "live": 0,
+        "attack": 0,
+        "defense": 0,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 2,
+        "live": 11.925,
+        "attack": 3.3125,
+        "defense": 1.25875,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 3,
+        "live": 23.85,
+        "attack": 6.625,
+        "defense": 2.5175,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 4,
+        "live": 35.775,
+        "attack": 9.9375,
+        "defense": 3.77625,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 5,
+        "live": 47.7,
+        "attack": 13.25,
+        "defense": 5.035,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 6,
+        "live": 59.625,
+        "attack": 16.5625,
+        "defense": 6.29375,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 7,
+        "live": 71.55,
+        "attack": 19.875,
+        "defense": 7.5525,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 8,
+        "live": 83.475,
+        "attack": 23.1875,
+        "defense": 8.81125,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 9,
+        "live": 95.4,
+        "attack": 26.5,
+        "defense": 10.07,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 10,
+        "live": 107.325,
+        "attack": 29.8125,
+        "defense": 11.32875,
+        "fatal": 0.011236,
+        "recover": 0.0050562
+    },
+    {
+        "level": 11,
+        "live": 119.25,
+        "attack": 33.125,
+        "defense": 12.5875,
+        "fatal": 0.011236,
+        "recover": 0.0050562
+    },
+    {
+        "level": 12,
+        "live": 131.175,
+        "attack": 36.4375,
+        "defense": 13.84625,
+        "fatal": 0.011236,
+        "recover": 0.0050562
+    },
+    {
+        "level": 13,
+        "live": 143.1,
+        "attack": 39.75,
+        "defense": 15.105,
+        "fatal": 0.011236,
+        "recover": 0.0050562
+    },
+    {
+        "level": 14,
+        "live": 155.025,
+        "attack": 43.0625,
+        "defense": 16.36375,
+        "fatal": 0.011236,
+        "recover": 0.0050562
+    },
+    {
+        "level": 15,
+        "live": 166.95,
+        "attack": 46.375,
+        "defense": 17.6225,
+        "fatal": 0.011236,
+        "recover": 0.0050562
+    },
+    {
+        "level": 16,
+        "live": 178.875,
+        "attack": 49.6875,
+        "defense": 18.88125,
+        "fatal": 0.011236,
+        "recover": 0.0050562
+    },
+    {
+        "level": 17,
+        "live": 190.8,
+        "attack": 53,
+        "defense": 20.14,
+        "fatal": 0.011236,
+        "recover": 0.0050562
+    },
+    {
+        "level": 18,
+        "live": 202.725,
+        "attack": 56.3125,
+        "defense": 21.39875,
+        "fatal": 0.011236,
+        "recover": 0.0050562
+    },
+    {
+        "level": 19,
+        "live": 214.65,
+        "attack": 59.625,
+        "defense": 22.6575,
+        "fatal": 0.011236,
+        "recover": 0.0050562
+    },
+    {
+        "level": 20,
+        "live": 226.575,
+        "attack": 62.9375,
+        "defense": 23.91625,
+        "fatal": 0.022472,
+        "recover": 0.0101124
+    },
+    {
+        "level": 21,
+        "live": 238.5,
+        "attack": 66.25,
+        "defense": 25.175,
+        "fatal": 0.022472,
+        "recover": 0.0101124
+    },
+    {
+        "level": 22,
+        "live": 250.425,
+        "attack": 69.5625,
+        "defense": 26.43375,
+        "fatal": 0.022472,
+        "recover": 0.0101124
+    },
+    {
+        "level": 23,
+        "live": 262.35,
+        "attack": 72.875,
+        "defense": 27.6925,
+        "fatal": 0.022472,
+        "recover": 0.0101124
+    },
+    {
+        "level": 24,
+        "live": 274.275,
+        "attack": 76.1875,
+        "defense": 28.95125,
+        "fatal": 0.022472,
+        "recover": 0.0101124
+    },
+    {
+        "level": 25,
+        "live": 286.2,
+        "attack": 79.5,
+        "defense": 30.21,
+        "fatal": 0.022472,
+        "recover": 0.0101124
+    },
+    {
+        "level": 26,
+        "live": 298.125,
+        "attack": 82.8125,
+        "defense": 31.46875,
+        "fatal": 0.022472,
+        "recover": 0.0101124
+    },
+    {
+        "level": 27,
+        "live": 310.05,
+        "attack": 86.125,
+        "defense": 32.7275,
+        "fatal": 0.022472,
+        "recover": 0.0101124
+    },
+    {
+        "level": 28,
+        "live": 321.975,
+        "attack": 89.4375,
+        "defense": 33.98625,
+        "fatal": 0.022472,
+        "recover": 0.0101124
+    },
+    {
+        "level": 29,
+        "live": 333.9,
+        "attack": 92.75,
+        "defense": 35.245,
+        "fatal": 0.022472,
+        "recover": 0.0101124
+    },
+    {
+        "level": 30,
+        "live": 345.825,
+        "attack": 96.0625,
+        "defense": 36.50375,
+        "fatal": 0.033708,
+        "recover": 0.0151686
+    }
+]
+}, {
+"role": "6",
+"name": "giraffe1",
+"rarity": 1,
+"teamId": 15,
+"gift": 1,
+"live": 47.5,
+"attack": 11.5,
+"defense": 5,
+"fatal": 0.017,
+"recover": 0.010499999999999999,
+"restrain": {
+    "target": 2,
+    "value": 0.1
+}
+}, {
+"role": "26",
+"name": "giraffe2",
+"rarity": 2,
+"teamId": 15,
+"gift": 1,
+"live": 53.833333333333336,
+"attack": 13.033333333333333,
+"defense": 5.666666666666667,
+"fatal": 0.019266666666666668,
+"recover": 0.0119,
+"restrain": {
+    "target": 2,
+    "value": 0.1
+}
+}, {
+"role": "46",
+"name": "giraffe3",
+"rarity": 3,
+"teamId": 15,
+"gift": 1,
+"live": 61.75,
+"attack": 14.95,
+"defense": 6.5,
+"fatal": 0.0221,
+"recover": 0.01365,
+"restrain": {
+    "target": 2,
+    "value": 0.1
+}
+}, {
+"role": "10",
+"name": "heavy weight1",
+"rarity": 1,
+"teamId": 16,
+"gift": 4,
+"live": 67.5,
+"attack": 7.5,
+"defense": 5,
+"fatal": 0.02,
+"recover": 0.009,
+"restrain": {
+    "target": 1,
+    "value": 0.1
+}
+}, {
+"role": "30",
+"name": "heavy weight2",
+"rarity": 2,
+"teamId": 16,
+"gift": 4,
+"live": 76.5,
+"attack": 8.5,
+"defense": 5.666666666666667,
+"fatal": 0.022666666666666665,
+"recover": 0.0102,
+"restrain": {
+    "target": 1,
+    "value": 0.1
+}
+}, {
+"role": "50",
+"name": "heavy weight3",
+"rarity": 3,
+"teamId": 16,
+"gift": 4,
+"live": 87.75,
+"attack": 9.75,
+"defense": 6.5,
+"fatal": 0.026,
+"recover": 0.0117,
+"restrain": {
+    "target": 1,
+    "value": 0.1
+}
+}, {
+"role": "70",
+"name": "heavy weight4",
+"rarity": 4,
+"teamId": 16,
+"gift": 4,
+"live": 182.5,
+"attack": 19.875,
+"defense": 13.25,
+"fatal": 0.053,
+"recover": 0.02385,
+"restrain": {
+    "target": 1,
+    "value": 0.1
+},
+"upgradeTable": [{
+        "level": 1,
+        "live": 0,
+        "attack": 0,
+        "defense": 0,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 2,
+        "live": 17.8875,
+        "attack": 1.9875,
+        "defense": 1.325,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 3,
+        "live": 35.775,
+        "attack": 3.975,
+        "defense": 2.65,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 4,
+        "live": 53.6625,
+        "attack": 5.9625,
+        "defense": 3.975,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 5,
+        "live": 71.55,
+        "attack": 7.95,
+        "defense": 5.3,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 6,
+        "live": 89.4375,
+        "attack": 9.9375,
+        "defense": 6.625,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 7,
+        "live": 107.325,
+        "attack": 11.925,
+        "defense": 7.95,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 8,
+        "live": 125.2125,
+        "attack": 13.9125,
+        "defense": 9.275,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 9,
+        "live": 143.1,
+        "attack": 15.9,
+        "defense": 10.6,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 10,
+        "live": 160.9875,
+        "attack": 17.8875,
+        "defense": 11.925,
+        "fatal": 0.011236,
+        "recover": 0.0050562
+    },
+    {
+        "level": 11,
+        "live": 178.875,
+        "attack": 19.875,
+        "defense": 13.25,
+        "fatal": 0.011236,
+        "recover": 0.0050562
+    },
+    {
+        "level": 12,
+        "live": 196.7625,
+        "attack": 21.8625,
+        "defense": 14.575,
+        "fatal": 0.011236,
+        "recover": 0.0050562
+    },
+    {
+        "level": 13,
+        "live": 214.65,
+        "attack": 23.85,
+        "defense": 15.9,
+        "fatal": 0.011236,
+        "recover": 0.0050562
+    },
+    {
+        "level": 14,
+        "live": 232.5375,
+        "attack": 25.8375,
+        "defense": 17.225,
+        "fatal": 0.011236,
+        "recover": 0.0050562
+    },
+    {
+        "level": 15,
+        "live": 250.425,
+        "attack": 27.825,
+        "defense": 18.55,
+        "fatal": 0.011236,
+        "recover": 0.0050562
+    },
+    {
+        "level": 16,
+        "live": 268.3125,
+        "attack": 29.8125,
+        "defense": 19.875,
+        "fatal": 0.011236,
+        "recover": 0.0050562
+    },
+    {
+        "level": 17,
+        "live": 286.2,
+        "attack": 31.8,
+        "defense": 21.2,
+        "fatal": 0.011236,
+        "recover": 0.0050562
+    },
+    {
+        "level": 18,
+        "live": 304.0875,
+        "attack": 33.7875,
+        "defense": 22.525,
+        "fatal": 0.011236,
+        "recover": 0.0050562
+    },
+    {
+        "level": 19,
+        "live": 321.975,
+        "attack": 35.775,
+        "defense": 23.85,
+        "fatal": 0.011236,
+        "recover": 0.0050562
+    },
+    {
+        "level": 20,
+        "live": 339.8625,
+        "attack": 37.7625,
+        "defense": 25.175,
+        "fatal": 0.022472,
+        "recover": 0.0101124
+    },
+    {
+        "level": 21,
+        "live": 357.75,
+        "attack": 39.75,
+        "defense": 26.5,
+        "fatal": 0.022472,
+        "recover": 0.0101124
+    },
+    {
+        "level": 22,
+        "live": 375.6375,
+        "attack": 41.7375,
+        "defense": 27.825,
+        "fatal": 0.022472,
+        "recover": 0.0101124
+    },
+    {
+        "level": 23,
+        "live": 393.525,
+        "attack": 43.725,
+        "defense": 29.15,
+        "fatal": 0.022472,
+        "recover": 0.0101124
+    },
+    {
+        "level": 24,
+        "live": 411.4125,
+        "attack": 45.7125,
+        "defense": 30.475,
+        "fatal": 0.022472,
+        "recover": 0.0101124
+    },
+    {
+        "level": 25,
+        "live": 429.3,
+        "attack": 47.7,
+        "defense": 31.8,
+        "fatal": 0.022472,
+        "recover": 0.0101124
+    },
+    {
+        "level": 26,
+        "live": 447.1875,
+        "attack": 49.6875,
+        "defense": 33.125,
+        "fatal": 0.022472,
+        "recover": 0.0101124
+    },
+    {
+        "level": 27,
+        "live": 465.075,
+        "attack": 51.675,
+        "defense": 34.45,
+        "fatal": 0.022472,
+        "recover": 0.0101124
+    },
+    {
+        "level": 28,
+        "live": 482.9625,
+        "attack": 53.6625,
+        "defense": 35.775,
+        "fatal": 0.022472,
+        "recover": 0.0101124
+    },
+    {
+        "level": 29,
+        "live": 500.85,
+        "attack": 55.65,
+        "defense": 37.1,
+        "fatal": 0.022472,
+        "recover": 0.0101124
+    },
+    {
+        "level": 30,
+        "live": 518.7375,
+        "attack": 57.6375,
+        "defense": 38.425,
+        "fatal": 0.033708,
+        "recover": 0.0151686
+    }
+]
+}, {
+"role": "15",
+"name": "C&D1",
+"rarity": 1,
+"teamId": 17,
+"gift": 1,
+"live": 65,
+"attack": 8.5,
+"defense": 7.199999999999998,
+"fatal": 0.018,
+"recover": 0.0095,
+"restrain": {
+    "target": 2,
+    "value": 0.1
+}
+}, {
+"role": "35",
+"name": "C&D2",
+"rarity": 2,
+"teamId": 17,
+"gift": 1,
+"live": 73.66666666666667,
+"attack": 9.622222222222222,
+"defense": 8.159999999999998,
+"fatal": 0.020399999999999998,
+"recover": 0.010766666666666667,
+"restrain": {
+    "target": 2,
+    "value": 0.1
+}
+}, {
+"role": "55",
+"name": "C&D3",
+"rarity": 3,
+"teamId": 17,
+"gift": 1,
+"live": 84.5,
+"attack": 11.025,
+"defense": 9.36,
+"fatal": 0.0234,
+"recover": 0.01235,
+"restrain": {
+    "target": 2,
+    "value": 0.1
+}
+}, {
+"role": "95",
+"name": "C&D5",
+"rarity": 5,
+"teamId": 17,
+"gift": 1,
+"live": 351,
+"attack": 45.7,
+"defense": 38.879999999999995,
+"fatal": 0.09720000000000001,
+"recover": 0.0513,
+"restrain": {
+    "target": 2,
+    "value": 0.1
+},
+"upgradeTable": [{
+        "level": 1,
+        "live": 0,
+        "attack": 0,
+        "defense": 0,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 2,
+        "live": 35.1,
+        "attack": 4.57,
+        "defense": 3.8879999999999995,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 3,
+        "live": 70.2,
+        "attack": 9.14,
+        "defense": 7.775999999999999,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 4,
+        "live": 105.30000000000001,
+        "attack": 13.71,
+        "defense": 11.663999999999998,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 5,
+        "live": 140.4,
+        "attack": 18.28,
+        "defense": 15.551999999999998,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 6,
+        "live": 175.5,
+        "attack": 22.85,
+        "defense": 19.439999999999998,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 7,
+        "live": 210.60000000000002,
+        "attack": 27.42,
+        "defense": 23.327999999999996,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 8,
+        "live": 245.70000000000002,
+        "attack": 31.990000000000002,
+        "defense": 27.215999999999998,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 9,
+        "live": 280.8,
+        "attack": 36.56,
+        "defense": 31.103999999999996,
+        "fatal": 0,
+        "recover": 0
+    },
+    {
+        "level": 10,
+        "live": 315.90000000000003,
+        "attack": 41.13,
+        "defense": 34.992,
+        "fatal": 0.09720000000000001,
+        "recover": 0.0513
+    },
+    {
+        "level": 11,
+        "live": 351,
+        "attack": 45.7,
+        "defense": 38.879999999999995,
+        "fatal": 0.09720000000000001,
+        "recover": 0.0513
+    },
+    {
+        "level": 12,
+        "live": 386.1,
+        "attack": 50.27,
+        "defense": 42.767999999999994,
+        "fatal": 0.09720000000000001,
+        "recover": 0.0513
+    },
+    {
+        "level": 13,
+        "live": 421.20000000000005,
+        "attack": 54.84,
+        "defense": 46.65599999999999,
+        "fatal": 0.09720000000000001,
+        "recover": 0.0513
+    },
+    {
+        "level": 14,
+        "live": 456.3,
+        "attack": 59.410000000000004,
+        "defense": 50.54399999999999,
+        "fatal": 0.09720000000000001,
+        "recover": 0.0513
+    },
+    {
+        "level": 15,
+        "live": 491.40000000000003,
+        "attack": 63.980000000000004,
+        "defense": 54.431999999999995,
+        "fatal": 0.09720000000000001,
+        "recover": 0.0513
+    },
+    {
+        "level": 16,
+        "live": 526.5,
+        "attack": 68.55000000000001,
+        "defense": 58.31999999999999,
+        "fatal": 0.09720000000000001,
+        "recover": 0.0513
+    },
+    {
+        "level": 17,
+        "live": 561.6,
+        "attack": 73.12,
+        "defense": 62.20799999999999,
+        "fatal": 0.09720000000000001,
+        "recover": 0.0513
+    },
+    {
+        "level": 18,
+        "live": 596.7,
+        "attack": 77.69,
+        "defense": 66.09599999999999,
+        "fatal": 0.09720000000000001,
+        "recover": 0.0513
+    },
+    {
+        "level": 19,
+        "live": 631.8000000000001,
+        "attack": 82.26,
+        "defense": 69.984,
+        "fatal": 0.09720000000000001,
+        "recover": 0.0513
+    },
+    {
+        "level": 20,
+        "live": 666.9,
+        "attack": 86.83000000000001,
+        "defense": 73.87199999999999,
+        "fatal": 0.19440000000000002,
+        "recover": 0.1026
+    },
+    {
+        "level": 21,
+        "live": 702,
+        "attack": 91.4,
+        "defense": 77.75999999999999,
+        "fatal": 0.19440000000000002,
+        "recover": 0.1026
+    },
+    {
+        "level": 22,
+        "live": 737.1,
+        "attack": 95.97,
+        "defense": 81.64799999999998,
+        "fatal": 0.19440000000000002,
+        "recover": 0.1026
+    },
+    {
+        "level": 23,
+        "live": 772.2,
+        "attack": 100.54,
+        "defense": 85.53599999999999,
+        "fatal": 0.19440000000000002,
+        "recover": 0.1026
+    },
+    {
+        "level": 24,
+        "live": 807.3000000000001,
+        "attack": 105.11000000000001,
+        "defense": 89.42399999999999,
+        "fatal": 0.19440000000000002,
+        "recover": 0.1026
+    },
+    {
+        "level": 25,
+        "live": 842.4000000000001,
+        "attack": 109.68,
+        "defense": 93.31199999999998,
+        "fatal": 0.19440000000000002,
+        "recover": 0.1026
+    }, {
+        "level": 26,
+        "live": 877.5,
+        "attack": 114.25,
+        "defense": 97.19999999999999,
+        "fatal": 0.19440000000000002,
+        "recover": 0.1026
+    }, {
+        "level": 27,
+        "live": 912.6,
+        "attack": 118.82000000000001,
+        "defense": 101.08799999999998,
+        "fatal": 0.19440000000000002,
+        "recover": 0.1026
+    }, {
+        "level": 28,
+        "live": 947.7,
+        "attack": 123.39000000000001,
+        "defense": 104.97599999999998,
+        "fatal": 0.19440000000000002,
+        "recover": 0.1026
+    }, {
+        "level": 29,
+        "live": 982.8000000000001,
+        "attack": 127.96000000000001,
+        "defense": 108.86399999999999,
+        "fatal": 0.19440000000000002,
+        "recover": 0.1026
+    }, {
+        "level": 30,
+        "live": 1017.9000000000001,
+        "attack": 132.53,
+        "defense": 112.75199999999998,
+        "fatal": 0.2916,
+        "recover": 0.15389999999999998
+    }
+]
+}, {
+"role": "20",
+"name": "akita1",
+"rarity": 1,
+"teamId": 18,
+"gift": 3,
+"live": 60,
+"attack": 8.5,
+"defense": 4.5,
+"fatal": 0.024,
+"recover": 0.009,
+"restrain": {
+    "target": 4,
+    "value": 0.1
+}
+}, {
+"role": "40",
+"name": "akita2",
+"rarity": 2,
+"teamId": 18,
+"gift": 3,
+"live": 68,
+"attack": 9.633333333333333,
+"defense": 5.1,
+"fatal": 0.0272,
+"recover": 0.0102,
+"restrain": {
+    "target": 4,
+    "value": 0.1
+}
+}, {
+"role": "60",
+"name": "akita3",
+"rarity": 3,
+"teamId": 18,
+"gift": 3,
+"live": 78,
+"attack": 11.05,
+"defense": 5.85,
+"fatal": 0.0312,
+"recover": 0.0117,
+"restrain": {
+    "target": 4,
+    "value": 0.1
+}
+}, {
+"role": "80",
+"name": "akita4",
+"rarity": 4,
+"teamId": 18,
+"gift": 3,
+"live": 159,
+"attack": 22.525,
+"defense": 11.925,
+"fatal": 0.0636,
+"recover": 0.02385,
+"restrain": {
+    "target": 4,
+    "value": 0.1
+},
+"upgradeTable": [{
+    "level": 1,
+    "live": 0,
+    "attack": 0,
+    "defense": 0,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 2,
+    "live": 15.9,
+    "attack": 2.2525,
+    "defense": 1.1925,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 3,
+    "live": 31.8,
+    "attack": 4.505,
+    "defense": 2.385,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 4,
+    "live": 47.7,
+    "attack": 6.7575,
+    "defense": 3.5775,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 5,
+    "live": 63.6,
+    "attack": 9.01,
+    "defense": 4.77,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 6,
+    "live": 79.5,
+    "attack": 11.2625,
+    "defense": 5.9625,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 7,
+    "live": 95.4,
+    "attack": 13.515,
+    "defense": 7.155,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 8,
+    "live": 111.3,
+    "attack": 15.7675,
+    "defense": 8.3475,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 9,
+    "live": 127.2,
+    "attack": 18.02,
+    "defense": 9.54,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 10,
+    "live": 143.1,
+    "attack": 20.2725,
+    "defense": 10.7325,
+    "fatal": 0.0134832,
+    "recover": 0.0050562
+}, {
+    "level": 11,
+    "live": 159,
+    "attack": 22.525,
+    "defense": 11.925,
+    "fatal": 0.0134832,
+    "recover": 0.0050562
+}, {
+    "level": 12,
+    "live": 174.9,
+    "attack": 24.7775,
+    "defense": 13.1175,
+    "fatal": 0.0134832,
+    "recover": 0.0050562
+}, {
+    "level": 13,
+    "live": 190.8,
+    "attack": 27.03,
+    "defense": 14.31,
+    "fatal": 0.0134832,
+    "recover": 0.0050562
+}, {
+    "level": 14,
+    "live": 206.7,
+    "attack": 29.2825,
+    "defense": 15.5025,
+    "fatal": 0.0134832,
+    "recover": 0.0050562
+}, {
+    "level": 15,
+    "live": 222.6,
+    "attack": 31.535,
+    "defense": 16.695,
+    "fatal": 0.0134832,
+    "recover": 0.0050562
+}, {
+    "level": 16,
+    "live": 238.5,
+    "attack": 33.7875,
+    "defense": 17.8875,
+    "fatal": 0.0134832,
+    "recover": 0.0050562
+}, {
+    "level": 17,
+    "live": 254.4,
+    "attack": 36.04,
+    "defense": 19.08,
+    "fatal": 0.0134832,
+    "recover": 0.0050562
+}, {
+    "level": 18,
+    "live": 270.3,
+    "attack": 38.2925,
+    "defense": 20.2725,
+    "fatal": 0.0134832,
+    "recover": 0.0050562
+}, {
+    "level": 19,
+    "live": 286.2,
+    "attack": 40.545,
+    "defense": 21.465,
+    "fatal": 0.0134832,
+    "recover": 0.0050562
+}, {
+    "level": 20,
+    "live": 302.1,
+    "attack": 42.7975,
+    "defense": 22.6575,
+    "fatal": 0.0269664,
+    "recover": 0.0101124
+}, {
+    "level": 21,
+    "live": 318,
+    "attack": 45.05,
+    "defense": 23.85,
+    "fatal": 0.0269664,
+    "recover": 0.0101124
+}, {
+    "level": 22,
+    "live": 333.9,
+    "attack": 47.3025,
+    "defense": 25.0425,
+    "fatal": 0.0269664,
+    "recover": 0.0101124
+}, {
+    "level": 23,
+    "live": 349.8,
+    "attack": 49.555,
+    "defense": 26.235,
+    "fatal": 0.0269664,
+    "recover": 0.0101124
+}, {
+    "level": 24,
+    "live": 365.7,
+    "attack": 51.8075,
+    "defense": 27.4275,
+    "fatal": 0.0269664,
+    "recover": 0.0101124
+}, {
+    "level": 25,
+    "live": 381.6,
+    "attack": 54.06,
+    "defense": 28.62,
+    "fatal": 0.0269664,
+    "recover": 0.0101124
+}, {
+    "level": 26,
+    "live": 397.5,
+    "attack": 56.3125,
+    "defense": 29.8125,
+    "fatal": 0.0269664,
+    "recover": 0.0101124
+}, {
+    "level": 27,
+    "live": 413.4,
+    "attack": 58.565,
+    "defense": 31.005,
+    "fatal": 0.0269664,
+    "recover": 0.0101124
+}, {
+    "level": 28,
+    "live": 429.3,
+    "attack": 60.8175,
+    "defense": 32.1975,
+    "fatal": 0.0269664,
+    "recover": 0.0101124
+}, {
+    "level": 29,
+    "live": 445.2,
+    "attack": 63.07,
+    "defense": 33.39,
+    "fatal": 0.0269664,
+    "recover": 0.0101124
+}, {
+    "level": 30,
+    "live": 461.1,
+    "attack": 65.3225,
+    "defense": 34.5825,
+    "fatal": 0.0404496,
+    "recover": 0.0151686
+}]
+}, {
+"role": "7",
+"name": "bulls",
+"rarity": 1,
+"teamId": 19,
+"gift": 4,
+"live": 60,
+"attack": 12,
+"defense": 3.5,
+"fatal": 0.016,
+"recover": 0.011,
+"restrain": {
+    "target": 1,
+    "value": 0.1
+}
+}, {
+"role": "27",
+"name": "bulls",
+"rarity": 2,
+"teamId": 19,
+"gift": 4,
+"live": 68,
+"attack": 13.600000000000001,
+"defense": 3.966666666666667,
+"fatal": 0.018133333333333335,
+"recover": 0.012466666666666666,
+"restrain": {
+    "target": 1,
+    "value": 0.1
+}
+}, {
+"role": "47",
+"name": "bulls",
+"rarity": 3,
+"teamId": 19,
+"gift": 4,
+"live": 78,
+"attack": 15.6,
+"defense": 4.55,
+"fatal": 0.0208,
+"recover": 0.0143,
+"restrain": {
+    "target": 1,
+    "value": 0.1
+}
+}, {
+"role": "101",
+"name": "ice age",
+"rarity": 1,
+"teamId": 20,
+"gift": 5,
+"live": 60,
+"attack": 10,
+"defense": 4,
+"fatal": 0.033,
+"recover": 0.009,
+"restrain": {
+    "target": 3,
+    "value": 0.1
+}
+}, {
+"role": "105",
+"name": "ice age",
+"rarity": 2,
+"teamId": 20,
+"gift": 5,
+"live": 68,
+"attack": 11.333333333333332,
+"defense": 4.533333333333333,
+"fatal": 0.0374,
+"recover": 0.0102,
+"restrain": {
+    "target": 3,
+    "value": 0.1
+}
+}, {
+"role": "109",
+"name": "ice age",
+"rarity": 3,
+"teamId": 20,
+"gift": 5,
+"live": 78,
+"attack": 13,
+"defense": 5.2,
+"fatal": 0.0429,
+"recover": 0.0117,
+"restrain": {
+    "target": 3,
+    "value": 0.1
+}
+}, {
+"role": "115",
+"name": "ice age",
+"rarity": 4,
+"teamId": 20,
+"gift": 5,
+"live": 159,
+"attack": 26.5,
+"defense": 10.6,
+"fatal": 0.08745,
+"recover": 0.02385,
+"restrain": {
+    "target": 3,
+    "value": 0.1
+},
+"upgradeTable": [{
+    "level": 1,
+    "live": 0,
+    "attack": 0,
+    "defense": 0,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 2,
+    "live": 15.9,
+    "attack": 2.65,
+    "defense": 1.06,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 3,
+    "live": 31.8,
+    "attack": 5.3,
+    "defense": 2.12,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 4,
+    "live": 47.7,
+    "attack": 7.949999999999999,
+    "defense": 3.18,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 5,
+    "live": 63.6,
+    "attack": 10.6,
+    "defense": 4.24,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 6,
+    "live": 79.5,
+    "attack": 13.25,
+    "defense": 5.300000000000001,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 7,
+    "live": 95.4,
+    "attack": 15.899999999999999,
+    "defense": 6.36,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 8,
+    "live": 111.3,
+    "attack": 18.55,
+    "defense": 7.42,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 9,
+    "live": 127.2,
+    "attack": 21.2,
+    "defense": 8.48,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 10,
+    "live": 143.1,
+    "attack": 23.849999999999998,
+    "defense": 9.540000000000001,
+    "fatal": 0.08745,
+    "recover": 0.023849999999999996
+}, {
+    "level": 11,
+    "live": 159,
+    "attack": 26.5,
+    "defense": 10.600000000000001,
+    "fatal": 0.008745,
+    "recover": 0.008745
+}, {
+    "level": 12,
+    "live": 174.9,
+    "attack": 29.15,
+    "defense": 11.66,
+    "fatal": 0.008745,
+    "recover": 0.008745
+}, {
+    "level": 13,
+    "live": 190.8,
+    "attack": 31.799999999999997,
+    "defense": 12.72,
+    "fatal": 0.008745,
+    "recover": 0.008745
+}, {
+    "level": 14,
+    "live": 206.70000000000002,
+    "attack": 34.449999999999996,
+    "defense": 13.780000000000001,
+    "fatal": 0.008745,
+    "recover": 0.008745
+}, {
+    "level": 15,
+    "live": 222.6,
+    "attack": 37.1,
+    "defense": 14.84,
+    "fatal": 0.008745,
+    "recover": 0.008745
+}, {
+    "level": 16,
+    "live": 238.5,
+    "attack": 39.75,
+    "defense": 15.9,
+    "fatal": 0.008745,
+    "recover": 0.008745
+}, {
+    "level": 17,
+    "live": 254.4,
+    "attack": 42.4,
+    "defense": 16.96,
+    "fatal": 0.008745,
+    "recover": 0.008745
+}, {
+    "level": 18,
+    "live": 270.3,
+    "attack": 45.05,
+    "defense": 18.02,
+    "fatal": 0.008745,
+    "recover": 0.008745
+}, {
+    "level": 19,
+    "live": 286.2,
+    "attack": 47.699999999999996,
+    "defense": 19.080000000000002,
+    "fatal": 0.008745,
+    "recover": 0.008745
+}, {
+    "level": 20,
+    "live": 302.1,
+    "attack": 50.35,
+    "defense": 20.14,
+    "fatal": 0.1749,
+    "recover": 0.04769999999999999
+}, {
+    "level": 21,
+    "live": 318,
+    "attack": 53,
+    "defense": 21.200000000000003,
+    "fatal": 0.01749,
+    "recover": 0.01749
+}, {
+    "level": 22,
+    "live": 333.90000000000003,
+    "attack": 55.65,
+    "defense": 22.26,
+    "fatal": 0.01749,
+    "recover": 0.01749
+}, {
+    "level": 23,
+    "live": 349.8,
+    "attack": 58.3,
+    "defense": 23.32,
+    "fatal": 0.01749,
+    "recover": 0.01749
+}, {
+    "level": 24,
+    "live": 365.7,
+    "attack": 60.949999999999996,
+    "defense": 24.380000000000003,
+    "fatal": 0.01749,
+    "recover": 0.01749
+}, {
+    "level": 25,
+    "live": 381.6,
+    "attack": 63.599999999999994,
+    "defense": 25.44,
+    "fatal": 0.01749,
+    "recover": 0.01749
+}, {
+    "level": 26,
+    "live": 397.5,
+    "attack": 66.25,
+    "defense": 26.5,
+    "fatal": 0.01749,
+    "recover": 0.01749
+}, {
+    "level": 27,
+    "live": 413.40000000000003,
+    "attack": 68.89999999999999,
+    "defense": 27.560000000000002,
+    "fatal": 0.01749,
+    "recover": 0.01749
+}, {
+    "level": 28,
+    "live": 429.3,
+    "attack": 71.55,
+    "defense": 28.62,
+    "fatal": 0.01749,
+    "recover": 0.01749
+}, {
+    "level": 29,
+    "live": 445.2,
+    "attack": 74.2,
+    "defense": 29.68,
+    "fatal": 0.01749,
+    "recover": 0.01749
+}, {
+    "level": 30,
+    "live": 461.1,
+    "attack": 76.85,
+    "defense": 30.740000000000002,
+    "fatal": 0.26234999999999997,
+    "recover": 0.07154999999999999
+}]
+}, {
+"role": "102",
+"name": "wakanda",
+"rarity": 1,
+"teamId": 21,
+"gift": 1,
+"live": 45,
+"attack": 12,
+"defense": 5,
+"fatal": 0.026,
+"recover": 0.016,
+"restrain": {
+    "target": 2,
+    "value": 0.1
+}
+}, {
+"role": "106",
+"name": "wakanda",
+"rarity": 2,
+"teamId": 21,
+"gift": 1,
+"live": 51,
+"attack": 13.6,
+"defense": 5.666666666666666,
+"fatal": 0.029466666666666665,
+"recover": 0.01813333333333333,
+"restrain": {
+    "target": 2,
+    "value": 0.1
+}
+}, {
+"role": "110",
+"name": "wakanda",
+"rarity": 3,
+"teamId": 21,
+"gift": 1,
+"live": 58.5,
+"attack": 15.600000000000001,
+"defense": 6.5,
+"fatal": 0.0338,
+"recover": 0.020800000000000003,
+"restrain": {
+    "target": 2,
+    "value": 0.1
+}
+}, {
+"role": "116",
+"name": "wakanda",
+"rarity": 5,
+"teamId": 21,
+"gift": 1,
+"live": 243.00000000000003,
+"attack": 64.80000000000001,
+"defense": 27,
+"fatal": 0.1404,
+"recover": 0.08640000000000002,
+"restrain": {
+    "target": 2,
+    "value": 0.1
+},
+"upgradeTable": [{
+    "level": 1,
+    "live": 0,
+    "attack": 0,
+    "defense": 0,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 2,
+    "live": 24.3,
+    "attack": 6.48,
+    "defense": 2.7,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 3,
+    "live": 48.6,
+    "attack": 12.96,
+    "defense": 5.4,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 4,
+    "live": 72.9,
+    "attack": 19.44,
+    "defense": 8.100000000000001,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 5,
+    "live": 97.2,
+    "attack": 25.92,
+    "defense": 10.8,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 6,
+    "live": 121.5,
+    "attack": 32.400000000000006,
+    "defense": 13.5,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 7,
+    "live": 145.8,
+    "attack": 38.88,
+    "defense": 16.200000000000003,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 8,
+    "live": 170.1,
+    "attack": 45.36,
+    "defense": 18.900000000000002,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 9,
+    "live": 194.4,
+    "attack": 51.84,
+    "defense": 21.6,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 10,
+    "live": 218.70000000000002,
+    "attack": 58.32000000000001,
+    "defense": 24.3,
+    "fatal": 0.1404,
+    "recover": 0.0864
+}, {
+    "level": 11,
+    "live": 243,
+    "attack": 64.80000000000001,
+    "defense": 27,
+    "fatal": 0.1404,
+    "recover": 0.0864
+}, {
+    "level": 12,
+    "live": 267.3,
+    "attack": 71.28,
+    "defense": 29.700000000000003,
+    "fatal": 0.1404,
+    "recover": 0.0864
+}, {
+    "level": 13,
+    "live": 291.6,
+    "attack": 77.76,
+    "defense": 32.400000000000006,
+    "fatal": 0.1404,
+    "recover": 0.0864
+}, {
+    "level": 14,
+    "live": 315.90000000000003,
+    "attack": 84.24000000000001,
+    "defense": 35.1,
+    "fatal": 0.1404,
+    "recover": 0.0864
+}, {
+    "level": 15,
+    "live": 340.2,
+    "attack": 90.72,
+    "defense": 37.800000000000004,
+    "fatal": 0.1404,
+    "recover": 0.0864
+}, {
+    "level": 16,
+    "live": 364.5,
+    "attack": 97.2,
+    "defense": 40.5,
+    "fatal": 0.1404,
+    "recover": 0.0864
+}, {
+    "level": 17,
+    "live": 388.8,
+    "attack": 103.68,
+    "defense": 43.2,
+    "fatal": 0.1404,
+    "recover": 0.0864
+}, {
+    "level": 18,
+    "live": 413.1,
+    "attack": 110.16000000000001,
+    "defense": 45.900000000000006,
+    "fatal": 0.1404,
+    "recover": 0.0864
+}, {
+    "level": 19,
+    "live": 437.40000000000003,
+    "attack": 116.64000000000001,
+    "defense": 48.6,
+    "fatal": 0.1404,
+    "recover": 0.0864
+}, {
+    "level": 20,
+    "live": 461.7,
+    "attack": 123.12,
+    "defense": 51.300000000000004,
+    "fatal": 0.2808,
+    "recover": 0.1728
+}, {
+    "level": 21,
+    "live": 486,
+    "attack": 129.60000000000002,
+    "defense": 54,
+    "fatal": 0.2808,
+    "recover": 0.1728
+}, {
+    "level": 22,
+    "live": 510.3,
+    "attack": 136.08,
+    "defense": 56.7,
+    "fatal": 0.2808,
+    "recover": 0.1728
+}, {
+    "level": 23,
+    "live": 534.6,
+    "attack": 142.56,
+    "defense": 59.400000000000006,
+    "fatal": 0.2808,
+    "recover": 0.1728
+}, {
+    "level": 24,
+    "live": 558.9,
+    "attack": 149.04000000000002,
+    "defense": 62.1,
+    "fatal": 0.2808,
+    "recover": 0.1728
+}, {
+    "level": 25,
+    "live": 583.2,
+    "attack": 155.52,
+    "defense": 64.80000000000001,
+    "fatal": 0.2808,
+    "recover": 0.1728
+}, {
+    "level": 26,
+    "live": 607.5,
+    "attack": 162,
+    "defense": 67.5,
+    "fatal": 0.2808,
+    "recover": 0.1728
+}, {
+    "level": 27,
+    "live": 631.8000000000001,
+    "attack": 168.48000000000002,
+    "defense": 70.2,
+    "fatal": 0.2808,
+    "recover": 0.1728
+}, {
+    "level": 28,
+    "live": 656.1,
+    "attack": 174.96,
+    "defense": 72.9,
+    "fatal": 0.2808,
+    "recover": 0.1728
+}, {
+    "level": 29,
+    "live": 680.4,
+    "attack": 181.44,
+    "defense": 75.60000000000001,
+    "fatal": 0.2808,
+    "recover": 0.1728
+}, {
+    "level": 30,
+    "live": 704.7,
+    "attack": 187.92000000000002,
+    "defense": 78.30000000000001,
+    "fatal": 0.4212,
+    "recover": 0.2592
+}]
+}, {
+"role": "103",
+"name": "wakawaka",
+"rarity": 1,
+"teamId": 22,
+"gift": 4,
+"live": 40,
+"attack": 15,
+"defense": 3,
+"fatal": 0.022,
+"recover": 0.01,
+"restrain": {
+    "target": 1,
+    "value": 0.1
+}
+}, {
+"role": "107",
+"name": "wakawaka",
+"rarity": 2,
+"teamId": 22,
+"gift": 4,
+"live": 45.33333333333333,
+"attack": 17,
+"defense": 3.4,
+"fatal": 0.02493333333333333,
+"recover": 0.011333333333333332,
+"restrain": {
+    "target": 1,
+    "value": 0.1
+}
+}, {
+"role": "111",
+"name": "wakawaka",
+"rarity": 3,
+"teamId": 22,
+"gift": 4,
+"live": 52,
+"attack": 19.5,
+"defense": 3.9000000000000004,
+"fatal": 0.0286,
+"recover": 0.013000000000000001,
+"restrain": {
+    "target": 1,
+    "value": 0.1
+}
+}, {
+"role": "117",
+"name": "wakawaka",
+"rarity": 4,
+"teamId": 22,
+"gift": 4,
+"live": 106,
+"attack": 39.75,
+"defense": 7.949999999999999,
+"fatal": 0.0583,
+"recover": 0.265,
+"restrain": {
+    "target": 1,
+    "value": 0.1
+},
+"upgradeTable": [{
+    "level": 1,
+    "live": 0,
+    "attack": 0,
+    "defense": 0,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 2,
+    "live": 10.6,
+    "attack": 3.975,
+    "defense": 0.795,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 3,
+    "live": 31.8,
+    "attack": 5.3,
+    "defense": 2.12,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 4,
+    "live": 47.7,
+    "attack": 7.949999999999999,
+    "defense": 3.18,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 5,
+    "live": 63.6,
+    "attack": 10.6,
+    "defense": 4.24,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 6,
+    "live": 79.5,
+    "attack": 13.25,
+    "defense": 5.300000000000001,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 7,
+    "live": 95.4,
+    "attack": 15.899999999999999,
+    "defense": 6.36,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 8,
+    "live": 111.3,
+    "attack": 18.55,
+    "defense": 7.42,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 9,
+    "live": 127.2,
+    "attack": 21.2,
+    "defense": 8.48,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 10,
+    "live": 143.1,
+    "attack": 23.849999999999998,
+    "defense": 9.540000000000001,
+    "fatal": 0.0583,
+    "recover": 0.0265
+}, {
+    "level": 11,
+    "live": 159,
+    "attack": 26.5,
+    "defense": 10.600000000000001,
+    "fatal": 0.0583,
+    "recover": 0.008745
+}, {
+    "level": 12,
+    "live": 174.9,
+    "attack": 29.15,
+    "defense": 11.66,
+    "fatal": 0.0583,
+    "recover": 0.008745
+}, {
+    "level": 13,
+    "live": 190.8,
+    "attack": 31.799999999999997,
+    "defense": 12.72,
+    "fatal": 0.0583,
+    "recover": 0.008745
+}, {
+    "level": 14,
+    "live": 206.70000000000002,
+    "attack": 34.449999999999996,
+    "defense": 13.780000000000001,
+    "fatal": 0.0583,
+    "recover": 0.008745
+}, {
+    "level": 15,
+    "live": 222.6,
+    "attack": 37.1,
+    "defense": 14.84,
+    "fatal": 0.0583,
+    "recover": 0.008745
+}, {
+    "level": 16,
+    "live": 238.5,
+    "attack": 39.75,
+    "defense": 15.9,
+    "fatal": 0.0583,
+    "recover": 0.008745
+}, {
+    "level": 17,
+    "live": 254.4,
+    "attack": 42.4,
+    "defense": 16.96,
+    "fatal": 0.0583,
+    "recover": 0.008745
+}, {
+    "level": 18,
+    "live": 270.3,
+    "attack": 45.05,
+    "defense": 18.02,
+    "fatal": 0.0583,
+    "recover": 0.008745
+}, {
+    "level": 19,
+    "live": 286.2,
+    "attack": 47.699999999999996,
+    "defense": 19.080000000000002,
+    "fatal": 0.0583,
+    "recover": 0.008745
+}, {
+    "level": 20,
+    "live": 302.1,
+    "attack": 50.35,
+    "defense": 20.14,
+    "fatal": 0.1166,
+    "recover": 0.053
+}, {
+    "level": 21,
+    "live": 318,
+    "attack": 53,
+    "defense": 21.200000000000003,
+    "fatal": 0.1166,
+    "recover": 0.01749
+}, {
+    "level": 22,
+    "live": 333.90000000000003,
+    "attack": 55.65,
+    "defense": 22.26,
+    "fatal": 0.1166,
+    "recover": 0.01749
+}, {
+    "level": 23,
+    "live": 349.8,
+    "attack": 58.3,
+    "defense": 23.32,
+    "fatal": 0.1166,
+    "recover": 0.01749
+}, {
+    "level": 24,
+    "live": 365.7,
+    "attack": 60.949999999999996,
+    "defense": 24.380000000000003,
+    "fatal": 0.1166,
+    "recover": 0.01749
+}, {
+    "level": 25,
+    "live": 381.6,
+    "attack": 63.599999999999994,
+    "defense": 25.44,
+    "fatal": 0.1166,
+    "recover": 0.01749
+}, {
+    "level": 26,
+    "live": 397.5,
+    "attack": 66.25,
+    "defense": 26.5,
+    "fatal": 0.1166,
+    "recover": 0.01749
+}, {
+    "level": 27,
+    "live": 413.40000000000003,
+    "attack": 68.89999999999999,
+    "defense": 27.560000000000002,
+    "fatal": 0.1166,
+    "recover": 0.01749
+}, {
+    "level": 28,
+    "live": 429.3,
+    "attack": 71.55,
+    "defense": 28.62,
+    "fatal": 0.1166,
+    "recover": 0.01749
+}, {
+    "level": 29,
+    "live": 445.2,
+    "attack": 74.2,
+    "defense": 29.68,
+    "fatal": 0.1166,
+    "recover": 0.01749
+}, {
+    "level": 30,
+    "live": 461.1,
+    "attack": 76.85,
+    "defense": 30.740000000000002,
+    "fatal": 0.1749,
+    "recover": 0.0795
+}]
+}, {
+"role": "104",
+"name": "silance alan",
+"rarity": 1,
+"teamId": 23,
+"gift": 2,
+"live": 40,
+"attack": 12,
+"defense": 4,
+"fatal": 0.02,
+"recover": 0.01,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+}
+}, {
+"role": "108",
+"name": "silance alan",
+"rarity": 2,
+"teamId": 23,
+"gift": 2,
+"live": 56.666666666666664,
+"attack": 11.333333333333334,
+"defense": 5.666666666666667,
+"fatal": 0.022666666666666665,
+"recover": 0.011333333333333332,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+}
+}, {
+"role": "112",
+"name": "silance alan",
+"rarity": 3,
+"teamId": 23,
+"gift": 2,
+"live": 65,
+"attack": 13,
+"defense": 6.5,
+"fatal": 0.026,
+"recover": 0.013,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+}
+}, {
+"role": "241",
+"name": "之前那只炸弹鸡",
+"rarity": 1,
+"teamId": 24,
+"gift": 3,
+"live": 52.5,
+"attack": 10,
+"defense": 4.5,
+"fatal": 0.02,
+"recover": 0.008,
+"restrain": {
+    "target": 4,
+    "value": 0.1
+}
+}, {
+"role": "242",
+"name": "之前那只炸弹鸡",
+"rarity": 2,
+"teamId": 24,
+"gift": 3,
+"live": 59.5,
+"attack": 11.333333333333334,
+"defense": 5.1,
+"fatal": 0.02266666666666667,
+"recover": 0.009066666666666666,
+"restrain": {
+    "target": 4,
+    "value": 0.1
+}
+}, {
+"role": "243",
+"name": "之前那只炸弹鸡",
+"rarity": 3,
+"teamId": 24,
+"gift": 3,
+"live": 68.25,
+"attack": 13,
+"defense": 5.8500000000000005,
+"fatal": 0.026000000000000002,
+"recover": 0.010400000000000001,
+"restrain": {
+    "target": 4,
+    "value": 0.1
+}
+}, {
+"role": "244",
+"name": "jiqishi",
+"rarity": 4,
+"teamId": 24,
+"gift": 3,
+"live": 139.125,
+"attack": 26.5,
+"defense": 11.924999999999999,
+"fatal": 0.053,
+"recover": 0.0212,
+"restrain": {
+    "target": 4,
+    "value": 0.1
+},
+"upgradeTable": [{
+    "level": 1,
+    "live": 0,
+    "attack": 0,
+    "defense": 0,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 2,
+    "live": 13.9125,
+    "attack": 2.65,
+    "defense": 1.1925,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 3,
+    "live": 27.825,
+    "attack": 5.3,
+    "defense": 2.385,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 4,
+    "live": 41.7375,
+    "attack": 7.949999999999999,
+    "defense": 3.5774999999999997,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 5,
+    "live": 55.65,
+    "attack": 10.6,
+    "defense": 4.77,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 6,
+    "live": 69.5625,
+    "attack": 13.25,
+    "defense": 5.9624999999999995,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 7,
+    "live": 83.475,
+    "attack": 15.899999999999999,
+    "defense": 7.154999999999999,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 8,
+    "live": 97.3875,
+    "attack": 18.55,
+    "defense": 8.3475,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 9,
+    "live": 111.3,
+    "attack": 21.2,
+    "defense": 9.54,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 10,
+    "live": 125.21249999999999,
+    "attack": 23.849999999999998,
+    "defense": 10.732499999999998,
+    "fatal": 0.053,
+    "recover": 0.0212
+}, {
+    "level": 11,
+    "live": 139.125,
+    "attack": 26.5,
+    "defense": 11.924999999999999,
+    "fatal": 0.053,
+    "recover": 0.0212
+}, {
+    "level": 12,
+    "live": 153.0375,
+    "attack": 29.15,
+    "defense": 13.1175,
+    "fatal": 0.053,
+    "recover": 0.0212
+}, {
+    "level": 13,
+    "live": 166.95,
+    "attack": 31.799999999999997,
+    "defense": 14.309999999999999,
+    "fatal": 0.053,
+    "recover": 0.0212
+}, {
+    "level": 14,
+    "live": 180.86249999999998,
+    "attack": 34.449999999999996,
+    "defense": 15.502499999999998,
+    "fatal": 0.053,
+    "recover": 0.0212
+}, {
+    "level": 15,
+    "live": 194.775,
+    "attack": 37.1,
+    "defense": 16.695,
+    "fatal": 0.053,
+    "recover": 0.0212
+}, {
+    "level": 16,
+    "live": 208.6875,
+    "attack": 39.75,
+    "defense": 17.8875,
+    "fatal": 0.053,
+    "recover": 0.0212
+}, {
+    "level": 17,
+    "live": 222.6,
+    "attack": 42.4,
+    "defense": 19.08,
+    "fatal": 0.053,
+    "recover": 0.0212
+}, {
+    "level": 18,
+    "live": 236.5125,
+    "attack": 45.05,
+    "defense": 20.272499999999997,
+    "fatal": 0.053,
+    "recover": 0.0212
+}, {
+    "level": 19,
+    "live": 250.42499999999998,
+    "attack": 47.699999999999996,
+    "defense": 21.464999999999996,
+    "fatal": 0.053,
+    "recover": 0.0212
+}, {
+    "level": 20,
+    "live": 264.3375,
+    "attack": 50.35,
+    "defense": 22.6575,
+    "fatal": 0.106,
+    "recover": 0.0424
+}, {
+    "level": 21,
+    "live": 278.25,
+    "attack": 53,
+    "defense": 23.849999999999998,
+    "fatal": 0.106,
+    "recover": 0.0424
+}, {
+    "level": 22,
+    "live": 292.16249999999997,
+    "attack": 55.65,
+    "defense": 25.042499999999997,
+    "fatal": 0.106,
+    "recover": 0.0424
+}, {
+    "level": 23,
+    "live": 306.075,
+    "attack": 58.3,
+    "defense": 26.235,
+    "fatal": 0.106,
+    "recover": 0.0424
+}, {
+    "level": 24,
+    "live": 319.9875,
+    "attack": 60.949999999999996,
+    "defense": 27.4275,
+    "fatal": 0.106,
+    "recover": 0.0424
+}, {
+    "level": 25,
+    "live": 333.9,
+    "attack": 63.599999999999994,
+    "defense": 28.619999999999997,
+    "fatal": 0.106,
+    "recover": 0.0424
+}, {
+    "level": 26,
+    "live": 347.8125,
+    "attack": 66.25,
+    "defense": 29.812499999999996,
+    "fatal": 0.106,
+    "recover": 0.0424
+}, {
+    "level": 27,
+    "live": 361.72499999999997,
+    "attack": 68.89999999999999,
+    "defense": 31.004999999999995,
+    "fatal": 0.106,
+    "recover": 0.0424
+}, {
+    "level": 28,
+    "live": 375.6375,
+    "attack": 71.55,
+    "defense": 32.1975,
+    "fatal": 0.106,
+    "recover": 0.0424
+}, {
+    "level": 29,
+    "live": 389.55,
+    "attack": 74.2,
+    "defense": 33.39,
+    "fatal": 0.106,
+    "recover": 0.0424
+}, {
+    "level": 30,
+    "live": 403.4625,
+    "attack": 76.85,
+    "defense": 34.582499999999996,
+    "fatal": 0.159,
+    "recover": 0.0636
+}]
+}, {
+"role": "251",
+"name": "she",
+"rarity": 1,
+"teamId": 25,
+"gift": 5,
+"live": 50,
+"attack": 13.5,
+"defense": 7,
+"fatal": 0.02,
+"recover": 0.01,
+"restrain": {
+    "target": 3,
+    "value": 0.1
+}
+}, {
+"role": "252",
+"name": "she",
+"rarity": 2,
+"teamId": 25,
+"gift": 5,
+"live": 56.666666666666664,
+"attack": 15.299999999999999,
+"defense": 7.933333333333334,
+"fatal": 0.02266666666666667,
+"recover": 0.011333333333333334,
+"restrain": {
+    "target": 3,
+    "value": 0.1
+}
+}, {
+"role": "253",
+"name": "she",
+"rarity": 3,
+"teamId": 25,
+"gift": 5,
+"live": 65,
+"attack": 17.55,
+"defense": 9.1,
+"fatal": 0.026000000000000002,
+"recover": 0.013000000000000001,
+"restrain": {
+    "target": 3,
+    "value": 0.1
+}
+}, {
+"role": "255",
+"name": "long",
+"rarity": 5,
+"teamId": 25,
+"gift": 5,
+"live": 270,
+"attack": 72.9,
+"defense": 37.800000000000004,
+"fatal": 0.10800000000000001,
+"recover": 0.054000000000000006,
+"restrain": {
+    "target": 3,
+    "value": 0.1
+},
+"upgradeTable": [{
+    "level": 1,
+    "live": 0,
+    "attack": 0,
+    "defense": 0,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 2,
+    "live": 27,
+    "attack": 7.29,
+    "defense": 3.78,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 3,
+    "live": 54,
+    "attack": 14.58,
+    "defense": 7.56,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 4,
+    "live": 81,
+    "attack": 21.87,
+    "defense": 11.34,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 5,
+    "live": 108,
+    "attack": 29.16,
+    "defense": 15.12,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 6,
+    "live": 135,
+    "attack": 36.45,
+    "defense": 18.9,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 7,
+    "live": 162,
+    "attack": 43.74,
+    "defense": 22.68,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 8,
+    "live": 189,
+    "attack": 51.03,
+    "defense": 26.459999999999997,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 9,
+    "live": 216,
+    "attack": 58.32,
+    "defense": 30.24,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 10,
+    "live": 243,
+    "attack": 65.61,
+    "defense": 34.019999999999996,
+    "fatal": 0.10800000000000001,
+    "recover": 0.054000000000000006
+}, {
+    "level": 11,
+    "live": 270,
+    "attack": 72.9,
+    "defense": 37.8,
+    "fatal": 0.10800000000000001,
+    "recover": 0.054000000000000006
+}, {
+    "level": 12,
+    "live": 297,
+    "attack": 80.19,
+    "defense": 41.58,
+    "fatal": 0.10800000000000001,
+    "recover": 0.054000000000000006
+}, {
+    "level": 13,
+    "live": 324,
+    "attack": 87.48,
+    "defense": 45.36,
+    "fatal": 0.10800000000000001,
+    "recover": 0.054000000000000006
+}, {
+    "level": 14,
+    "live": 351,
+    "attack": 94.77,
+    "defense": 49.14,
+    "fatal": 0.10800000000000001,
+    "recover": 0.054000000000000006
+}, {
+    "level": 15,
+    "live": 378,
+    "attack": 102.06,
+    "defense": 52.919999999999995,
+    "fatal": 0.10800000000000001,
+    "recover": 0.054000000000000006
+}, {
+    "level": 16,
+    "live": 405,
+    "attack": 109.35,
+    "defense": 56.699999999999996,
+    "fatal": 0.10800000000000001,
+    "recover": 0.054000000000000006
+}, {
+    "level": 17,
+    "live": 432,
+    "attack": 116.64,
+    "defense": 60.48,
+    "fatal": 0.10800000000000001,
+    "recover": 0.054000000000000006
+}, {
+    "level": 18,
+    "live": 459,
+    "attack": 123.93,
+    "defense": 64.25999999999999,
+    "fatal": 0.10800000000000001,
+    "recover": 0.054000000000000006
+}, {
+    "level": 19,
+    "live": 486,
+    "attack": 131.22,
+    "defense": 68.03999999999999,
+    "fatal": 0.10800000000000001,
+    "recover": 0.054000000000000006
+}, {
+    "level": 20,
+    "live": 513,
+    "attack": 138.51,
+    "defense": 71.82,
+    "fatal": 0.21600000000000003,
+    "recover": 0.10800000000000001
+}, {
+    "level": 21,
+    "live": 540,
+    "attack": 145.8,
+    "defense": 75.6,
+    "fatal": 0.21600000000000003,
+    "recover": 0.10800000000000001
+}, {
+    "level": 22,
+    "live": 567,
+    "attack": 153.09,
+    "defense": 79.38,
+    "fatal": 0.21600000000000003,
+    "recover": 0.10800000000000001
+}, {
+    "level": 23,
+    "live": 594,
+    "attack": 160.38,
+    "defense": 83.16,
+    "fatal": 0.21600000000000003,
+    "recover": 0.10800000000000001
+}, {
+    "level": 24,
+    "live": 621,
+    "attack": 167.67,
+    "defense": 86.94,
+    "fatal": 0.21600000000000003,
+    "recover": 0.10800000000000001
+}, {
+    "level": 25,
+    "live": 648,
+    "attack": 174.96,
+    "defense": 90.72,
+    "fatal": 0.21600000000000003,
+    "recover": 0.10800000000000001
+}, {
+    "level": 26,
+    "live": 675,
+    "attack": 182.25,
+    "defense": 94.5,
+    "fatal": 0.21600000000000003,
+    "recover": 0.10800000000000001
+}, {
+    "level": 27,
+    "live": 702,
+    "attack": 189.54,
+    "defense": 98.28,
+    "fatal": 0.21600000000000003,
+    "recover": 0.10800000000000001
+}, {
+    "level": 28,
+    "live": 729,
+    "attack": 196.83,
+    "defense": 102.05999999999999,
+    "fatal": 0.21600000000000003,
+    "recover": 0.10800000000000001
+}, {
+    "level": 29,
+    "live": 756,
+    "attack": 204.12,
+    "defense": 105.83999999999999,
+    "fatal": 0.21600000000000003,
+    "recover": 0.10800000000000001
+}, {
+    "level": 30,
+    "live": 783,
+    "attack": 211.41,
+    "defense": 109.61999999999999,
+    "fatal": 0.32400000000000007,
+    "recover": 0.16200000000000003
+}]
+}, {
+"role": "261",
+"name": "xiabing",
+"rarity": 1,
+"teamId": 26,
+"gift": 2,
+"live": 45,
+"attack": 12,
+"defense": 6,
+"fatal": 0.012,
+"recover": 0.010499999999999999,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+}
+}, {
+"role": "262",
+"name": "xiabing",
+"rarity": 2,
+"teamId": 26,
+"gift": 2,
+"live": 51,
+"attack": 13.6,
+"defense": 6.8,
+"fatal": 0.013600000000000001,
+"recover": 0.011899999999999999,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+}
+}, {
+"role": "263",
+"name": "xiabing",
+"rarity": 3,
+"teamId": 26,
+"gift": 2,
+"live": 58.5,
+"attack": 15.600000000000001,
+"defense": 7.800000000000001,
+"fatal": 0.015600000000000001,
+"recover": 0.013649999999999999,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+}
+}, {
+"role": "264",
+"name": "shayu",
+"rarity": 4,
+"teamId": 26,
+"gift": 2,
+"live": 119.25,
+"attack": 31.799999999999997,
+"defense": 15.899999999999999,
+"fatal": 0.0318,
+"recover": 0.027824999999999996,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+},
+"upgradeTable": [{
+    "level": 1,
+    "live": 0,
+    "attack": 0,
+    "defense": 0,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 2,
+    "live": 11.925,
+    "attack": 3.18,
+    "defense": 1.59,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 3,
+    "live": 23.85,
+    "attack": 6.36,
+    "defense": 3.18,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 4,
+    "live": 35.775000000000006,
+    "attack": 9.540000000000001,
+    "defense": 4.7700000000000005,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 5,
+    "live": 47.7,
+    "attack": 12.72,
+    "defense": 6.36,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 6,
+    "live": 59.625,
+    "attack": 15.9,
+    "defense": 7.95,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 7,
+    "live": 71.55000000000001,
+    "attack": 19.080000000000002,
+    "defense": 9.540000000000001,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 8,
+    "live": 83.47500000000001,
+    "attack": 22.26,
+    "defense": 11.13,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 9,
+    "live": 95.4,
+    "attack": 25.44,
+    "defense": 12.72,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 10,
+    "live": 107.325,
+    "attack": 28.62,
+    "defense": 14.31,
+    "fatal": 0.0318,
+    "recover": 0.027824999999999996
+}, {
+    "level": 11,
+    "live": 119.25,
+    "attack": 31.8,
+    "defense": 15.9,
+    "fatal": 0.0318,
+    "recover": 0.027824999999999996
+}, {
+    "level": 12,
+    "live": 131.175,
+    "attack": 34.980000000000004,
+    "defense": 17.490000000000002,
+    "fatal": 0.0318,
+    "recover": 0.027824999999999996
+}, {
+    "level": 13,
+    "live": 143.10000000000002,
+    "attack": 38.160000000000004,
+    "defense": 19.080000000000002,
+    "fatal": 0.0318,
+    "recover": 0.027824999999999996
+}, {
+    "level": 14,
+    "live": 155.025,
+    "attack": 41.34,
+    "defense": 20.67,
+    "fatal": 0.0318,
+    "recover": 0.027824999999999996
+}, {
+    "level": 15,
+    "live": 166.95000000000002,
+    "attack": 44.52,
+    "defense": 22.26,
+    "fatal": 0.0318,
+    "recover": 0.027824999999999996
+}, {
+    "level": 16,
+    "live": 178.875,
+    "attack": 47.7,
+    "defense": 23.85,
+    "fatal": 0.0318,
+    "recover": 0.027824999999999996
+}, {
+    "level": 17,
+    "live": 190.8,
+    "attack": 50.88,
+    "defense": 25.44,
+    "fatal": 0.0318,
+    "recover": 0.027824999999999996
+}, {
+    "level": 18,
+    "live": 202.72500000000002,
+    "attack": 54.06,
+    "defense": 27.03,
+    "fatal": 0.0318,
+    "recover": 0.027824999999999996
+}, {
+    "level": 19,
+    "live": 214.65,
+    "attack": 57.24,
+    "defense": 28.62,
+    "fatal": 0.0318,
+    "recover": 0.027824999999999996
+}, {
+    "level": 20,
+    "live": 226.57500000000002,
+    "attack": 60.42,
+    "defense": 30.21,
+    "fatal": 0.0636,
+    "recover": 0.05564999999999999
+}, {
+    "level": 21,
+    "live": 238.5,
+    "attack": 63.6,
+    "defense": 31.8,
+    "fatal": 0.0636,
+    "recover": 0.05564999999999999
+}, {
+    "level": 22,
+    "live": 250.425,
+    "attack": 66.78,
+    "defense": 33.39,
+    "fatal": 0.0636,
+    "recover": 0.05564999999999999
+}, {
+    "level": 23,
+    "live": 262.35,
+    "attack": 69.96000000000001,
+    "defense": 34.980000000000004,
+    "fatal": 0.0636,
+    "recover": 0.05564999999999999
+}, {
+    "level": 24,
+    "live": 274.27500000000003,
+    "attack": 73.14,
+    "defense": 36.57,
+    "fatal": 0.0636,
+    "recover": 0.05564999999999999
+}, {
+    "level": 25,
+    "live": 286.20000000000005,
+    "attack": 76.32000000000001,
+    "defense": 38.160000000000004,
+    "fatal": 0.0636,
+    "recover": 0.05564999999999999
+}, {
+    "level": 26,
+    "live": 298.125,
+    "attack": 79.5,
+    "defense": 39.75,
+    "fatal": 0.0636,
+    "recover": 0.05564999999999999
+}, {
+    "level": 27,
+    "live": 310.05,
+    "attack": 82.68,
+    "defense": 41.34,
+    "fatal": 0.0636,
+    "recover": 0.05564999999999999
+}, {
+    "level": 28,
+    "live": 321.975,
+    "attack": 85.86,
+    "defense": 42.93,
+    "fatal": 0.0636,
+    "recover": 0.05564999999999999
+}, {
+    "level": 29,
+    "live": 333.90000000000003,
+    "attack": 89.04,
+    "defense": 44.52,
+    "fatal": 0.0636,
+    "recover": 0.05564999999999999
+}, {
+    "level": 30,
+    "live": 345.82500000000005,
+    "attack": 92.22,
+    "defense": 46.11,
+    "fatal": 0.09540000000000001,
+    "recover": 0.083475
+}]
+}, {
+"role": "-",
+"name": "-",
+"rarity": null,
+"teamId": 27,
+"gift": null,
+"live": null,
+"attack": null,
+"defense": null,
+"fatal": null,
+"recover": null
+}, {
+"role": "-",
+"name": "-",
+"rarity": null,
+"teamId": 27,
+"gift": null,
+"live": null,
+"attack": null,
+"defense": null,
+"fatal": null,
+"recover": null
+}, {
+"role": "-",
+"name": "-",
+"rarity": null,
+"teamId": 27,
+"gift": null,
+"live": null,
+"attack": null,
+"defense": null,
+"fatal": null,
+"recover": null
+}, {
+"role": "281",
+"name": "langwaipo",
+"rarity": 1,
+"teamId": 28,
+"gift": 1,
+"live": 35,
+"attack": 14,
+"defense": 4,
+"fatal": 0.02,
+"recover": 0.009,
+"restrain": {
+    "target": 2,
+    "value": 0.1
+}
+}, {
+"role": "282",
+"name": "langwaipo",
+"rarity": 2,
+"teamId": 28,
+"gift": 1,
+"live": 39.666666666666664,
+"attack": 15.866666666666667,
+"defense": 4.533333333333333,
+"fatal": 0.02266666666666667,
+"recover": 0.010199999999999999,
+"restrain": {
+    "target": 2,
+    "value": 0.1
+}
+}, {
+"role": "283",
+"name": "langwaipo",
+"rarity": 3,
+"teamId": 28,
+"gift": 1,
+"live": 45.5,
+"attack": 18.2,
+"defense": 5.2,
+"fatal": 0.026000000000000002,
+"recover": 0.0117,
+"restrain": {
+    "target": 2,
+    "value": 0.1
+}
+}, {
+"role": "284",
+"name": "maoyao",
+"rarity": 4,
+"teamId": 28,
+"gift": 1,
+"live": 92.75,
+"attack": 37.1,
+"defense": 10.6,
+"fatal": 0.053,
+"recover": 0.023849999999999996,
+"restrain": {
+    "target": 2,
+    "value": 0.1
+},
+"upgradeTable": [{
+    "level": 1,
+    "live": 0,
+    "attack": 0,
+    "defense": 0,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 2,
+    "live": 9.275,
+    "attack": 3.71,
+    "defense": 1.06,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 3,
+    "live": 18.55,
+    "attack": 7.42,
+    "defense": 2.12,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 4,
+    "live": 27.825000000000003,
+    "attack": 11.129999999999999,
+    "defense": 3.18,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 5,
+    "live": 37.1,
+    "attack": 14.84,
+    "defense": 4.24,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 6,
+    "live": 46.375,
+    "attack": 18.55,
+    "defense": 5.300000000000001,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 7,
+    "live": 55.650000000000006,
+    "attack": 22.259999999999998,
+    "defense": 6.36,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 8,
+    "live": 64.925,
+    "attack": 25.97,
+    "defense": 7.42,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 9,
+    "live": 74.2,
+    "attack": 29.68,
+    "defense": 8.48,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 10,
+    "live": 83.47500000000001,
+    "attack": 33.39,
+    "defense": 9.540000000000001,
+    "fatal": 0.053,
+    "recover": 0.023849999999999996
+}, {
+    "level": 11,
+    "live": 92.75,
+    "attack": 37.1,
+    "defense": 10.600000000000001,
+    "fatal": 0.053,
+    "recover": 0.023849999999999996
+}, {
+    "level": 12,
+    "live": 102.025,
+    "attack": 40.81,
+    "defense": 11.66,
+    "fatal": 0.053,
+    "recover": 0.023849999999999996
+}, {
+    "level": 13,
+    "live": 111.30000000000001,
+    "attack": 44.519999999999996,
+    "defense": 12.72,
+    "fatal": 0.053,
+    "recover": 0.023849999999999996
+}, {
+    "level": 14,
+    "live": 120.575,
+    "attack": 48.23,
+    "defense": 13.780000000000001,
+    "fatal": 0.053,
+    "recover": 0.023849999999999996
+}, {
+    "level": 15,
+    "live": 129.85,
+    "attack": 51.94,
+    "defense": 14.84,
+    "fatal": 0.053,
+    "recover": 0.023849999999999996
+}, {
+    "level": 16,
+    "live": 139.125,
+    "attack": 55.65,
+    "defense": 15.9,
+    "fatal": 0.053,
+    "recover": 0.023849999999999996
+}, {
+    "level": 17,
+    "live": 148.4,
+    "attack": 59.36,
+    "defense": 16.96,
+    "fatal": 0.053,
+    "recover": 0.023849999999999996
+}, {
+    "level": 18,
+    "live": 157.675,
+    "attack": 63.07,
+    "defense": 18.02,
+    "fatal": 0.053,
+    "recover": 0.023849999999999996
+}, {
+    "level": 19,
+    "live": 166.95000000000002,
+    "attack": 66.78,
+    "defense": 19.080000000000002,
+    "fatal": 0.053,
+    "recover": 0.023849999999999996
+}, {
+    "level": 20,
+    "live": 176.225,
+    "attack": 70.49,
+    "defense": 20.14,
+    "fatal": 0.106,
+    "recover": 0.04769999999999999
+}, {
+    "level": 21,
+    "live": 185.5,
+    "attack": 74.2,
+    "defense": 21.200000000000003,
+    "fatal": 0.106,
+    "recover": 0.04769999999999999
+}, {
+    "level": 22,
+    "live": 194.775,
+    "attack": 77.91,
+    "defense": 22.26,
+    "fatal": 0.106,
+    "recover": 0.04769999999999999
+}, {
+    "level": 23,
+    "live": 204.05,
+    "attack": 81.62,
+    "defense": 23.32,
+    "fatal": 0.106,
+    "recover": 0.04769999999999999
+}, {
+    "level": 24,
+    "live": 213.32500000000002,
+    "attack": 85.33,
+    "defense": 24.380000000000003,
+    "fatal": 0.106,
+    "recover": 0.04769999999999999
+}, {
+    "level": 25,
+    "live": 222.60000000000002,
+    "attack": 89.03999999999999,
+    "defense": 25.44,
+    "fatal": 0.106,
+    "recover": 0.04769999999999999
+}, {
+    "level": 26,
+    "live": 231.875,
+    "attack": 92.75,
+    "defense": 26.5,
+    "fatal": 0.106,
+    "recover": 0.04769999999999999
+}, {
+    "level": 27,
+    "live": 241.15,
+    "attack": 96.46,
+    "defense": 27.560000000000002,
+    "fatal": 0.106,
+    "recover": 0.04769999999999999
+}, {
+    "level": 28,
+    "live": 250.425,
+    "attack": 100.17,
+    "defense": 28.62,
+    "fatal": 0.106,
+    "recover": 0.04769999999999999
+}, {
+    "level": 29,
+    "live": 259.7,
+    "attack": 103.88,
+    "defense": 29.68,
+    "fatal": 0.106,
+    "recover": 0.04769999999999999
+}, {
+    "level": 30,
+    "live": 268.975,
+    "attack": 107.59,
+    "defense": 30.740000000000002,
+    "fatal": 0.159,
+    "recover": 0.07154999999999999
+}]
+}, {
+"role": "291",
+"name": "pangxie",
+"rarity": 1,
+"teamId": 29,
+"gift": 2,
+"live": 65,
+"attack": 12,
+"defense": 7,
+"fatal": 0.015,
+"recover": 0.013,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+}
+}, {
+"role": "292",
+"name": "pangxie",
+"rarity": 2,
+"teamId": 29,
+"gift": 2,
+"live": 73.66666666666667,
+"attack": 13.6,
+"defense": 7.933333333333334,
+"fatal": 0.016999999999999998,
+"recover": 0.014733333333333333,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+}
+}, {
+"role": "293",
+"name": "pangxie",
+"rarity": 3,
+"teamId": 29,
+"gift": 2,
+"live": 84.5,
+"attack": 15.600000000000001,
+"defense": 9.1,
+"fatal": 0.0195,
+"recover": 0.0169,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+}
+}, {
+"role": "295",
+"name": "zhangyu",
+"rarity": 5,
+"teamId": 29,
+"gift": 2,
+"live": 351,
+"attack": 64.80000000000001,
+"defense": 37.800000000000004,
+"fatal": 0.081,
+"recover": 0.0702,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+},
+"upgradeTable": [{
+    "level": 1,
+    "live": 0,
+    "attack": 0,
+    "defense": 0,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 2,
+    "live": 35.1,
+    "attack": 6.48,
+    "defense": 3.78,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 3,
+    "live": 70.2,
+    "attack": 12.96,
+    "defense": 7.56,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 4,
+    "live": 105.30000000000001,
+    "attack": 19.44,
+    "defense": 11.34,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 5,
+    "live": 140.4,
+    "attack": 25.92,
+    "defense": 15.12,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 6,
+    "live": 175.5,
+    "attack": 32.400000000000006,
+    "defense": 18.9,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 7,
+    "live": 210.60000000000002,
+    "attack": 38.88,
+    "defense": 22.68,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 8,
+    "live": 245.70000000000002,
+    "attack": 45.36,
+    "defense": 26.459999999999997,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 9,
+    "live": 280.8,
+    "attack": 51.84,
+    "defense": 30.24,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 10,
+    "live": 315.90000000000003,
+    "attack": 58.32000000000001,
+    "defense": 34.019999999999996,
+    "fatal": 0.081,
+    "recover": 0.0702
+}, {
+    "level": 11,
+    "live": 351,
+    "attack": 64.80000000000001,
+    "defense": 37.8,
+    "fatal": 0.081,
+    "recover": 0.0702
+}, {
+    "level": 12,
+    "live": 386.1,
+    "attack": 71.28,
+    "defense": 41.58,
+    "fatal": 0.081,
+    "recover": 0.0702
+}, {
+    "level": 13,
+    "live": 421.20000000000005,
+    "attack": 77.76,
+    "defense": 45.36,
+    "fatal": 0.081,
+    "recover": 0.0702
+}, {
+    "level": 14,
+    "live": 456.3,
+    "attack": 84.24000000000001,
+    "defense": 49.14,
+    "fatal": 0.081,
+    "recover": 0.0702
+}, {
+    "level": 15,
+    "live": 491.40000000000003,
+    "attack": 90.72,
+    "defense": 52.919999999999995,
+    "fatal": 0.081,
+    "recover": 0.0702
+}, {
+    "level": 16,
+    "live": 526.5,
+    "attack": 97.2,
+    "defense": 56.699999999999996,
+    "fatal": 0.081,
+    "recover": 0.0702
+}, {
+    "level": 17,
+    "live": 561.6,
+    "attack": 103.68,
+    "defense": 60.48,
+    "fatal": 0.081,
+    "recover": 0.0702
+}, {
+    "level": 18,
+    "live": 596.7,
+    "attack": 110.16000000000001,
+    "defense": 64.25999999999999,
+    "fatal": 0.081,
+    "recover": 0.0702
+}, {
+    "level": 19,
+    "live": 631.8000000000001,
+    "attack": 116.64000000000001,
+    "defense": 68.03999999999999,
+    "fatal": 0.081,
+    "recover": 0.0702
+}, {
+    "level": 20,
+    "live": 666.9,
+    "attack": 123.12,
+    "defense": 71.82,
+    "fatal": 0.162,
+    "recover": 0.1404
+}, {
+    "level": 21,
+    "live": 702,
+    "attack": 129.60000000000002,
+    "defense": 75.6,
+    "fatal": 0.162,
+    "recover": 0.1404
+}, {
+    "level": 22,
+    "live": 737.1,
+    "attack": 136.08,
+    "defense": 79.38,
+    "fatal": 0.162,
+    "recover": 0.1404
+}, {
+    "level": 23,
+    "live": 772.2,
+    "attack": 142.56,
+    "defense": 83.16,
+    "fatal": 0.162,
+    "recover": 0.1404
+}, {
+    "level": 24,
+    "live": 807.3000000000001,
+    "attack": 149.04000000000002,
+    "defense": 86.94,
+    "fatal": 0.162,
+    "recover": 0.1404
+}, {
+    "level": 25,
+    "live": 842.4000000000001,
+    "attack": 155.52,
+    "defense": 90.72,
+    "fatal": 0.162,
+    "recover": 0.1404
+}, {
+    "level": 26,
+    "live": 877.5,
+    "attack": 162,
+    "defense": 94.5,
+    "fatal": 0.162,
+    "recover": 0.1404
+}, {
+    "level": 27,
+    "live": 912.6,
+    "attack": 168.48000000000002,
+    "defense": 98.28,
+    "fatal": 0.162,
+    "recover": 0.1404
+}, {
+    "level": 28,
+    "live": 947.7,
+    "attack": 174.96,
+    "defense": 102.05999999999999,
+    "fatal": 0.162,
+    "recover": 0.1404
+}, {
+    "level": 29,
+    "live": 982.8000000000001,
+    "attack": 181.44,
+    "defense": 105.83999999999999,
+    "fatal": 0.162,
+    "recover": 0.1404
+}, {
+    "level": 30,
+    "live": 1017.9000000000001,
+    "attack": 187.92000000000002,
+    "defense": 109.61999999999999,
+    "fatal": 0.243,
+    "recover": 0.2106
+}]
+}, {
+"role": "301",
+"name": "mifeng",
+"rarity": 1,
+"teamId": 30,
+"gift": 4,
+"live": 65,
+"attack": 9,
+"defense": 4,
+"fatal": 0.025,
+"recover": 0.01,
+"restrain": {
+    "target": 1,
+    "value": 0.1
+}
+}, {
+"role": "302",
+"name": "mifeng",
+"rarity": 2,
+"teamId": 30,
+"gift": 4,
+"live": 73.66666666666667,
+"attack": 10.2,
+"defense": 4.533333333333333,
+"fatal": 0.028333333333333335,
+"recover": 0.011333333333333334,
+"restrain": {
+    "target": 1,
+    "value": 0.1
+}
+}, {
+"role": "303",
+"name": "mifeng",
+"rarity": 3,
+"teamId": 30,
+"gift": 4,
+"live": 84.5,
+"attack": 11.700000000000001,
+"defense": 5.2,
+"fatal": 0.0325,
+"recover": 0.013000000000000001,
+"restrain": {
+    "target": 1,
+    "value": 0.1
+}
+}, {
+"role": "304",
+"name": "laoying",
+"rarity": 4,
+"teamId": 30,
+"gift": 4,
+"live": 172.25,
+"attack": 23.849999999999998,
+"defense": 10.6,
+"fatal": 0.06625,
+"recover": 0.0265,
+"restrain": {
+    "target": 1,
+    "value": 0.1
+},
+"upgradeTable": [{
+    "level": 1,
+    "live": 0,
+    "attack": 0,
+    "defense": 0,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 2,
+    "live": 17.225,
+    "attack": 2.385,
+    "defense": 1.06,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 3,
+    "live": 34.45,
+    "attack": 4.77,
+    "defense": 2.12,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 4,
+    "live": 51.675000000000004,
+    "attack": 7.154999999999999,
+    "defense": 3.18,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 5,
+    "live": 68.9,
+    "attack": 9.54,
+    "defense": 4.24,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 6,
+    "live": 86.125,
+    "attack": 11.924999999999999,
+    "defense": 5.300000000000001,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 7,
+    "live": 103.35000000000001,
+    "attack": 14.309999999999999,
+    "defense": 6.36,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 8,
+    "live": 120.57500000000002,
+    "attack": 16.695,
+    "defense": 7.42,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 9,
+    "live": 137.8,
+    "attack": 19.08,
+    "defense": 8.48,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 10,
+    "live": 155.025,
+    "attack": 21.464999999999996,
+    "defense": 9.540000000000001,
+    "fatal": 0.06625,
+    "recover": 0.0265
+}, {
+    "level": 11,
+    "live": 172.25,
+    "attack": 23.849999999999998,
+    "defense": 10.600000000000001,
+    "fatal": 0.06625,
+    "recover": 0.0265
+}, {
+    "level": 12,
+    "live": 189.47500000000002,
+    "attack": 26.235,
+    "defense": 11.66,
+    "fatal": 0.06625,
+    "recover": 0.0265
+}, {
+    "level": 13,
+    "live": 206.70000000000002,
+    "attack": 28.619999999999997,
+    "defense": 12.72,
+    "fatal": 0.06625,
+    "recover": 0.0265
+}, {
+    "level": 14,
+    "live": 223.925,
+    "attack": 31.004999999999995,
+    "defense": 13.780000000000001,
+    "fatal": 0.06625,
+    "recover": 0.0265
+}, {
+    "level": 15,
+    "live": 241.15000000000003,
+    "attack": 33.39,
+    "defense": 14.84,
+    "fatal": 0.06625,
+    "recover": 0.0265
+}, {
+    "level": 16,
+    "live": 258.375,
+    "attack": 35.775,
+    "defense": 15.9,
+    "fatal": 0.06625,
+    "recover": 0.0265
+}, {
+    "level": 17,
+    "live": 275.6,
+    "attack": 38.16,
+    "defense": 16.96,
+    "fatal": 0.06625,
+    "recover": 0.0265
+}, {
+    "level": 18,
+    "live": 292.82500000000005,
+    "attack": 40.544999999999995,
+    "defense": 18.02,
+    "fatal": 0.06625,
+    "recover": 0.0265
+}, {
+    "level": 19,
+    "live": 310.05,
+    "attack": 42.92999999999999,
+    "defense": 19.080000000000002,
+    "fatal": 0.06625,
+    "recover": 0.0265
+}, {
+    "level": 20,
+    "live": 327.27500000000003,
+    "attack": 45.315,
+    "defense": 20.14,
+    "fatal": 0.1325,
+    "recover": 0.053
+}, {
+    "level": 21,
+    "live": 344.5,
+    "attack": 47.699999999999996,
+    "defense": 21.200000000000003,
+    "fatal": 0.1325,
+    "recover": 0.053
+}, {
+    "level": 22,
+    "live": 361.725,
+    "attack": 50.084999999999994,
+    "defense": 22.26,
+    "fatal": 0.1325,
+    "recover": 0.053
+}, {
+    "level": 23,
+    "live": 378.95000000000005,
+    "attack": 52.47,
+    "defense": 23.32,
+    "fatal": 0.1325,
+    "recover": 0.053
+}, {
+    "level": 24,
+    "live": 396.175,
+    "attack": 54.855,
+    "defense": 24.380000000000003,
+    "fatal": 0.1325,
+    "recover": 0.053
+}, {
+    "level": 25,
+    "live": 413.40000000000003,
+    "attack": 57.239999999999995,
+    "defense": 25.44,
+    "fatal": 0.1325,
+    "recover": 0.053
+}, {
+    "level": 26,
+    "live": 430.62500000000006,
+    "attack": 59.62499999999999,
+    "defense": 26.5,
+    "fatal": 0.1325,
+    "recover": 0.053
+}, {
+    "level": 27,
+    "live": 447.85,
+    "attack": 62.00999999999999,
+    "defense": 27.560000000000002,
+    "fatal": 0.1325,
+    "recover": 0.053
+}, {
+    "level": 28,
+    "live": 465.07500000000005,
+    "attack": 64.395,
+    "defense": 28.62,
+    "fatal": 0.1325,
+    "recover": 0.053
+}, {
+    "level": 29,
+    "live": 482.30000000000007,
+    "attack": 66.78,
+    "defense": 29.68,
+    "fatal": 0.1325,
+    "recover": 0.053
+}, {
+    "level": 30,
+    "live": 499.52500000000003,
+    "attack": 69.16499999999999,
+    "defense": 30.740000000000002,
+    "fatal": 0.19875,
+    "recover": 0.0795
+}]
+}, {
+"role": "-",
+"name": "-",
+"rarity": null,
+"teamId": 31,
+"gift": null,
+"live": null,
+"attack": null,
+"defense": null,
+"fatal": null,
+"recover": null
+}, {
+"role": "-",
+"name": "-",
+"rarity": null,
+"teamId": 31,
+"gift": null,
+"live": null,
+"attack": null,
+"defense": null,
+"fatal": null,
+"recover": null
+}, {
+"role": "-",
+"name": "-",
+"rarity": null,
+"teamId": 31,
+"gift": null,
+"live": null,
+"attack": null,
+"defense": null,
+"fatal": null,
+"recover": null
+}, {
+"role": "321",
+"name": "Boom Boom",
+"rarity": 1,
+"teamId": 32,
+"gift": 1,
+"live": 37.5,
+"attack": 13,
+"defense": 3.5,
+"fatal": 0.023,
+"recover": 0.009,
+"restrain": {
+    "target": 2,
+    "value": 0.1
+}
+}, {
+"role": "322",
+"name": "Boom Boom",
+"rarity": 2,
+"teamId": 32,
+"gift": 1,
+"live": 42.5,
+"attack": 14.733333333333333,
+"defense": 3.966666666666667,
+"fatal": 0.02606666666666667,
+"recover": 0.0102,
+"restrain": {
+    "target": 2,
+    "value": 0.1
+}
+}, {
+"role": "323",
+"name": "Boom Boom",
+"rarity": 3,
+"teamId": 32,
+"gift": 1,
+"live": 48.75,
+"attack": 16.9,
+"defense": 4.55,
+"fatal": 0.0299,
+"recover": 0.0117,
+"restrain": {
+    "target": 2,
+    "value": 0.1
+}
+}, {
+"role": "324",
+"name": "Stealth",
+"rarity": 4,
+"teamId": 32,
+"gift": 1,
+"live": 99.375,
+"attack": 34.45,
+"defense": 9.275,
+"fatal": 0.06095,
+"recover": 0.02385,
+"restrain": {
+    "target": 2,
+    "value": 0.1
+},
+"upgradeTable": [{
+    "level": 1,
+    "live": 0,
+    "attack": 0,
+    "defense": 0,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 2,
+    "live": 9.9375,
+    "attack": 3.71,
+    "defense": 0.9275,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 3,
+    "live": 19.875,
+    "attack": 7.42,
+    "defense": 1.855,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 4,
+    "live": 29.8125,
+    "attack": 11.13,
+    "defense": 2.7825,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 5,
+    "live": 39.75,
+    "attack": 14.84,
+    "defense": 3.71,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 6,
+    "live": 49.6875,
+    "attack": 18.55,
+    "defense": 4.6375,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 7,
+    "live": 59.625,
+    "attack": 22.26,
+    "defense": 5.565,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 8,
+    "live": 69.5625,
+    "attack": 25.97,
+    "defense": 6.4925,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 9,
+    "live": 79.5,
+    "attack": 29.68,
+    "defense": 7.42,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 10,
+    "live": 89.4375,
+    "attack": 33.39,
+    "defense": 8.3475,
+    "fatal": 0.0129214,
+    "recover": 0.0050562
+}, {
+    "level": 11,
+    "live": 99.375,
+    "attack": 37.1,
+    "defense": 9.275,
+    "fatal": 0.0129214,
+    "recover": 0.0050562
+}, {
+    "level": 12,
+    "live": 109.3125,
+    "attack": 40.81,
+    "defense": 10.2025,
+    "fatal": 0.0129214,
+    "recover": 0.0050562
+}, {
+    "level": 13,
+    "live": 119.25,
+    "attack": 44.52,
+    "defense": 11.13,
+    "fatal": 0.0129214,
+    "recover": 0.0050562
+}, {
+    "level": 14,
+    "live": 129.1875,
+    "attack": 48.23,
+    "defense": 12.0575,
+    "fatal": 0.0129214,
+    "recover": 0.0050562
+}, {
+    "level": 15,
+    "live": 139.125,
+    "attack": 51.94,
+    "defense": 12.985,
+    "fatal": 0.0129214,
+    "recover": 0.0050562
+}, {
+    "level": 16,
+    "live": 149.0625,
+    "attack": 55.65,
+    "defense": 13.9125,
+    "fatal": 0.0129214,
+    "recover": 0.0050562
+}, {
+    "level": 17,
+    "live": 159,
+    "attack": 59.36,
+    "defense": 14.84,
+    "fatal": 0.0129214,
+    "recover": 0.0050562
+}, {
+    "level": 18,
+    "live": 168.9375,
+    "attack": 63.07,
+    "defense": 15.7675,
+    "fatal": 0.0129214,
+    "recover": 0.0050562
+}, {
+    "level": 19,
+    "live": 178.875,
+    "attack": 66.78,
+    "defense": 16.695,
+    "fatal": 0.0129214,
+    "recover": 0.0050562
+}, {
+    "level": 20,
+    "live": 188.8125,
+    "attack": 70.49,
+    "defense": 17.6225,
+    "fatal": 0.0258428,
+    "recover": 0.0101124
+}, {
+    "level": 21,
+    "live": 198.75,
+    "attack": 74.2,
+    "defense": 18.55,
+    "fatal": 0.0258428,
+    "recover": 0.0101124
+}, {
+    "level": 22,
+    "live": 208.6875,
+    "attack": 77.91,
+    "defense": 19.4775,
+    "fatal": 0.0258428,
+    "recover": 0.0101124
+}, {
+    "level": 23,
+    "live": 218.625,
+    "attack": 81.62,
+    "defense": 20.405,
+    "fatal": 0.0258428,
+    "recover": 0.0101124
+}, {
+    "level": 24,
+    "live": 228.5625,
+    "attack": 85.33,
+    "defense": 21.3325,
+    "fatal": 0.0258428,
+    "recover": 0.0101124
+}, {
+    "level": 25,
+    "live": 238.5,
+    "attack": 89.04,
+    "defense": 22.26,
+    "fatal": 0.0258428,
+    "recover": 0.0101124
+}, {
+    "level": 26,
+    "live": 248.4375,
+    "attack": 92.75,
+    "defense": 23.1875,
+    "fatal": 0.0258428,
+    "recover": 0.0101124
+}, {
+    "level": 27,
+    "live": 258.375,
+    "attack": 96.46,
+    "defense": 24.115,
+    "fatal": 0.0258428,
+    "recover": 0.0101124
+}, {
+    "level": 28,
+    "live": 268.3125,
+    "attack": 100.17,
+    "defense": 25.0425,
+    "fatal": 0.0258428,
+    "recover": 0.0101124
+}, {
+    "level": 29,
+    "live": 278.25,
+    "attack": 103.88,
+    "defense": 25.97,
+    "fatal": 0.0258428,
+    "recover": 0.0101124
+}, {
+    "level": 30,
+    "live": 288.1875,
+    "attack": 107.59,
+    "defense": 26.8975,
+    "fatal": 0.0387642,
+    "recover": 0.0151686
+}]
+}, {
+"role": "331",
+"name": "Fred",
+"rarity": 1,
+"teamId": 33,
+"gift": 4,
+"live": 32.5,
+"attack": 15.238095238095237,
+"defense": 3.5,
+"fatal": 0.025,
+"recover": 0.008,
+"restrain": {
+    "target": 1,
+    "value": 0.1
+}
+}, {
+"role": "332",
+"name": "Fred",
+"rarity": 2,
+"teamId": 33,
+"gift": 4,
+"live": 36.833333333333336,
+"attack": 17.26984126984127,
+"defense": 3.966666666666667,
+"fatal": 0.028333333333333335,
+"recover": 0.009066666666666667,
+"restrain": {
+    "target": 1,
+    "value": 0.1
+}
+}, {
+"role": "333",
+"name": "Fred",
+"rarity": 3,
+"teamId": 33,
+"gift": 4,
+"live": 42.25,
+"attack": 19.80952380952381,
+"defense": 4.55,
+"fatal": 0.0325,
+"recover": 0.0104,
+"restrain": {
+    "target": 1,
+    "value": 0.1
+}
+}, {
+"role": "335",
+"name": "Jeremiah",
+"rarity": 5,
+"teamId": 33,
+"gift": 4,
+"live": 175.5,
+"attack": 82.28571428571429,
+"defense": 18.9,
+"fatal": 0.135,
+"recover": 0.0432,
+"restrain": {
+    "target": 1,
+    "value": 0.1
+},
+"upgradeTable": [{
+    "level": 2,
+    "live": 17.55,
+    "attack": 8.22857142857143,
+    "defense": 1.89,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 3,
+    "live": 35.1,
+    "attack": 16.45714285714286,
+    "defense": 3.78,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 4,
+    "live": 52.650000000000006,
+    "attack": 24.68571428571429,
+    "defense": 5.67,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 5,
+    "live": 70.2,
+    "attack": 32.91428571428572,
+    "defense": 7.56,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 6,
+    "live": 87.75,
+    "attack": 41.142857142857146,
+    "defense": 9.45,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 7,
+    "live": 105.30000000000001,
+    "attack": 49.37142857142858,
+    "defense": 11.34,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 8,
+    "live": 122.85000000000001,
+    "attack": 57.60000000000001,
+    "defense": 13.229999999999999,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 9,
+    "live": 140.4,
+    "attack": 65.82857142857144,
+    "defense": 15.12,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 10,
+    "live": 157.95000000000002,
+    "attack": 74.05714285714286,
+    "defense": 17.009999999999998,
+    "fatal": 0.135,
+    "recover": 0.0432
+}, {
+    "level": 11,
+    "live": 175.5,
+    "attack": 82.28571428571429,
+    "defense": 18.9,
+    "fatal": 0.135,
+    "recover": 0.0432
+}, {
+    "level": 12,
+    "live": 193.05,
+    "attack": 90.51428571428572,
+    "defense": 20.79,
+    "fatal": 0.135,
+    "recover": 0.0432
+}, {
+    "level": 13,
+    "live": 210.60000000000002,
+    "attack": 98.74285714285716,
+    "defense": 22.68,
+    "fatal": 0.135,
+    "recover": 0.0432
+}, {
+    "level": 14,
+    "live": 228.15,
+    "attack": 106.97142857142859,
+    "defense": 24.57,
+    "fatal": 0.135,
+    "recover": 0.0432
+}, {
+    "level": 15,
+    "live": 245.70000000000002,
+    "attack": 115.20000000000002,
+    "defense": 26.459999999999997,
+    "fatal": 0.135,
+    "recover": 0.0432
+}, {
+    "level": 16,
+    "live": 263.25,
+    "attack": 123.42857142857144,
+    "defense": 28.349999999999998,
+    "fatal": 0.135,
+    "recover": 0.0432
+}, {
+    "level": 17,
+    "live": 280.8,
+    "attack": 131.65714285714287,
+    "defense": 30.24,
+    "fatal": 0.135,
+    "recover": 0.0432
+}, {
+    "level": 18,
+    "live": 298.35,
+    "attack": 139.8857142857143,
+    "defense": 32.129999999999995,
+    "fatal": 0.135,
+    "recover": 0.0432
+}, {
+    "level": 19,
+    "live": 315.90000000000003,
+    "attack": 148.11428571428573,
+    "defense": 34.019999999999996,
+    "fatal": 0.135,
+    "recover": 0.0432
+}, {
+    "level": 20,
+    "live": 333.45,
+    "attack": 156.34285714285716,
+    "defense": 35.91,
+    "fatal": 0.27,
+    "recover": 0.0864
+}, {
+    "level": 21,
+    "live": 351,
+    "attack": 164.57142857142858,
+    "defense": 37.8,
+    "fatal": 0.27,
+    "recover": 0.0864
+}, {
+    "level": 22,
+    "live": 368.55,
+    "attack": 172.8,
+    "defense": 39.69,
+    "fatal": 0.27,
+    "recover": 0.0864
+}, {
+    "level": 23,
+    "live": 386.1,
+    "attack": 181.02857142857144,
+    "defense": 41.58,
+    "fatal": 0.27,
+    "recover": 0.0864
+}, {
+    "level": 24,
+    "live": 403.65000000000003,
+    "attack": 189.25714285714287,
+    "defense": 43.47,
+    "fatal": 0.27,
+    "recover": 0.0864
+}, {
+    "level": 25,
+    "live": 421.20000000000005,
+    "attack": 197.48571428571432,
+    "defense": 45.36,
+    "fatal": 0.27,
+    "recover": 0.0864
+}, {
+    "level": 26,
+    "live": 438.75,
+    "attack": 205.71428571428575,
+    "defense": 47.25,
+    "fatal": 0.27,
+    "recover": 0.0864
+}, {
+    "level": 27,
+    "live": 456.3,
+    "attack": 213.94285714285718,
+    "defense": 49.14,
+    "fatal": 0.27,
+    "recover": 0.0864
+}, {
+    "level": 28,
+    "live": 473.85,
+    "attack": 222.1714285714286,
+    "defense": 51.029999999999994,
+    "fatal": 0.27,
+    "recover": 0.0864
+}, {
+    "level": 29,
+    "live": 491.40000000000003,
+    "attack": 230.40000000000003,
+    "defense": 52.919999999999995,
+    "fatal": 0.27,
+    "recover": 0.0864
+}, {
+    "level": 30,
+    "live": 508.95000000000005,
+    "attack": 238.62857142857146,
+    "defense": 54.809999999999995,
+    "fatal": 0.405,
+    "recover": 0.1296
+}]
+}, {
+"role": "341",
+"name": "Flash",
+"rarity": 1,
+"teamId": 34,
+"gift": 2,
+"live": 62.5,
+"attack": 9,
+"defense": 4,
+"fatal": 0.020999999999999998,
+"recover": 0.01,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+}
+}, {
+"role": "342",
+"name": "Flash",
+"rarity": 2,
+"teamId": 34,
+"gift": 2,
+"live": 70.83333333333333,
+"attack": 10.2,
+"defense": 4.533333333333333,
+"fatal": 0.0238,
+"recover": 0.011333333333333332,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+}
+}, {
+"role": "343",
+"name": "Flash",
+"rarity": 3,
+"teamId": 34,
+"gift": 2,
+"live": 81.25,
+"attack": 11.7,
+"defense": 5.2,
+"fatal": 0.0273,
+"recover": 0.013,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+}
+}, {
+"role": "344",
+"name": "Wingo",
+"rarity": 4,
+"teamId": 34,
+"gift": 2,
+"live": 165.625,
+"attack": 23.85,
+"defense": 10.6,
+"fatal": 0.05565,
+"recover": 0.0265,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+},
+"upgradeTable": [{
+    "level": 1,
+    "live": 0,
+    "attack": 0,
+    "defense": 0,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 2,
+    "live": 16.5625,
+    "attack": 2.385,
+    "defense": 1.06,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 3,
+    "live": 33.125,
+    "attack": 4.77,
+    "defense": 2.12,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 4,
+    "live": 49.6875,
+    "attack": 7.155,
+    "defense": 3.18,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 5,
+    "live": 66.25,
+    "attack": 9.54,
+    "defense": 4.24,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 6,
+    "live": 82.8125,
+    "attack": 11.925,
+    "defense": 5.3,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 7,
+    "live": 99.375,
+    "attack": 14.31,
+    "defense": 6.36,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 8,
+    "live": 115.9375,
+    "attack": 16.695,
+    "defense": 7.42,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 9,
+    "live": 132.5,
+    "attack": 19.08,
+    "defense": 8.48,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 10,
+    "live": 149.0625,
+    "attack": 21.465,
+    "defense": 9.54,
+    "fatal": 0.0117978,
+    "recover": 0.005618
+}, {
+    "level": 11,
+    "live": 165.625,
+    "attack": 23.85,
+    "defense": 10.6,
+    "fatal": 0.0117978,
+    "recover": 0.005618
+}, {
+    "level": 12,
+    "live": 182.1875,
+    "attack": 26.235,
+    "defense": 11.66,
+    "fatal": 0.0117978,
+    "recover": 0.005618
+}, {
+    "level": 13,
+    "live": 198.75,
+    "attack": 28.62,
+    "defense": 12.72,
+    "fatal": 0.0117978,
+    "recover": 0.005618
+}, {
+    "level": 14,
+    "live": 215.3125,
+    "attack": 31.005,
+    "defense": 13.78,
+    "fatal": 0.0117978,
+    "recover": 0.005618
+}, {
+    "level": 15,
+    "live": 231.875,
+    "attack": 33.39,
+    "defense": 14.84,
+    "fatal": 0.0117978,
+    "recover": 0.005618
+}, {
+    "level": 16,
+    "live": 248.4375,
+    "attack": 35.775,
+    "defense": 15.9,
+    "fatal": 0.0117978,
+    "recover": 0.005618
+}, {
+    "level": 17,
+    "live": 265,
+    "attack": 38.16,
+    "defense": 16.96,
+    "fatal": 0.0117978,
+    "recover": 0.005618
+}, {
+    "level": 18,
+    "live": 281.5625,
+    "attack": 40.545,
+    "defense": 18.02,
+    "fatal": 0.0117978,
+    "recover": 0.005618
+}, {
+    "level": 19,
+    "live": 298.125,
+    "attack": 42.93,
+    "defense": 19.08,
+    "fatal": 0.0117978,
+    "recover": 0.005618
+}, {
+    "level": 20,
+    "live": 314.6875,
+    "attack": 45.315,
+    "defense": 20.14,
+    "fatal": 0.0235956,
+    "recover": 0.011236
+}, {
+    "level": 21,
+    "live": 331.25,
+    "attack": 47.7,
+    "defense": 21.2,
+    "fatal": 0.0235956,
+    "recover": 0.011236
+}, {
+    "level": 22,
+    "live": 347.8125,
+    "attack": 50.085,
+    "defense": 22.26,
+    "fatal": 0.0235956,
+    "recover": 0.011236
+}, {
+    "level": 23,
+    "live": 364.375,
+    "attack": 52.47,
+    "defense": 23.32,
+    "fatal": 0.0235956,
+    "recover": 0.011236
+}, {
+    "level": 24,
+    "live": 380.9375,
+    "attack": 54.855,
+    "defense": 24.38,
+    "fatal": 0.0235956,
+    "recover": 0.011236
+}, {
+    "level": 25,
+    "live": 397.5,
+    "attack": 57.24,
+    "defense": 25.44,
+    "fatal": 0.0235956,
+    "recover": 0.011236
+}, {
+    "level": 26,
+    "live": 414.0625,
+    "attack": 59.625,
+    "defense": 26.5,
+    "fatal": 0.0235956,
+    "recover": 0.011236
+}, {
+    "level": 27,
+    "live": 430.625,
+    "attack": 62.01,
+    "defense": 27.56,
+    "fatal": 0.0235956,
+    "recover": 0.011236
+}, {
+    "level": 28,
+    "live": 447.1875,
+    "attack": 64.395,
+    "defense": 28.62,
+    "fatal": 0.0235956,
+    "recover": 0.011236
+}, {
+    "level": 29,
+    "live": 463.75,
+    "attack": 66.78,
+    "defense": 29.68,
+    "fatal": 0.0235956,
+    "recover": 0.011236
+}, {
+    "level": 30,
+    "live": 480.3125,
+    "attack": 69.165,
+    "defense": 30.74,
+    "fatal": 0.0353934,
+    "recover": 0.016854
+}]
+}, {
+"role": "-",
+"name": "-",
+"rarity": null,
+"teamId": 35,
+"gift": null,
+"live": null,
+"attack": null,
+"defense": null,
+"fatal": null,
+"recover": null
+}, {
+"role": "-",
+"name": "-",
+"rarity": null,
+"teamId": 35,
+"gift": null,
+"live": null,
+"attack": null,
+"defense": null,
+"fatal": null,
+"recover": null
+}, {
+"role": "-",
+"name": "-",
+"rarity": null,
+"teamId": 35,
+"gift": null,
+"live": null,
+"attack": null,
+"defense": null,
+"fatal": null,
+"recover": null
+}, {
+"role": "361",
+"name": "Krank",
+"rarity": 1,
+"teamId": 36,
+"gift": 2,
+"live": 47.5,
+"attack": 9.5,
+"defense": 6.5,
+"fatal": 0.024,
+"recover": 0.006,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+}
+}, {
+"role": "362",
+"name": "Krank",
+"rarity": 2,
+"teamId": 36,
+"gift": 2,
+"live": 53.833333333333336,
+"attack": 10.766666666666667,
+"defense": 7.366666666666666,
+"fatal": 0.0272,
+"recover": 0.0068,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+}
+}, {
+"role": "363",
+"name": "Krank",
+"rarity": 3,
+"teamId": 36,
+"gift": 2,
+"live": 61.75,
+"attack": 12.35,
+"defense": 8.45,
+"fatal": 0.0312,
+"recover": 0.0078,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+}
+}, {
+"role": "364",
+"name": "Hobble",
+"rarity": 4,
+"teamId": 36,
+"gift": 2,
+"live": 125.875,
+"attack": 25.175,
+"defense": 17.225,
+"fatal": 0.0636,
+"recover": 0.0159,
+"restrain": {
+    "target": 5,
+    "value": 0.1
+},
+"upgradeTable": [{
+    "level": 1,
+    "live": 0,
+    "attack": 0,
+    "defense": 0,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 2,
+    "live": 12.5875,
+    "attack": 2.5175,
+    "defense": 1.7225,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 3,
+    "live": 25.175,
+    "attack": 5.035,
+    "defense": 3.445,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 4,
+    "live": 37.7625,
+    "attack": 7.5525,
+    "defense": 5.1675,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 5,
+    "live": 50.35,
+    "attack": 10.07,
+    "defense": 6.89,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 6,
+    "live": 62.9375,
+    "attack": 12.5875,
+    "defense": 8.6125,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 7,
+    "live": 75.525,
+    "attack": 15.105,
+    "defense": 10.335,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 8,
+    "live": 88.1125,
+    "attack": 17.6225,
+    "defense": 12.0575,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 9,
+    "live": 100.7,
+    "attack": 20.14,
+    "defense": 13.78,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 10,
+    "live": 113.2875,
+    "attack": 22.6575,
+    "defense": 15.5025,
+    "fatal": 0.0134832,
+    "recover": 0.0033708
+}, {
+    "level": 11,
+    "live": 125.875,
+    "attack": 25.175,
+    "defense": 17.225,
+    "fatal": 0.0134832,
+    "recover": 0.0033708
+}, {
+    "level": 12,
+    "live": 138.4625,
+    "attack": 27.6925,
+    "defense": 18.9475,
+    "fatal": 0.0134832,
+    "recover": 0.0033708
+}, {
+    "level": 13,
+    "live": 151.05,
+    "attack": 30.21,
+    "defense": 20.67,
+    "fatal": 0.0134832,
+    "recover": 0.0033708
+}, {
+    "level": 14,
+    "live": 163.6375,
+    "attack": 32.7275,
+    "defense": 22.3925,
+    "fatal": 0.0134832,
+    "recover": 0.0033708
+}, {
+    "level": 15,
+    "live": 176.225,
+    "attack": 35.245,
+    "defense": 24.115,
+    "fatal": 0.0134832,
+    "recover": 0.0033708
+}, {
+    "level": 16,
+    "live": 188.8125,
+    "attack": 37.7625,
+    "defense": 25.8375,
+    "fatal": 0.0134832,
+    "recover": 0.0033708
+}, {
+    "level": 17,
+    "live": 201.4,
+    "attack": 40.28,
+    "defense": 27.56,
+    "fatal": 0.0134832,
+    "recover": 0.0033708
+}, {
+    "level": 18,
+    "live": 213.9875,
+    "attack": 42.7975,
+    "defense": 29.2825,
+    "fatal": 0.0134832,
+    "recover": 0.0033708
+}, {
+    "level": 19,
+    "live": 226.575,
+    "attack": 45.315,
+    "defense": 31.005,
+    "fatal": 0.0134832,
+    "recover": 0.0033708
+}, {
+    "level": 20,
+    "live": 239.1625,
+    "attack": 47.8325,
+    "defense": 32.7275,
+    "fatal": 0.0269664,
+    "recover": 0.0067416
+}, {
+    "level": 21,
+    "live": 251.75,
+    "attack": 50.35,
+    "defense": 34.45,
+    "fatal": 0.0269664,
+    "recover": 0.0067416
+}, {
+    "level": 22,
+    "live": 264.3375,
+    "attack": 52.8675,
+    "defense": 36.1725,
+    "fatal": 0.0269664,
+    "recover": 0.0067416
+}, {
+    "level": 23,
+    "live": 276.925,
+    "attack": 55.385,
+    "defense": 37.895,
+    "fatal": 0.0269664,
+    "recover": 0.0067416
+}, {
+    "level": 24,
+    "live": 289.5125,
+    "attack": 57.9025,
+    "defense": 39.6175,
+    "fatal": 0.0269664,
+    "recover": 0.0067416
+}, {
+    "level": 25,
+    "live": 302.1,
+    "attack": 60.42,
+    "defense": 41.34,
+    "fatal": 0.0269664,
+    "recover": 0.0067416
+}, {
+    "level": 26,
+    "live": 314.6875,
+    "attack": 62.9375,
+    "defense": 43.0625,
+    "fatal": 0.0269664,
+    "recover": 0.0067416
+}, {
+    "level": 27,
+    "live": 327.275,
+    "attack": 65.455,
+    "defense": 44.785,
+    "fatal": 0.0269664,
+    "recover": 0.0067416
+}, {
+    "level": 28,
+    "live": 339.8625,
+    "attack": 67.9725,
+    "defense": 46.5075,
+    "fatal": 0.0269664,
+    "recover": 0.0067416
+}, {
+    "level": 29,
+    "live": 352.45,
+    "attack": 70.49,
+    "defense": 48.23,
+    "fatal": 0.0269664,
+    "recover": 0.0067416
+}, {
+    "level": 30,
+    "live": 365.0375,
+    "attack": 73.0075,
+    "defense": 49.9525,
+    "fatal": 0.0404496,
+    "recover": 0.0101124
+}]
+}, {
+"role": "371",
+"name": "Miss Quito",
+"rarity": 1,
+"teamId": 37,
+"gift": 3,
+"live": 42,
+"attack": 15,
+"defense": 2.727272727272727,
+"fatal": 0.024,
+"recover": 0.01,
+"restrain": {
+    "target": 4,
+    "value": 0.1
+}
+}, {
+"role": "372",
+"name": "Miss Quito",
+"rarity": 2,
+"teamId": 37,
+"gift": 3,
+"live": 47.599999999999994,
+"attack": 17,
+"defense": 3.090909090909091,
+"fatal": 0.0272,
+"recover": 0.011333333333333332,
+"restrain": {
+    "target": 4,
+    "value": 0.1
+}
+}, {
+"role": "373",
+"name": "Miss Quito",
+"rarity": 3,
+"teamId": 37,
+"gift": 3,
+"live": 54.6,
+"attack": 19.5,
+"defense": 3.545454545454545,
+"fatal": 0.0312,
+"recover": 0.013,
+"restrain": {
+    "target": 4,
+    "value": 0.1
+}
+}, {
+"role": "375",
+"name": "Apalala",
+"rarity": 5,
+"teamId": 37,
+"gift": 3,
+"live": 226.79999999999998,
+"attack": 81,
+"defense": 14.727272727272725,
+"fatal": 0.1296,
+"recover": 0.054,
+"restrain": {
+    "target": 4,
+    "value": 0.1
+},
+"upgradeTable": [{
+    "level": 1,
+    "live": 0,
+    "attack": 0,
+    "defense": 0,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 2,
+    "live": 22.68,
+    "attack": 8.1,
+    "defense": 1.4727272727272724,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 3,
+    "live": 45.36,
+    "attack": 16.2,
+    "defense": 2.945454545454545,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 4,
+    "live": 68.03999999999999,
+    "attack": 24.299999999999997,
+    "defense": 4.418181818181817,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 5,
+    "live": 90.72,
+    "attack": 32.4,
+    "defense": 5.89090909090909,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 6,
+    "live": 113.4,
+    "attack": 40.5,
+    "defense": 7.363636363636362,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 7,
+    "live": 136.07999999999998,
+    "attack": 48.599999999999994,
+    "defense": 8.836363636363634,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 8,
+    "live": 158.76,
+    "attack": 56.699999999999996,
+    "defense": 10.309090909090907,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 9,
+    "live": 181.44,
+    "attack": 64.8,
+    "defense": 11.78181818181818,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 10,
+    "live": 204.12,
+    "attack": 72.89999999999999,
+    "defense": 13.254545454545452,
+    "fatal": 0.1296,
+    "recover": 0.054
+}, {
+    "level": 11,
+    "live": 226.8,
+    "attack": 81,
+    "defense": 14.727272727272725,
+    "fatal": 0.1296,
+    "recover": 0.054
+}, {
+    "level": 12,
+    "live": 249.48,
+    "attack": 89.1,
+    "defense": 16.199999999999996,
+    "fatal": 0.1296,
+    "recover": 0.054
+}, {
+    "level": 13,
+    "live": 272.15999999999997,
+    "attack": 97.19999999999999,
+    "defense": 17.67272727272727,
+    "fatal": 0.1296,
+    "recover": 0.054
+}, {
+    "level": 14,
+    "live": 294.84,
+    "attack": 105.3,
+    "defense": 19.14545454545454,
+    "fatal": 0.1296,
+    "recover": 0.054
+}, {
+    "level": 15,
+    "live": 317.52,
+    "attack": 113.39999999999999,
+    "defense": 20.618181818181814,
+    "fatal": 0.1296,
+    "recover": 0.054
+}, {
+    "level": 16,
+    "live": 340.2,
+    "attack": 121.5,
+    "defense": 22.090909090909086,
+    "fatal": 0.1296,
+    "recover": 0.054
+}, {
+    "level": 17,
+    "live": 362.88,
+    "attack": 129.6,
+    "defense": 23.56363636363636,
+    "fatal": 0.1296,
+    "recover": 0.054
+}, {
+    "level": 18,
+    "live": 385.56,
+    "attack": 137.7,
+    "defense": 25.03636363636363,
+    "fatal": 0.1296,
+    "recover": 0.054
+}, {
+    "level": 19,
+    "live": 408.24,
+    "attack": 145.79999999999998,
+    "defense": 26.509090909090904,
+    "fatal": 0.1296,
+    "recover": 0.054
+}, {
+    "level": 20,
+    "live": 430.92,
+    "attack": 153.9,
+    "defense": 27.981818181818177,
+    "fatal": 0.2592,
+    "recover": 0.108
+}, {
+    "level": 21,
+    "live": 453.6,
+    "attack": 162,
+    "defense": 29.45454545454545,
+    "fatal": 0.2592,
+    "recover": 0.108
+}, {
+    "level": 22,
+    "live": 476.28,
+    "attack": 170.1,
+    "defense": 30.927272727272722,
+    "fatal": 0.2592,
+    "recover": 0.108
+}, {
+    "level": 23,
+    "live": 498.96,
+    "attack": 178.2,
+    "defense": 32.39999999999999,
+    "fatal": 0.2592,
+    "recover": 0.108
+}, {
+    "level": 24,
+    "live": 521.64,
+    "attack": 186.29999999999998,
+    "defense": 33.87272727272727,
+    "fatal": 0.2592,
+    "recover": 0.108
+}, {
+    "level": 25,
+    "live": 544.3199999999999,
+    "attack": 194.39999999999998,
+    "defense": 35.34545454545454,
+    "fatal": 0.2592,
+    "recover": 0.108
+}, {
+    "level": 26,
+    "live": 567,
+    "attack": 202.5,
+    "defense": 36.81818181818181,
+    "fatal": 0.2592,
+    "recover": 0.108
+}, {
+    "level": 27,
+    "live": 589.68,
+    "attack": 210.6,
+    "defense": 38.29090909090908,
+    "fatal": 0.2592,
+    "recover": 0.108
+}, {
+    "level": 28,
+    "live": 612.36,
+    "attack": 218.7,
+    "defense": 39.76363636363636,
+    "fatal": 0.2592,
+    "recover": 0.108
+}, {
+    "level": 29,
+    "live": 635.04,
+    "attack": 226.79999999999998,
+    "defense": 41.23636363636363,
+    "fatal": 0.2592,
+    "recover": 0.108
+}, {
+    "level": 30,
+    "live": 657.72,
+    "attack": 234.89999999999998,
+    "defense": 42.709090909090904,
+    "fatal": 0.3888,
+    "recover": 0.162
+}]
+}, {
+"role": "381",
+"name": "Razor",
+"rarity": 1,
+"teamId": 38,
+"gift": 5,
+"live": 57.5,
+"attack": 9,
+"defense": 5,
+"fatal": 0.018,
+"recover": 0.010499999999999999,
+"restrain": {
+    "target": 3,
+    "value": 0.1
+}
+}, {
+"role": "382",
+"name": "Razor",
+"rarity": 2,
+"teamId": 38,
+"gift": 5,
+"live": 65.16666666666667,
+"attack": 10.2,
+"defense": 5.666666666666667,
+"fatal": 0.0204,
+"recover": 0.0119,
+"restrain": {
+    "target": 3,
+    "value": 0.1
+}
+}, {
+"role": "383",
+"name": "Razor",
+"rarity": 3,
+"teamId": 38,
+"gift": 5,
+"live": 74.75,
+"attack": 11.7,
+"defense": 6.5,
+"fatal": 0.0234,
+"recover": 0.01365,
+"restrain": {
+    "target": 3,
+    "value": 0.1
+}
+}, {
+"role": "384",
+"name": "Ormr",
+"rarity": 4,
+"teamId": 38,
+"gift": 5,
+"live": 152.375,
+"attack": 23.85,
+"defense": 13.25,
+"fatal": 0.0477,
+"recover": 0.027825,
+"restrain": {
+    "target": 3,
+    "value": 0.1
+},
+"upgradeTable": [{
+    "level": 1,
+    "live": 0,
+    "attack": 0,
+    "defense": 0,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 2,
+    "live": 15.2375,
+    "attack": 2.385,
+    "defense": 1.325,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 3,
+    "live": 30.475,
+    "attack": 4.77,
+    "defense": 2.65,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 4,
+    "live": 45.7125,
+    "attack": 7.155,
+    "defense": 3.975,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 5,
+    "live": 60.95,
+    "attack": 9.54,
+    "defense": 5.3,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 6,
+    "live": 76.1875,
+    "attack": 11.925,
+    "defense": 6.625,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 7,
+    "live": 91.425,
+    "attack": 14.31,
+    "defense": 7.95,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 8,
+    "live": 106.6625,
+    "attack": 16.695,
+    "defense": 9.275,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 9,
+    "live": 121.9,
+    "attack": 19.08,
+    "defense": 10.6,
+    "fatal": 0,
+    "recover": 0
+}, {
+    "level": 10,
+    "live": 137.1375,
+    "attack": 21.465,
+    "defense": 11.925,
+    "fatal": 0.0101124,
+    "recover": 0.0058989
+}, {
+    "level": 11,
+    "live": 152.375,
+    "attack": 23.85,
+    "defense": 13.25,
+    "fatal": 0.0101124,
+    "recover": 0.0058989
+}, {
+    "level": 12,
+    "live": 167.6125,
+    "attack": 26.235,
+    "defense": 14.575,
+    "fatal": 0.0101124,
+    "recover": 0.0058989
+}, {
+    "level": 13,
+    "live": 182.85,
+    "attack": 28.62,
+    "defense": 15.9,
+    "fatal": 0.0101124,
+    "recover": 0.0058989
+}, {
+    "level": 14,
+    "live": 198.0875,
+    "attack": 31.005,
+    "defense": 17.225,
+    "fatal": 0.0101124,
+    "recover": 0.0058989
+}, {
+    "level": 15,
+    "live": 213.325,
+    "attack": 33.39,
+    "defense": 18.55,
+    "fatal": 0.0101124,
+    "recover": 0.0058989
+}, {
+    "level": 16,
+    "live": 228.5625,
+    "attack": 35.775,
+    "defense": 19.875,
+    "fatal": 0.0101124,
+    "recover": 0.0058989
+}, {
+    "level": 17,
+    "live": 243.8,
+    "attack": 38.16,
+    "defense": 21.2,
+    "fatal": 0.0101124,
+    "recover": 0.0058989
+}, {
+    "level": 18,
+    "live": 259.0375,
+    "attack": 40.545,
+    "defense": 22.525,
+    "fatal": 0.0101124,
+    "recover": 0.0058989
+}, {
+    "level": 19,
+    "live": 274.275,
+    "attack": 42.93,
+    "defense": 23.85,
+    "fatal": 0.0101124,
+    "recover": 0.0058989
+}, {
+    "level": 20,
+    "live": 289.5125,
+    "attack": 45.315,
+    "defense": 25.175,
+    "fatal": 0.0202248,
+    "recover": 0.0117978
+}, {
+    "level": 21,
+    "live": 304.75,
+    "attack": 47.7,
+    "defense": 26.5,
+    "fatal": 0.0202248,
+    "recover": 0.0117978
+}, {
+    "level": 22,
+    "live": 319.9875,
+    "attack": 50.085,
+    "defense": 27.825,
+    "fatal": 0.0202248,
+    "recover": 0.0117978
+}, {
+    "level": 23,
+    "live": 335.225,
+    "attack": 52.47,
+    "defense": 29.15,
+    "fatal": 0.0202248,
+    "recover": 0.0117978
+}, {
+    "level": 24,
+    "live": 350.4625,
+    "attack": 54.855,
+    "defense": 30.475,
+    "fatal": 0.0202248,
+    "recover": 0.0117978
+}, {
+    "level": 25,
+    "live": 365.7,
+    "attack": 57.24,
+    "defense": 31.8,
+    "fatal": 0.0202248,
+    "recover": 0.0117978
+}, {
+    "level": 26,
+    "live": 380.9375,
+    "attack": 59.625,
+    "defense": 33.125,
+    "fatal": 0.0202248,
+    "recover": 0.0117978
+}, {
+    "level": 27,
+    "live": 396.175,
+    "attack": 62.01,
+    "defense": 34.45,
+    "fatal": 0.0202248,
+    "recover": 0.0117978
+}, {
+    "level": 28,
+    "live": 411.4125,
+    "attack": 64.395,
+    "defense": 35.775,
+    "fatal": 0.0202248,
+    "recover": 0.0117978
+}, {
+    "level": 29,
+    "live": 426.65,
+    "attack": 66.78,
+    "defense": 37.1,
+    "fatal": 0.0202248,
+    "recover": 0.0117978
+}, {
+    "level": 30,
+    "live": 441.8875,
+    "attack": 69.165,
+    "defense": 38.425,
+    "fatal": 0.0303372,
+    "recover": 0.0176967
+}]
+}, {
+"role": "-",
+"name": "-",
+"rarity": null,
+"teamId": 39,
+"gift": null,
+"live": null,
+"attack": null,
+"defense": null,
+"fatal": null,
+"recover": null
+}, {
+"role": "-",
+"name": "-",
+"rarity": null,
+"teamId": 39,
+"gift": null,
+"live": null,
+"attack": null,
+"defense": null,
+"fatal": null,
+"recover": null
+}, {
+"role": "-",
+"name": "-",
+"rarity": null,
+"teamId": 39,
+"gift": null,
+"live": null,
+"attack": null,
+"defense": null,
+"fatal": null,
+"recover": null
+}]

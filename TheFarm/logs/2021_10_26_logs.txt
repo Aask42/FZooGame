@@ -1,0 +1,78 @@
+20211026_04:19:49 We can win this one! Gonna attempt to fight Poki2...
+20211026_04:19:49 Our rounds: 9.48559050458357  | Their rounds: 7.46575342465753
+20211026_04:19:49 Our Combat Power: 809.165  | Their Combat Power: 745.175047619048
+20211026_04:19:49 Our Life: 202.266666666667  | Their Life: 168.95
+20211026_04:19:49 Our Defense: 16.8533333333333  | Their Defense: 16.74
+
+20211026_04:19:56 We can win this one! Gonna attempt to fight 555..0...
+20211026_04:19:56 Our rounds: 10.6362839614373  | Their rounds: 5.92
+20211026_04:19:56 Our Combat Power: 809.165  | Their Combat Power: 681.923
+20211026_04:19:56 Our Life: 202.266666666667  | Their Life: 140.6
+20211026_04:19:56 Our Defense: 16.8533333333333  | Their Defense: 15.62
+
+20211026_04:20:05 We can win this one! Gonna attempt to fight thang1....
+20211026_04:20:05 Our rounds: 12.0277502477701  | Their rounds: 6.30857142857143
+20211026_04:20:05 Our Combat Power: 809.165  | Their Combat Power: 662.413
+20211026_04:20:05 Our Life: 202.266666666667  | Their Life: 165.6
+20211026_04:20:05 Our Defense: 16.8533333333333  | Their Defense: 13.12
+
+20211026_04:20:11 We can win this one! Gonna attempt to fight 33333ttt...
+20211026_04:20:11 Our rounds: 12.0277502477701  | Their rounds: 6.4377358490566
+20211026_04:20:11 Our Combat Power: 809.165  | Their Combat Power: 665.923
+20211026_04:20:11 Our Life: 202.266666666667  | Their Life: 170.6
+20211026_04:20:11 Our Defense: 16.8533333333333  | Their Defense: 12.87
+
+20211026_04:20:20 We can win this one! Gonna attempt to fight 22wwwww...
+20211026_04:20:20 Our rounds: 7.72993630573249  | Their rounds: 4.9747572815534
+20211026_04:20:20 Our Combat Power: 809.165  | Their Combat Power: 725.403
+20211026_04:20:20 Our Life: 202.266666666667  | Their Life: 128.1
+20211026_04:20:20 Our Defense: 16.8533333333333  | Their Defense: 13.62
+
+20211026_04:20:24 We can win this one! Gonna attempt to fight KuYaDex...
+20211026_04:20:24 Our rounds: 9.53338570306363  | Their rounds: 5.6
+20211026_04:20:24 Our Combat Power: 809.165  | Their Combat Power: 687.073
+20211026_04:20:24 Our Life: 202.266666666667  | Their Life: 145.6
+20211026_04:20:24 Our Defense: 16.8533333333333  | Their Defense: 13.37
+
+20211026_04:21:05 We can win this one! Gonna attempt to fight Daledasdas...
+20211026_04:21:05 Our rounds: 6.17293997965412  | Their rounds: 3.98677685950413
+20211026_04:21:05 Our Combat Power: 809.165  | Their Combat Power: 738.963
+20211026_04:21:05 Our Life: 202.266666666667  | Their Life: 120.6
+20211026_04:21:05 Our Defense: 16.8533333333333  | Their Defense: 9.12
+
+20211026_04:21:21 We can win this one! Gonna attempt to fight HARVEST-LANG-1TIME...
+20211026_04:21:21 Our rounds: 13.8380843785633  | Their rounds: 6.82886597938144
+20211026_04:21:21 Our Combat Power: 809.165  | Their Combat Power: 656.493
+20211026_04:21:21 Our Life: 202.266666666667  | Their Life: 165.6
+20211026_04:21:21 Our Defense: 16.8533333333333  | Their Defense: 15.12
+
+20211026_04:21:30 We can win this one! Gonna attempt to fight Papakong14...
+20211026_04:21:30 Our rounds: 7.1304347826087  | Their rounds: 3.8954954954955
+20211026_04:21:30 Our Combat Power: 809.165  | Their Combat Power: 704.433
+20211026_04:21:30 Our Life: 202.266666666667  | Their Life: 108.1
+20211026_04:21:30 Our Defense: 16.8533333333333  | Their Defense: 11.62
+
+20211026_07:45:33 We can win this one! Gonna attempt to fight Callejeroa...
+20211026_07:45:33 Our rounds: 9.78709677419355  | Their rounds: 6.29010989010989
+20211026_07:45:33 Our Combat Power: 809.165  | Their Combat Power: 714.243
+20211026_07:45:33 Our Life: 202.266666666667  | Their Life: 143.1
+20211026_07:45:33 Our Defense: 16.8533333333333  | Their Defense: 16.62
+
+20211026_07:45:38 We can win this one! Gonna attempt to fight Chvaco...
+20211026_07:45:38 Our rounds: 12.4344262295082  | Their rounds: 6.62752293577982
+20211026_07:45:38 Our Combat Power: 809.165  | Their Combat Power: 661.293
+20211026_07:45:38 Our Life: 202.266666666667  | Their Life: 180.6
+20211026_07:45:38 Our Defense: 16.8533333333333  | Their Defense: 12.12
+
+20211026_07:45:42 We can win this one! Gonna attempt to fight Guarida...
+20211026_07:45:42 Our rounds: 8.63772241992883  | Their rounds: 4.88849557522124
+20211026_07:45:42 Our Combat Power: 809.165  | Their Combat Power: 680.993
+20211026_07:45:42 Our Life: 202.266666666667  | Their Life: 138.1
+20211026_07:45:42 Our Defense: 16.8533333333333  | Their Defense: 11.12
+
+20211026_07:45:46 We can win this one! Gonna attempt to fight whitewhite...
+20211026_07:45:46 Our rounds: 10.6362839614373  | Their rounds: 5.96756756756757
+20211026_07:45:46 Our Combat Power: 809.165  | Their Combat Power: 670.513
+20211026_07:45:46 Our Life: 202.266666666667  | Their Life: 165.6
+20211026_07:45:46 Our Defense: 16.8533333333333  | Their Defense: 11.62
+

@@ -1,0 +1,154 @@
+20211026_07:18:24 We can win this one! Gonna attempt to fight Labom...
+20211026_07:18:24 Our rounds: 15.598971722365  | Their rounds: 7.13814432989691
+20211026_07:18:24 Our Combat Power: 809.165  | Their Combat Power: 654.843
+20211026_07:18:24 Our Life: 202.266666666667  | Their Life: 173.1
+20211026_07:18:24 Our Defense: 16.8533333333333  | Their Defense: 15.12
+
+# Labom
+initiateCombat 0x334bd42d4fd5b65493564faaeadf62f090248f98 0x52ac434be2f5a064719be4926461d5c3466de17c 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpMi56b29nYW1lLmZpbmFuY2VcL2FwaVwvYXV0aFwvbG9naW4yIiwiaWF0IjoxNjM1MTk5NTA3LCJleHAiOjE2Mzg3OTk1MDcsIm5iZiI6MTYzNTE5OTUwNywianRpIjoiR1Bjc3Ayd1Q4aWZDTnVvVCIsInN1YiI6OTAxMDIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.ZiF8zXmNZvyCVpI7qSOdSY1M-FWQGjwPAjEN9GkK5Zo'
+20211026_07:20:35 We can win this one! Gonna attempt to fight Labom...
+20211026_07:20:35 Our rounds: 15.598971722365  | Their rounds: 7.13814432989691
+20211026_07:20:35 Our Combat Power: 809.165  | Their Combat Power: 654.843
+20211026_07:20:35 Our Life: 202.266666666667  | Their Life: 173.1
+20211026_07:20:35 Our Defense: 16.8533333333333  | Their Defense: 15.12
+
+# Labom
+initiateCombat 0x334bd42d4fd5b65493564faaeadf62f090248f98 0x52ac434be2f5a064719be4926461d5c3466de17c 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpMi56b29nYW1lLmZpbmFuY2VcL2FwaVwvYXV0aFwvbG9naW4yIiwiaWF0IjoxNjM1MjA3NjE4LCJleHAiOjE2Mzg4MDc2MTgsIm5iZiI6MTYzNTIwNzYxOCwianRpIjoiZ0pvdmR0VmNYRnJqSmdweSIsInN1YiI6ODI5NDEsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.IZBZKmlGmkdpreBYxevYQYSyNZe1P5BIc9K3pO-C2rs'
+20211026_07:21:26 We can win this one! Gonna attempt to fight Labom...
+20211026_07:21:26 Our rounds: 15.598971722365  | Their rounds: 7.13814432989691
+20211026_07:21:26 Our Combat Power: 809.165  | Their Combat Power: 654.843
+20211026_07:21:26 Our Life: 202.266666666667  | Their Life: 173.1
+20211026_07:21:26 Our Defense: 16.8533333333333  | Their Defense: 15.12
+
+# Labom
+initiateCombat 0x334bd42d4fd5b65493564faaeadf62f090248f98 0x52ac434be2f5a064719be4926461d5c3466de17c 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpMi56b29nYW1lLmZpbmFuY2VcL2FwaVwvYXV0aFwvbG9naW4yIiwiaWF0IjoxNjM1MjA3NjE4LCJleHAiOjE2Mzg4MDc2MTgsIm5iZiI6MTYzNTIwNzYxOCwianRpIjoiZ0pvdmR0VmNYRnJqSmdweSIsInN1YiI6ODI5NDEsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.IZBZKmlGmkdpreBYxevYQYSyNZe1P5BIc9K3pO-C2rs'
+20211026_07:22:28 We can win this one! Gonna attempt to fight Labom...
+20211026_07:22:28 Our rounds: 15.598971722365  | Their rounds: 7.13814432989691
+20211026_07:22:28 Our Combat Power: 809.165  | Their Combat Power: 654.843
+20211026_07:22:28 Our Life: 202.266666666667  | Their Life: 173.1
+20211026_07:22:28 Our Defense: 16.8533333333333  | Their Defense: 15.12
+
+# Labom
+initiateCombat 0x622c22d9f01dd06f3b954f2150b91d8f18f0b9c0 0x52ac434be2f5a064719be4926461d5c3466de17c 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpMi56b29nYW1lLmZpbmFuY2VcL2FwaVwvYXV0aFwvbG9naW4yIiwiaWF0IjoxNjM1MjA3NjE4LCJleHAiOjE2Mzg4MDc2MTgsIm5iZiI6MTYzNTIwNzYxOCwianRpIjoiZ0pvdmR0VmNYRnJqSmdweSIsInN1YiI6ODI5NDEsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.IZBZKmlGmkdpreBYxevYQYSyNZe1P5BIc9K3pO-C2rs'
+20211026_07:23:22 We can win this one! Gonna attempt to fight Labom...
+20211026_07:23:22 Our rounds: 15.598971722365  | Their rounds: 7.13814432989691
+20211026_07:23:22 Our Combat Power: 809.165  | Their Combat Power: 654.843
+20211026_07:23:22 Our Life: 202.266666666667  | Their Life: 173.1
+20211026_07:23:22 Our Defense: 16.8533333333333  | Their Defense: 15.12
+
+# Labom
+initiateCombat 0x622c22d9f01dd06f3b954f2150b91d8f18f0b9c0 0x52ac434be2f5a064719be4926461d5c3466de17c 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpMi56b29nYW1lLmZpbmFuY2VcL2FwaVwvYXV0aFwvbG9naW4yIiwiaWF0IjoxNjM1MjA3NjE4LCJleHAiOjE2Mzg4MDc2MTgsIm5iZiI6MTYzNTIwNzYxOCwianRpIjoiZ0pvdmR0VmNYRnJqSmdweSIsInN1YiI6ODI5NDEsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.IZBZKmlGmkdpreBYxevYQYSyNZe1P5BIc9K3pO-C2rs'
+20211026_07:27:46 We can win this one! Gonna attempt to fight Karpet 4...
+20211026_07:27:46 Our rounds: 8.43949930458971  | Their rounds: 4.88648648648649
+20211026_07:27:46 Our Combat Power: 809.165  | Their Combat Power: 690.433
+20211026_07:27:46 Our Life: 202.266666666667  | Their Life: 135.6
+20211026_07:27:46 Our Defense: 16.8533333333333  | Their Defense: 11.62
+
+# Karpet 4
+initiateCombat 0x622c22d9f01dd06f3b954f2150b91d8f18f0b9c0 0x2da764e175cc24d3dba5c64cf788fede227fcdb0 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpMi56b29nYW1lLmZpbmFuY2VcL2FwaVwvYXV0aFwvbG9naW4yIiwiaWF0IjoxNjM1MjA3NjE4LCJleHAiOjE2Mzg4MDc2MTgsIm5iZiI6MTYzNTIwNzYxOCwianRpIjoiZ0pvdmR0VmNYRnJqSmdweSIsInN1YiI6ODI5NDEsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.IZBZKmlGmkdpreBYxevYQYSyNZe1P5BIc9K3pO-C2rs'
+20211026_07:28:42 We can win this one! Gonna attempt to fight Karpet 4...
+20211026_07:28:42 Our rounds: 8.43949930458971  | Their rounds: 4.88648648648649
+20211026_07:28:42 Our Combat Power: 809.165  | Their Combat Power: 690.433
+20211026_07:28:42 Our Life: 202.266666666667  | Their Life: 135.6
+20211026_07:28:42 Our Defense: 16.8533333333333  | Their Defense: 11.62
+
+# Karpet 4
+initiateCombat 0x622c22d9f01dd06f3b954f2150b91d8f18f0b9c0 0x2da764e175cc24d3dba5c64cf788fede227fcdb0 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpMi56b29nYW1lLmZpbmFuY2VcL2FwaVwvYXV0aFwvbG9naW4yIiwiaWF0IjoxNjM1MjA3NjE4LCJleHAiOjE2Mzg4MDc2MTgsIm5iZiI6MTYzNTIwNzYxOCwianRpIjoiZ0pvdmR0VmNYRnJqSmdweSIsInN1YiI6ODI5NDEsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.IZBZKmlGmkdpreBYxevYQYSyNZe1P5BIc9K3pO-C2rs'
+20211026_07:29:59 We can win this one! Gonna attempt to fight Rakford...
+20211026_07:29:59 Our rounds: 11.161592936632  | Their rounds: 7.86708091314332
+20211026_07:29:59 Our Combat Power: 809.165  | Their Combat Power: 730.642
+20211026_07:29:59 Our Life: 202.266666666667  | Their Life: 194.133333333333
+20211026_07:29:59 Our Defense: 16.8533333333333  | Their Defense: 14.6933333333333
+
+# Rakford
+initiateCombat 0x622c22d9f01dd06f3b954f2150b91d8f18f0b9c0 0x73f16e0bddd8706eec80438d45aed1dc5c67ea17 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpMi56b29nYW1lLmZpbmFuY2VcL2FwaVwvYXV0aFwvbG9naW4yIiwiaWF0IjoxNjM1MjA3NjE4LCJleHAiOjE2Mzg4MDc2MTgsIm5iZiI6MTYzNTIwNzYxOCwianRpIjoiZ0pvdmR0VmNYRnJqSmdweSIsInN1YiI6ODI5NDEsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.IZBZKmlGmkdpreBYxevYQYSyNZe1P5BIc9K3pO-C2rs'
+20211026_07:30:25 We can win this one! Gonna attempt to fight Karpet 4...
+20211026_07:30:25 Our rounds: 8.43949930458971  | Their rounds: 4.88648648648649
+20211026_07:30:25 Our Combat Power: 809.165  | Their Combat Power: 690.433
+20211026_07:30:25 Our Life: 202.266666666667  | Their Life: 135.6
+20211026_07:30:25 Our Defense: 16.8533333333333  | Their Defense: 11.62
+
+# Karpet 4
+initiateCombat 0x622c22d9f01dd06f3b954f2150b91d8f18f0b9c0 0x2da764e175cc24d3dba5c64cf788fede227fcdb0 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpMi56b29nYW1lLmZpbmFuY2VcL2FwaVwvYXV0aFwvbG9naW4yIiwiaWF0IjoxNjM1MjA3NjE4LCJleHAiOjE2Mzg4MDc2MTgsIm5iZiI6MTYzNTIwNzYxOCwianRpIjoiZ0pvdmR0VmNYRnJqSmdweSIsInN1YiI6ODI5NDEsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.IZBZKmlGmkdpreBYxevYQYSyNZe1P5BIc9K3pO-C2rs'
+20211026_07:30:39 We can win this one! Gonna attempt to fight Karpet 4...
+20211026_07:30:39 Our rounds: 8.43949930458971  | Their rounds: 4.88648648648649
+20211026_07:30:39 Our Combat Power: 809.165  | Their Combat Power: 690.433
+20211026_07:30:39 Our Life: 202.266666666667  | Their Life: 135.6
+20211026_07:30:39 Our Defense: 16.8533333333333  | Their Defense: 11.62
+
+# Karpet 4
+initiateCombat 0x622c22d9f01dd06f3b954f2150b91d8f18f0b9c0 0x2da764e175cc24d3dba5c64cf788fede227fcdb0 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpMi56b29nYW1lLmZpbmFuY2VcL2FwaVwvYXV0aFwvbG9naW4yIiwiaWF0IjoxNjM1MjA3NjE4LCJleHAiOjE2Mzg4MDc2MTgsIm5iZiI6MTYzNTIwNzYxOCwianRpIjoiZ0pvdmR0VmNYRnJqSmdweSIsInN1YiI6ODI5NDEsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.IZBZKmlGmkdpreBYxevYQYSyNZe1P5BIc9K3pO-C2rs'
+20211026_07:31:27 We can win this one! Gonna attempt to fight Karpet 4...
+20211026_07:31:27 Our rounds: 8.43949930458971  | Their rounds: 4.88648648648649
+20211026_07:31:27 Our Combat Power: 809.165  | Their Combat Power: 690.433
+20211026_07:31:27 Our Life: 202.266666666667  | Their Life: 135.6
+20211026_07:31:27 Our Defense: 16.8533333333333  | Their Defense: 11.62
+
+# Karpet 4
+initiateCombat 0x622c22d9f01dd06f3b954f2150b91d8f18f0b9c0 0x2da764e175cc24d3dba5c64cf788fede227fcdb0 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvYXBpMi56b29nYW1lLmZpbmFuY2VcL2FwaVwvYXV0aFwvbG9naW4yIiwiaWF0IjoxNjM1MjA3NjE4LCJleHAiOjE2Mzg4MDc2MTgsIm5iZiI6MTYzNTIwNzYxOCwianRpIjoiZ0pvdmR0VmNYRnJqSmdweSIsInN1YiI6ODI5NDEsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.IZBZKmlGmkdpreBYxevYQYSyNZe1P5BIc9K3pO-C2rs'
+20211026_07:35:37 We can win this one! Gonna attempt to fight lilili...
+20211026_07:35:37 Our rounds: 85.2684196110654  | Their rounds: 2.49573030194641
+20211026_07:35:37 Our Combat Power: 1459.65383333333  | Their Combat Power: 681.423
+20211026_07:35:37 Our Life: 259.429166666667  | Their Life: 175.6
+20211026_07:35:37 Our Defense: 28.3725  | Their Defense: 15.62
+
+20211026_07:35:37 We would definitely lose this one to Ang19....
+20211026_07:35:37 Our rounds: 3.6983643871679  | Their rounds: 9.54354491961663
+20211026_07:35:37 Our Combat Power: 1459.65383333333  | Their Combat Power: 1885.0715
+20211026_07:35:37 Our Life: 259.429166666667  | Their Life: 371.4125
+20211026_07:35:37 Our Defense: 28.3725  | Their Defense: 47.0625
+
+20211026_07:35:50 We can win this one! Gonna attempt to fight Karpet 4...
+20211026_07:35:50 Our rounds: 20.8418691839057  | Their rounds: 1.8235569671038
+20211026_07:35:50 Our Combat Power: 1459.65383333333  | Their Combat Power: 690.433
+20211026_07:35:50 Our Life: 259.429166666667  | Their Life: 135.6
+20211026_07:35:50 Our Defense: 28.3725  | Their Defense: 11.62
+
+20211026_07:35:50 We would definitely lose this one to Ang19....
+20211026_07:35:50 Our rounds: 3.6983643871679  | Their rounds: 9.54354491961663
+20211026_07:35:50 Our Combat Power: 1459.65383333333  | Their Combat Power: 1885.0715
+20211026_07:35:50 Our Life: 259.429166666667  | Their Life: 371.4125
+20211026_07:35:50 Our Defense: 28.3725  | Their Defense: 47.0625
+
+20211026_07:36:15 We can win this one! Gonna attempt to fight Rakford...
+20211026_07:36:15 Our rounds: 39.2925659472422  | Their rounds: 2.72327054318119
+20211026_07:36:15 Our Combat Power: 1459.65383333333  | Their Combat Power: 730.642
+20211026_07:36:15 Our Life: 259.429166666667  | Their Life: 194.133333333333
+20211026_07:36:15 Our Defense: 28.3725  | Their Defense: 14.6933333333333
+
+20211026_07:36:15 We would definitely lose this one to Ang19....
+20211026_07:36:15 Our rounds: 3.6983643871679  | Their rounds: 9.54354491961663
+20211026_07:36:15 Our Combat Power: 1459.65383333333  | Their Combat Power: 1885.0715
+20211026_07:36:15 Our Life: 259.429166666667  | Their Life: 371.4125
+20211026_07:36:15 Our Defense: 28.3725  | Their Defense: 47.0625
+
+20211026_07:36:15 We would definitely lose this one to JijiTheGreat....
+20211026_07:36:15 Our rounds: 0.973467661913563  | Their rounds: -102.79664842606
+20211026_07:36:15 Our Combat Power: 1459.65383333333  | Their Combat Power: 4807.83008914286
+20211026_07:36:15 Our Life: 259.429166666667  | Their Life: 778.025
+20211026_07:36:15 Our Defense: 28.3725  | Their Defense: 93.54875
+
+20211026_07:36:15 We would definitely lose this one to VNHunter....
+20211026_07:36:15 Our rounds: 1.28304040784954  | Their rounds: -31.9260184906795
+20211026_07:36:15 Our Combat Power: 1459.65383333333  | Their Combat Power: 4855.22001
+20211026_07:36:15 Our Life: 259.429166666667  | Their Life: 1132.65
+20211026_07:36:15 Our Defense: 28.3725  | Their Defense: 121.4575
+
+20211026_07:36:23 We can win this one! Gonna attempt to fight NC-01...
+20211026_07:36:23 Our rounds: 19.5145113771704  | Their rounds: 1.93281949869678
+20211026_07:36:23 Our Combat Power: 1459.65383333333  | Their Combat Power: 731.691333333333
+20211026_07:36:23 Our Life: 259.429166666667  | Their Life: 138.3
+20211026_07:36:23 Our Defense: 28.3725  | Their Defense: 14.4266666666667
+
+20211026_08:26:25 Our rounds: 3.67091637600258  | Their rounds: 6.20768669930216
+20211026_08:26:25 Our Combat Power: 1459.65383333333  | Their Combat Power: 1714.009
+20211026_08:26:25 Our Life: 259.429166666667  | Their Life: 307.933333333333
+20211026_08:26:25 Our Defense: 28.3725  | Their Defense: 36.375
+20211026_08:26:25 We would definitely lose this one to favioio....
+
+20211026_08:26:32 Our rounds: 3.67091637600258  | Their rounds: 6.20768669930216
+20211026_08:26:32 Our Combat Power: 1459.65383333333  | Their Combat Power: 1714.009
+20211026_08:26:32 Our Life: 259.429166666667  | Their Life: 307.933333333333
+20211026_08:26:32 Our Defense: 28.3725  | Their Defense: 36.375
+20211026_08:26:32 We would definitely lose this one to favioio....
+

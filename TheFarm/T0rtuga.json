@@ -1,0 +1,63 @@
+{
+  "id": 222522,
+  "owner": "0x334bd42d4fd5b65493564faaeadf62f090248f98",
+  "nickname": "T0rtuga",
+  "score": 84,
+  "attackCards": [
+    {
+      "owner": "0x334bd42d4fd5b65493564faaeadf62f090248f98",
+      "nftId": 592828,
+      "rarity": 3,
+      "level": 1,
+      "teamId": 30,
+      "computingPower": 4
+    },
+    {
+      "owner": "0x334bd42d4fd5b65493564faaeadf62f090248f98",
+      "nftId": 592835,
+      "rarity": 2,
+      "level": 1,
+      "teamId": 38,
+      "computingPower": 2
+    },
+    {
+      "owner": "0x334bd42d4fd5b65493564faaeadf62f090248f98",
+      "nftId": 592845,
+      "rarity": 2,
+      "level": 1,
+      "teamId": 21,
+      "computingPower": 2
+    }
+  ],
+  "defenseCards": [
+    {
+      "owner": "0x334bd42d4fd5b65493564faaeadf62f090248f98",
+      "nftId": 592828,
+      "rarity": 3,
+      "level": 1,
+      "teamId": 30,
+      "computingPower": 4
+    },
+    {
+      "owner": "0x334bd42d4fd5b65493564faaeadf62f090248f98",
+      "nftId": 592835,
+      "rarity": 2,
+      "level": 1,
+      "teamId": 38,
+      "computingPower": 2
+    },
+    {
+      "owner": "0x334bd42d4fd5b65493564faaeadf62f090248f98",
+      "nftId": 592845,
+      "rarity": 2,
+      "level": 1,
+      "teamId": 21,
+      "computingPower": 2
+    }
+  ],
+  "attackCardsCount": 3,
+  "defenseCardsCount": 3,
+  "combatAt": "2021-10-30",
+  "createdAt": "2021-10-29 09:33:02",
+  "updatedAt": "2021-10-29 11:08:54"
+}

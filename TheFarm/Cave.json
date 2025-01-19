@@ -1,0 +1,64 @@
+{
+  "id": 50793,
+  "owner": "0xdda45ef11ead39c110b40f1d02443ce72c389715",
+  "nickname": "Cave",
+  "score": 100,
+  "attackCards": [
+    {
+      "owner": "0xdda45ef11ead39c110b40f1d02443ce72c389715",
+      "nftId": 626682,
+      "rarity": 2,
+      "level": 1,
+      "teamId": 21,
+      "computingPower": 2
+    },
+    {
+      "owner": "0xdda45ef11ead39c110b40f1d02443ce72c389715",
+      "nftId": 626620,
+      "rarity": 1,
+      "level": 1,
+      "teamId": 20,
+      "computingPower": 1
+    },
+    {
+      "owner": "0xdda45ef11ead39c110b40f1d02443ce72c389715",
+      "nftId": 626664,
+      "rarity": 1,
+      "level": 1,
+      "teamId": 22,
+      "computingPower": 1
+    }
+  ],
+  "defenseCards": [
+    {
+      "owner": "0xdda45ef11ead39c110b40f1d02443ce72c389715",
+      "nftId": 626682,
+      "rarity": 2,
+      "level": 1,
+      "teamId": 21,
+      "computingPower": 2
+    },
+    {
+      "owner": "0xdda45ef11ead39c110b40f1d02443ce72c389715",
+      "nftId": 626620,
+      "rarity": 1,
+      "level": 1,
+      "teamId": 20,
+      "computingPower": 1
+    },
+    {
+      "owner": "0xdda45ef11ead39c110b40f1d02443ce72c389715",
+      "nftId": 626664,
+      "rarity": 1,
+      "level": 1,
+      "teamId": 22,
+      "computingPower": 1
+    }
+  ],
+  "attackCardsCount": 3,
+  "defenseCardsCount": 3,
+  "combatAt": "2021-11-05",
+  "createdAt": "2021-11-04 09:30:00",
+  "updatedAt": "2021-11-04 09:30:00",
+  "ranking": 35
+}

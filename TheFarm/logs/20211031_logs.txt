@@ -1,0 +1,48 @@
+20211031_03:46:42 Our rounds: 4.88941378569895  | Their rounds: 6.29892303651169
+20211031_03:46:42 Our Combat Power: 744.648666666667  | Their Combat Power: 804.495333333333
+20211031_03:46:42 Our Life: 151.8  | Their Life: 159.866666666667
+20211031_03:46:42 Our Defense: 12.8266666666667  | Their Defense: 17.24
+20211031_03:46:42 We would definitely lose this one to Ecaud....
+
+20211031_03:46:43 Our rounds: 4.96836133536984  | Their rounds: 9.29328621908127
+20211031_03:46:43 Our Combat Power: 744.648666666667  | Their Combat Power: 894.118
+20211031_03:46:43 Our Life: 151.8  | Their Life: 210.4
+20211031_03:46:43 Our Defense: 12.8266666666667  | Their Defense: 19.98
+20211031_03:46:43 We would definitely lose this one to Belar....
+
+20211031_03:46:44 Our rounds: 4.39066718087158  | Their rounds: 13.4673076923077
+20211031_03:46:44 Our Combat Power: 744.648666666667  | Their Combat Power: 1008.00966666667
+20211031_03:46:44 Our Life: 151.8  | Their Life: 233.433333333333
+20211031_03:46:44 Our Defense: 12.8266666666667  | Their Defense: 25.2866666666667
+20211031_03:46:44 We would definitely lose this one to Dkib....
+
+20211031_03:46:46 Our rounds: 5.64452156668319  | Their rounds: 5.53469387755102
+20211031_03:46:46 Our Combat Power: 744.648666666667  | Their Combat Power: 746.163
+20211031_03:46:46 Our Life: 151.8  | Their Life: 135.6
+20211031_03:46:46 Our Defense: 12.8266666666667  | Their Defense: 18.12
+20211031_03:46:46 We would definitely lose this one to the northern....
+
+20211031_03:46:46 Our rounds: 4.12574741801051  | Their rounds: 3.6
+20211031_03:46:46 Our Combat Power: 744.648666666667  | Their Combat Power: 738.963
+20211031_03:46:46 Our Life: 151.8  | Their Life: 120.6
+20211031_03:46:46 Our Defense: 12.8266666666667  | Their Defense: 9.12
+20211031_03:46:46 We would definitely lose this one to emen....
+
+20211031_03:46:47 Our rounds: 5.31822959243256  | Their rounds: 4.8
+20211031_03:46:47 Our Combat Power: 744.648666666667  | Their Combat Power: 720.903
+20211031_03:46:47 Our Life: 151.8  | Their Life: 135.6
+20211031_03:46:47 Our Defense: 12.8266666666667  | Their Defense: 14.37
+20211031_03:46:47 We would definitely lose this one to tican cit....
+
+20211031_03:46:48 Our rounds: 6.43402090986154  | Their rounds: 5.19649122807018
+20211031_03:46:48 Our Combat Power: 744.648666666667  | Their Combat Power: 679.503
+20211031_03:46:48 Our Life: 151.8  | Their Life: 148.1
+20211031_03:46:48 Our Defense: 12.8266666666667  | Their Defense: 14.12
+20211031_03:46:48 We would definitely lose this one to venez....
+
+20211031_03:46:49 Our rounds: 6.58758860118617  | Their rounds: 5.26129032258065
+20211031_03:46:49 Our Combat Power: 744.648666666667  | Their Combat Power: 667.973
+20211031_03:46:49 Our Life: 151.8  | Their Life: 163.1
+20211031_03:46:49 Our Defense: 12.8266666666667  | Their Defense: 11.62
+20211031_03:46:49 We would definitely lose this one to guay....
+
